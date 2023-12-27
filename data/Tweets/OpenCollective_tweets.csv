@@ -1,0 +1,405 @@
+Tweet_Url,Language,Time,Tweet_Text,# Retweet,# Replys,# Likes,Links,GH_Link_Type
+https://twitter.com/twitter/status/1254620310411915266,English,2020-04-27 03:56:06+00:00,"Our Kubernetes scheduler (https://t.co/2Obkvt4uw7) has received some love recently!
+
+- Nginx Ingress support
+- Letsencrypt via CertManager
+- Pod Disruption Budgets support
+- Nvidia GPU support
+
+Like what you see? Donate on https://t.co/vvTRlLtYnb or https://t.co/w2zapXGfu3",1,0,7,"https://github.com/dokku/dokku-scheduler-kubernetes, https://www.patreon.com/dokku, https://opencollective.com/dokku",repository
+https://twitter.com/twitter/status/1252598500942118915,English,2020-04-21 14:02:09+00:00,"Browserslist 4.12 was released. @yepninja added environments support to shared configs like browserslist-config-mycompany.
+https://t.co/idHbeJhK0R
+
+Help us support the industry-standard project with 85M downloads per month.
+https://t.co/U65nXe4WiH https://t.co/pJXmUIbQEQ",4,0,9,"https://github.com/browserslist/browserslist/pull/474, https://opencollective.com/browserslist, https://twitter.com/Browserslist/status/1252598500942118915/video/1",pull
+https://twitter.com/twitter/status/1243242505476456449,English,2020-03-26 18:24:46+00:00,"open source software from @opencollect for donations and transparent community money management https://t.co/GeLsqsxB4w - our local covid19 mutual aid group is going to use it (fiscally hosted by @SocialChangeAg)
+i think this is the github https://t.co/3WMJ8JUnOl",4,0,5,"https://opencollective.com/, https://github.com/opencollective",profile
+https://twitter.com/twitter/status/1242529963984728067,English,2020-03-24 19:13:23+00:00,"RT Autoprefixer: Autoprefixer 9.7.5 was released with `width: stretch` fix for Safari
+https://t.co/U9SbyGbJMC
+
+Donate to help PostCSS and Autoprefixert. Tell your manager, that the company business depends on us.
+https://t.co/hBu2WAxc0e … https://t.co/wLYGvpcScW",0,0,0,"https://github.com/postcss/autoprefixer/issues/1294, https://opencollective.com/postcss/, https://twitter.com/PostCSS/status/1242527634908688386",issues
+https://twitter.com/twitter/status/1242526862233960450,English,2020-03-24 19:01:03+00:00,"Autoprefixer 9.7.5 was released with `width: stretch` fix for Safari
+https://t.co/cXD1LVQobV
+
+Donate to help PostCSS and Autoprefixert. Tell your manager, that the company business depends on us.
+https://t.co/J4kBhLGgR7 https://t.co/12n6OkZKOP",6,0,11,"https://github.com/postcss/autoprefixer/issues/1294, https://opencollective.com/postcss/, https://twitter.com/Autoprefixer/status/1242526862233960450/photo/1",issues
+https://twitter.com/twitter/status/1242092108711747586,English,2020-03-23 14:13:30+00:00,"Some people start to create new projects to help #COVIDー19 research, but I suggest to help (with donation or code) already established projects:
+BioJulia, donate: https://t.co/y9mS9pFCBP code: https://t.co/BqYyWPdlwt",4,1,6,"https://opencollective.com/biojulia, https://github.com/BioJulia",profile
+https://twitter.com/twitter/status/1241493047201935365,English,2020-03-21 22:33:02+00:00,"We’ve released Dokku 0.20, with support for custom docker networks, proxying non-web processes, and much more! See https://t.co/l25I8AKMNF for a full list changes.
+
+Like what you see? Donate to us via Patreon or OpenCollective:
+
+- https://t.co/w2zapXGfu3
+- https://t.co/vvTRlLtYnb",6,0,16,"https://github.com/dokku/dokku/releases/tag/v0.20.0, https://opencollective.com/dokku, https://www.patreon.com/dokku",releases
+https://twitter.com/twitter/status/1241000803839684608,English,2020-03-20 13:57:02+00:00,"I've just donated to @thesamdd #gqless ""A #GraphQL client without queries ✨"" via @opencollect. Consider donating too, every little helps!
+
+🦄 https://t.co/BJfnnpmpEm
+🌈 https://t.co/ByZuInqCHk
+https://t.co/BJfnnpmpEm",1,0,3,"https://opencollective.com/gqless, https://github.com/samdenty/gqless, https://opencollective.com/gqless",repository
+https://twitter.com/twitter/status/1239580843137531906,English,2020-03-16 15:54:37+00:00,"DIM will soon have our own server to sync your Loadouts and tags between devices. This was made possible with the support from our backers who contribute monthly at https://t.co/omCbbuNhHn. 
+
+If you're a dev, have a look at this PR &amp; leave a comment. https://t.co/oVMyxykNvl https://t.co/ZHABZDGlXk",10,6,122,"https://opencollective.com/dim, https://github.com/DestinyItemManager/DIM/pull/5003, https://twitter.com/ThisIsDIM/status/1239580843137531906/photo/1, https://twitter.com/ThisIsDIM/status/1239580843137531906/photo/1",pull
+https://twitter.com/twitter/status/1238844309253681152,English,2020-03-14 15:07:54+00:00,"Estás instalando como un campeón y quedás 👀
+
+The project needs your help! Please consider supporting of core-js on Open Collective or Patreon:
+&gt; https://t.co/SqaAkvMExH
+&gt; https://t.co/QPxj1QKFcx
+
+Also, the author of core-js ( https://t.co/SuWzxBeD0u ) is looking for a good job )",1,0,0,"https://opencollective.com/core-js, https://www.patreon.com/zloirock, https://github.com/zloirock",profile
+https://twitter.com/twitter/status/1236789371954532353,English,2020-03-08 23:02:19+00:00,"Self-Defined is an OSS dictionary maintained by @TatianaTMac.
+
+Ways to help:
+🤲🏽 Contribute by writing terms/documentarion or coding:
+https://t.co/JdvMwzAp0L
+
+💰 Support
+https://t.co/sNiYlLjXxe
+
+📚 Read and share the MVP
+https://t.co/Ss5BPSlHuO",4,1,17,"https://github.com/tatianamac/selfdefined/blob/master/CONTRIBUTING.md, http://opencollective.com/selfdefined, http://selfdefined.app",file
+https://twitter.com/twitter/status/1230554682197762048,English,2020-02-20 18:07:53+00:00,"Release v0.4.4 is out 👉 https://t.co/4uya0cx9JB
+
+Also, checkout the new WooGraphQL Docs 👉 https://t.co/X4BhM76FfH. Yeah, it needs work 🤷‍♂️.
+
+We're now on OpenCollective too 👉https://t.co/JOR6eHTh6l",2,2,15,"https://github.com/wp-graphql/wp-graphql-woocommerce/releases/tag/v0.4.4, https://woographql.axistaylor.com, https://opencollective.com/woographql",releases
+https://twitter.com/twitter/status/1228801423510507522,English,2020-02-15 22:01:04+00:00,"I've just donated $25 to Yew https://t.co/tuB8MAuREa. Consider donating too, every little helps! https://t.co/kOqxu0UrIj via @opencollect",0,0,0,"http://github.com/yewstack/yew, https://opencollective.com/yew",repository
+https://twitter.com/twitter/status/1226239872345624576,English,2020-02-08 20:22:22+00:00,"I've just donated $5 to wenyan-lang for the second time.
+GitHub：https://t.co/2brBHPqOJs
+https://t.co/woXnnzywCU via @opencollect",0,0,0,"https://github.com/wenyan-lang/wenyan, https://opencollective.com/wenyan-lang",repository
+https://twitter.com/twitter/status/1225499707373387780,English,2020-02-06 19:21:13+00:00,"Next PostCSS 8.0 release will allow you to use RollupJS to put PostCSS into a client-side bundle. mapgridorg fixed circular dependencies problem.
+https://t.co/zOg4KTEyvJ
+
+Fund as on opencollect to get PostCSS 8.0 earlier.
+https://t.co/hBu2WAxc0e … https://t.co/6WcJnniUcW",0,0,0,"https://github.com/postcss/postcss/pull/1321, https://opencollective.com/postcss/, https://twitter.com/PostCSS/status/1225494683385810944",pull
+https://twitter.com/twitter/status/1225494683385810944,English,2020-02-06 19:01:15+00:00,"Next PostCSS 8.0 release will allow you to use @RollupJS to put PostCSS into a client-side bundle. @mapgridorg fixed circular dependencies problem.
+https://t.co/yX4KJGgjny
+
+Fund as on @opencollect to get PostCSS 8.0 earlier.
+https://t.co/fvkP6xKOL9 https://t.co/bjjeu1aQEG",4,0,6,"https://github.com/postcss/postcss/pull/1321, https://opencollective.com/postcss/, https://twitter.com/PostCSS/status/1225494683385810944/photo/1",pull
+https://twitter.com/twitter/status/1222942828260622342,English,2020-01-30 18:01:06+00:00,"Browserslist 4.8.6 was released with “Unknown version 10 of op_mob” error fix for some @babeljs configs.
+
+https://t.co/bleiezTq2L
+
+If you like how fast we are fixing issues (just 9 hours this time) or our hedgehogs GIFs, fund our security refactoring
+https://t.co/U65nXe4WiH https://t.co/0OALdbIxTW",5,0,12,"https://github.com/browserslist/browserslist/issues/443, https://opencollective.com/browserslist, https://twitter.com/Browserslist/status/1222942828260622342/video/1",issues
+https://twitter.com/twitter/status/1222517759537446912,English,2020-01-29 13:52:01+00:00,"I absolutely love Eleventy (https://t.co/W3rnYHL38d). It enables me to make so many things.
+
+Please, if you can, support it:
+
+Become an Open Collective backer (like me): https://t.co/R1XzAJbTIt
+
+Smash the star button on GitHub: https://t.co/QicVHsUKIt
+
+https://t.co/9aypSkGa8d",4,1,20,"https://11ty.dev, https://opencollective.com/11ty, https://github.com/11ty/eleventy, https://microblog.hankchizljaw.com/1580305404/",repository
+https://twitter.com/twitter/status/1222485545470889984,English,2020-01-29 11:44:01+00:00,"#CASL is now on @opencollect: https://t.co/z37J3i5QHL. Support us to build more features.
+
+Here is more details about what is #CASL: https://t.co/d3L9cZSZeP and why it needs some budget - https://t.co/bG6ZlV33hQ",0,0,2,"https://opencollective.com/casljs, https://stalniy.github.io/casl/, https://github.com/stalniy/casl/blob/master/BACKERS.md",file
+https://twitter.com/twitter/status/1219725386340347905,English,2020-01-21 20:56:08+00:00,"Browserslist 4.8.5 was released with another fix for `last n versions` for new Can I Use data.
+https://t.co/ANXgRVfN2k
+
+Here is our @opencollect if you like how fast we fix issues and respond to the questions from the community
+https://t.co/U65nXe4WiH https://t.co/Ych2yIIqMA",7,0,7,"https://github.com/browserslist/browserslist/issues/439, https://opencollective.com/browserslist, https://twitter.com/Browserslist/status/1219725386340347905/video/1",issues
+https://twitter.com/twitter/status/1210008312801968128,English,2019-12-26 01:23:57+00:00,Hi @Saurein thanks for your financial contribution to https://t.co/C0jcNrop0A https://t.co/llTRCto7D8 🎉😊,0,0,1,"https://github.com/acmesh-official/acme.sh, https://opencollective.com/acmesh",repository
+https://twitter.com/twitter/status/1209632725319110656,English,2019-12-25 00:31:30+00:00,"styled-components v5 will use funding field instead of postinstall!👏 Thank you!!!
+https://t.co/akW0QkySij
+
+Their OpenCollective is here🚀 
+https://t.co/hZlbuGdVyK",3,0,16,"https://github.com/styled-components/styled-components/pull/2931, https://opencollective.com/styled-components",pull
+https://twitter.com/twitter/status/1206950709817679876,English,2019-12-17 14:54:07+00:00,"🎉 https://t.co/j11PnkrAuZ just reached 10 backers! Thank you @ewwwio, @RonLiOfficial, @PeterDaveHello, +7 🙌  Support them too!
+https://t.co/ejPQoJE4zH",0,1,4,"https://github.com/acmesh-official/acme.sh, https://opencollective.com//acmesh",repository
+https://twitter.com/twitter/status/1201464367872536578,English,2019-12-02 11:33:22+00:00,"DocSpring uses OpenAPI Generator to generate our API client libraries. We have an OpenAPI (Swagger) specification which we generate with the rswag gem (https://t.co/fv7yqKrNlK). 
+
+So we've also decided to support the OpenAPI Generator team on @OpenCollect: https://t.co/eDXsI6ZXAa",3,0,4,"https://github.com/rswag/rswag, https://opencollective.com/openapi_generator",repository
+https://twitter.com/twitter/status/1199679923708944384,English,2019-11-27 13:22:37+00:00,"💸Wow, I've got first money from the Open Source (https://t.co/xEdM8T3VmE), let me quote:
+""This + Goldeneye + Marten has been a lifesaver in learning how to understand and implement CQRS/ES. Thanks!""
+https://t.co/KOsdmjnYHC
+😊 Such a great feeling! Thank you, Adam! https://t.co/sQj32msDfT",1,0,7,"https://github.com/oskardudycz/EventSourcing.NetCore, https://opencollective.com/eventsourcingnetcore#section-contributors, https://twitter.com/oskar_at_net/status/1199679923708944384/photo/1",repository
+https://twitter.com/twitter/status/1195663014386487298,English,2019-11-16 11:20:51+00:00,Hi @RonLiOfficial thanks for your donation to https://t.co/C0jcNrop0A https://t.co/llTRCto7D8 🎉😊,0,0,2,"https://github.com/acmesh-official/acme.sh, https://opencollective.com/acmesh",repository
+https://twitter.com/twitter/status/1189650056175128576,English,2019-10-30 21:07:30+00:00,"Just released #immer 5.0, with a long awaited feature: First class support for Map✅and Set ✅🤩!
+
+Big shoutout to @AndreyBoldyrev4(?) @ai_goncharov and @alecdotbiz for making it happen!👏👏👏
+
+https://t.co/yn68pKBXb1
+
+P.S. Fan? 👉https://t.co/T1zJL9oifH https://t.co/p4elONgRqt",30,2,137,"https://github.com/immerjs/immer/commit/b6f1d409800fc7074a10f6c2530ee21fc803dd1b, https://opencollective.com/immer, https://twitter.com/mweststrate/status/1189650056175128576/photo/1",commit
+https://twitter.com/twitter/status/1186977146318835712,English,2019-10-23 12:06:19+00:00,We are trying to become an open collective https://t.co/DCst3iVIH4 and we need a few more GitHub Stars (100+) on our repos to do that. Leave a star ⭐️ if you want to help and spread the word  https://t.co/yQ6QV9DgL9,5,0,5,"https://opencollective.com, https://github.com/criticalmaps/criticalmaps-android",repository
+https://twitter.com/twitter/status/1182870107153764354,English,2019-10-12 04:06:24+00:00,Hi @ewwwio thanks for your donation to https://t.co/C0jcNrop0A https://t.co/llTRCto7D8 🎉😊,0,0,2,"https://github.com/acmesh-official/acme.sh, https://opencollective.com/acmesh",repository
+https://twitter.com/twitter/status/1181048296867020800,English,2019-10-07 03:27:11+00:00,"RT Autoprefixer: Autoprefixer 9.6.4 was released with the error fix.
+https://t.co/6FoEL6d9wh
+
+About an hour between issue report and fix release. We are planning to open opencollect soon to sustain this support level.
+https://t.co/hBu2WAxc0e
+
+Release k… https://t.co/JgiiZSC41E",0,0,0,"https://github.com/postcss/autoprefixer/issues/1252, https://opencollective.com/postcss/, https://twitter.com/PostCSS/status/1181047208218640386",issues
+https://twitter.com/twitter/status/1180936017014149120,English,2019-10-06 20:01:01+00:00,"Autoprefixer 9.6.4 was released with the error fix.
+https://t.co/Ykgz9Bs6Vb
+
+About an hour between issue report and fix release. We are planning to open @opencollect soon to sustain this support level.
+https://t.co/J4kBhLGgR7
+
+Release knight by https://t.co/d2ztobQTie https://t.co/6MrL24hN1j",5,0,4,"https://github.com/postcss/autoprefixer/issues/1252, https://opencollective.com/postcss/, https://www.instagram.com/aw.anqi, https://twitter.com/Autoprefixer/status/1180936017014149120/photo/1",issues
+https://twitter.com/twitter/status/1180473196740411392,English,2019-10-05 13:21:56+00:00,Hi @PeterDaveHello thanks for your donation to https://t.co/C0jcNrop0A https://t.co/llTRCto7D8 🎉😊,0,1,1,"https://github.com/acmesh-official/acme.sh, https://opencollective.com/acmesh",repository
+https://twitter.com/twitter/status/1171101763958689797,English,2019-09-09 16:43:13+00:00,"I like to thank you all for helping me reach 100 ⭐️ stars for @cart_co on GitHub. 🙏
+
+https://t.co/RoXHdugDlW
+
+I have now created a @opencollect page: https://t.co/ZuddxARyrh
+
+Thank you very much for your support.",0,0,2,"https://github.com/co-cart/co-cart, https://opencollective.com/cocart",repository
+https://twitter.com/twitter/status/1159396451056676864,English,2019-08-08 09:30:29+00:00,"I just released Osmedeus v1.5 with new Report mode for easily view result from command line, new UI powered by @_carbondesign and sponsor link(https://t.co/n0S1tDCp3O) for anyone want to support me.
+https://t.co/e2meIKZllv
+
+#Osmedeus #pentesting #hacking #recon #OSINT https://t.co/kPwTq9tMTB",5,0,15,"https://opencollective.com/osmedeus, http://github.com/j3ssie/Osmedeus, https://twitter.com/j3ssiejjj/status/1159396451056676864/photo/1",repository
+https://twitter.com/twitter/status/1155473416566128641,English,2019-07-28 13:41:44+00:00,"runs npm install
+🤯
+The project needs your help! Please consider supporting of core-js on Open Collective or Patreon: 
+&gt; https://t.co/vsqx5kAJYI 
+&gt; https://t.co/p6njfIoGc8 
+Also, the author of core-js ( https://t.co/LAe2Pj9Ann ) is looking for a good job -) 
+#npm #nodejs #js https://t.co/C0MkXepaFD",0,0,1,"https://opencollective.com/core-js, https://www.patreon.com/zloirock, https://github.com/zloirock, https://twitter.com/jdc91xt/status/1155473416566128641/photo/1",profile
+https://twitter.com/twitter/status/1154405446834372608,English,2019-07-25 14:58:00+00:00,"How we do transparency at Open Collective (@opencollect):
+
+All our financials, metrics and transactions are in open data on our public drive:
+https://t.co/FunfpYnVFn
+
+Our code is open source (MIT license):
+https://t.co/JGVrYe8aSk
+
+Our terms sheets:
+https://t.co/DQ7GxOY5GF",4,0,9,"http://drive.opencollective.com, http://github.com/opencollective, https://docs.opencollective.com/help/about/investors",profile
+https://twitter.com/twitter/status/1153875459811110912,English,2019-07-24 03:52:02+00:00,Thank you Jeremiah Gowdy (https://t.co/lOfOkObIsj) from @GoDaddy for the financial support to #OpenAPI #Generator (https://t.co/WpYCuGLp1u) and many other #OpenSource projects via @opencollect,4,0,8,"https://github.com/jgowdy, https://opencollective.com/openapi_generator",profile
+https://twitter.com/twitter/status/1149686571760783360,English,2019-07-12 14:26:53+00:00,"What the hell some NPM packages give a lot of advertising in console now
+
+#npm
+
+...supporting of core-js on Open Collective or Patreon: 
+ https://t.co/rKdf37fsMm 
+ https://t.co/BuSPzg5RcI 
+Also, the author of core-js ( https://t.co/s2ARkudrdS ) is looking for a good job -)",0,0,1,"https://opencollective.com/core-js, https://www.patreon.com/zloirock, https://github.com/zloirock",profile
+https://twitter.com/twitter/status/1138005861664641024,English,2019-06-10 08:51:55+00:00,"Just made a small donation to core-js. This issue about postinstall logs is outright rude and detrimental to open source. 
+
+https://t.co/QBxII32ijR
+
+You can support core-js on Open Collective and Patreon
+https://t.co/DHFrvDZt6r
+https://t.co/uVdvHmL0pI",0,0,3,"https://github.com/zloirock/core-js/issues/548, https://opencollective.com/core-js, https://www.patreon.com/zloirock",issues
+https://twitter.com/twitter/status/1133030096070070277,English,2019-05-27 15:20:00+00:00,"If you're a business and you can afford to do so, you should definitely consider sponsoring your team's open tech stacks.
+
+If you need help with that, let me know.
+
+https://t.co/qA3ie1hB3e
+https://t.co/cO45R0ygVB",0,0,2,"https://github.com/sponsors, https://opencollective.com/",profile
+https://twitter.com/twitter/status/1377492433970286593,English,2021-04-01 05:26:03+00:00,"New month, new #10ForOpenSource! This time @pmndrs . https://t.co/ZsPaRj1hhc
+
+The people behind @pmndrs are amazing and maintain many cool libs like https://t.co/bFYhSSyncV. I rarely used any of their projects so far however, because my current projects rarely needed something... https://t.co/mRdxrGIR16",0,1,0,"https://opencollective.com/pmndrs, https://github.com/pmndrs/react-three-fiber, https://twitter.com/PipoPeperoni/status/1366254537896558592",repository
+https://twitter.com/twitter/status/1373994504085254144,English,2021-03-22 13:46:32+00:00,Amazed &amp; encouraged by a recent uptick in support for https://t.co/6dyAWIcp1E No matter what the amount it's a sign and signal to keep up the good fight. Work with us @danielchowe on Github https://t.co/WaDVLQHUaI! or back us via https://t.co/DwQ3OjsDTL Heartened &amp; grateful.,10,1,24,"https://adnauseam.io/, https://github.com/dhowe/AdNauseam/wiki/Developer-FAQ, https://opencollective.com/adnauseam",wiki
+https://twitter.com/twitter/status/1371384935051751425,English,2021-03-15 08:57:02+00:00,"For our project can go further, I created an open collective for [windicss](https://t.co/eRRkLSqx4Q). Do you want to be our first sponsor? Don’t miss the chance~
+
+https://t.co/91igsXlPR8",5,1,25,"https://github.com/windicss/windicss, https://opencollective.com/windicss",repository
+https://twitter.com/twitter/status/1368906548320337921,English,2021-03-08 12:48:48+00:00,"🥳 @alexbaumgertner donated to SVGO. Thank you!
+
+https://t.co/Gms7sMWdFX
+https://t.co/96xA1SUOkd https://t.co/uF0A4bXzPk",0,0,7,"https://opencollective.com/svgo, https://github.com/svg/svgo, https://twitter.com/IAmTrySound/status/1368906548320337921/photo/1",repository
+https://twitter.com/twitter/status/1367237600738750467,English,2021-03-03 22:17:00+00:00,"Recommended Read: athensresearch/athens: Desktop app links: https://t.co/FgEKKLtmc2, https://t.co/rBCnQB7Wmw, https://t.co/KHO8p4hN9t; paid tiers available through https://t.co/IlVvQUSx0v; try the demo at https://t.co/SC6JxObjdl https://t.co/ak4J6Tf0kU #devopsish",0,0,0,"https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux, https://opencollective.com/athens, https://athensresearch.github.io/athens, https://github.com/athensresearch/athens?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily",repository
+https://twitter.com/twitter/status/1364635642462953473,English,2021-02-24 17:57:45+00:00,I want everyone who wants to colloberate on a github-project to visit https://t.co/M3S52Vy7d2 and https://t.co/DJU5tRwZIt. If anyone wants to sponsor a project I will be glad if you visit my adresses.,0,0,0,"http://www.github.com/agoras, http://opencollective.com/limasol",profile
+https://twitter.com/twitter/status/1357334402825478145,English,2021-02-04 14:25:14+00:00,"I'm really proud to say @batch now donates to the open source projects it uses! 🥳
+
+https://t.co/3YLW2Yvc0M
+https://t.co/GBuk8LdhDI",2,0,9,"https://github.com/orgs/BatchLabs/sponsoring, https://opencollective.com/batch",sponsoring
+https://twitter.com/twitter/status/1354110649513644032,English,2021-01-26 16:55:11+00:00,"Hi Everyone! We are moving LifeScope to OpenCollective! (https://t.co/BK5BBhvPkA)   
+
+Help us get foundation certification by adding a star to our GitHub server repo! https://t.co/i8i18HfX9e
+
+Plz share! #SSI #Data #Privacy #Trust",4,0,10,"https://opencollective.com/lifescope, https://github.com/LifeScopeLabs/lifescope-api",repository
+https://twitter.com/twitter/status/1354107267461783553,English,2021-01-26 16:41:45+00:00,"Hi Everyone! We are moving XR3 to OpenCollective! (https://t.co/sK59QvZDIl) 
+
+Help us get foundation certification by adding a star to our GitHub! https://t.co/KAe0itv0Vz
+
+Plz share! #3d #augmentedreality #web #VirtualReality #WebXR #VR #AR #XR",6,0,13,"https://opencollective.com/xrengine, https://github.com/xr3ngine/xr3ngine",repository
+https://twitter.com/twitter/status/1348468970333106179,English,2021-01-11 03:17:10+00:00,"PyGAD 2.10.1 released with some minor changes.
+
+Documentation: https://t.co/pCyHteNEmi
+GitHub: https://t.co/L0ryFlpmHS
+
+Donation:
+1) PayPal: Use either this link: https://t.co/UybvamRP1F or the email address: ahmed.f.gad@gmail.com
+2) Open Collective: https://t.co/1XQxFVXorT",1,1,1,"https://pygad.readthedocs.io, https://github.com/ahmedfgad/GeneticAlgorithmPython, https://paypal.me/ahmedfgad, https://opencollective.com/pygad",repository
+https://twitter.com/twitter/status/1346467151914258433,English,2021-01-05 14:42:39+00:00,"If you are interested in sponsoring development of hapi, there's exactly one place to go, and that is our new hapijs OpenCollective page! https://t.co/XkdFkta65d For more info check-out https://t.co/lNYkPkF3Qc
+
+🥂 Here's to a bright 2021",5,1,15,"https://opencollective.com/hapijs, https://github.com/hapijs/hapi/issues/4213",issues
+https://twitter.com/twitter/status/1331400689017303047,English,2020-11-25 00:53:55+00:00,"Should we add table view with more browser data to `npx browserslist`?
+
+https://t.co/ARcfqKNPks
+
+Support us on OpenCollective to see major release soon.
+https://t.co/U65nXe4WiH https://t.co/hmnoKTulf9",4,1,14,"https://github.com/browserslist/browserslist/issues/558, https://opencollective.com/browserslist, https://twitter.com/Browserslist/status/1331400689017303047/photo/1",issues
+https://twitter.com/twitter/status/1326100898821648389,English,2020-11-10 09:54:26+00:00,So @pr06lefs is continuing with https://t.co/HbX6Q6UDM0 and you can see an example PR at https://t.co/eJzI6My0Tg,0,0,1,"https://opencollective.com/nix-errors-enhancement, https://github.com/NixOS/nix/pull/4240",pull
+https://twitter.com/twitter/status/1325734423552143363,English,2020-11-09 09:38:12+00:00,"I've just donated to faker.js. Consider donating too, every little helps! https://t.co/EyDyeSqfJ7 via @opencollect 
+
+https://t.co/7hnngOVU3U",0,0,0,"https://opencollective.com/fakerjs, https://github.com/Marak/faker.js/issues/1046",issues
+https://twitter.com/twitter/status/1323257553279733765,English,2020-11-02 13:36:00+00:00,"Big thanks to Sector Labs for supporting Lingui project 🎉 https://t.co/Vt6obMBc4M
+
+If you’re company uses Lingui, don’t forget to add a link to the showroom https://t.co/cT0ckoLPE6
+
+Also, your support is appreciated 👍 https://t.co/LK9KsSl3fJ",0,0,0,"https://www.sectorlabs.ro, https://github.com/lingui/js-lingui/issues/451, https://opencollective.com/js-lingui",issues
+https://twitter.com/twitter/status/1318194848529289217,English,2020-10-19 14:18:37+00:00,"Happy Monday! 📦 urllib3 v1.25.11 is now available:
+
+– Fix for Retry-After header in the HTTP date format incorrectly using local timezone
+– Fix for if SSLKEYLOGFILE env var is the empty string
+
+📜 Changelog: https://t.co/rcM1jk7F1d
+💖 Support our Team: https://t.co/UC5uFXZsoZ",1,1,9,"https://github.com/urllib3/urllib3/blob/master/CHANGES.rst#12511-2020-10-19, https://opencollective.com/urllib3",file
+https://twitter.com/twitter/status/1315836679601762309,English,2020-10-13 02:08:06+00:00,Good First Issue https://t.co/s20ys20Kij #github,0,0,0,https://github.com/C28NGO37/https-opencollective.com-cassime-lingogh-pr-checkout-10509/issues/2,issues
+https://twitter.com/twitter/status/1313565452082319368,English,2020-10-06 19:43:03+00:00,"been a Backer of https://t.co/RQ8OrXW7eM
+on 
+@opencollect
+ for over a year. Relied on https://t.co/CVUx3Ct8GC for daily work. Did a search on 
+@IPFS
+ search for the word ""augment"" the first hit was our draft of a paper:
+https://t.co/yumESOrJjR
+It is a great. https://t.co/DZwZMFm707",0,0,0,"https://opencollective.com/ipfs-search, https://github.com/ipfs-shipyard/ipfs-desktop, https://gateway.ipfs.io/ipfs/QmZq3V7uG9KttYZ233fftFFSBxHfTi8XjoA3TpfVZpMF7o, https://twitter.com/TrailHub1/status/1313565452082319368/photo/1",repository
+https://twitter.com/twitter/status/1311049330980261899,English,2020-09-29 21:04:53+00:00,"🥜goober@2.0.6 is out! Boom! This one is off the charts! Thanks to the community(https://t.co/l1WXS1CfBo) I managed to add keyframes api support to 🥜goober!
+
+👉 Learn more at https://t.co/SKhNpx0fPQ
+
+🙏 goober would love your support https://t.co/KiFk3FD3sG
+
+#javascript #reactjs https://t.co/2PrrBCM8oz",10,1,14,"https://github.com/cristianbote/goober/issues/178, https://github.com/cristianbote/goober#keyframes, https://opencollective.com/goober, https://twitter.com/cristianbote_/status/1311049330980261899/photo/1","issues, repository"
+https://twitter.com/twitter/status/1306281000637329408,English,2020-09-16 17:17:14+00:00,"August was a big month for #Convene and @ZincCooperative! We tripled capacity and decided on a line of action towards being a space to be present, free and supported.
+
+https://t.co/BLwB1RhWCZ
+
+We're always looking for new contributors! https://t.co/2D6ocl2u8B",2,1,5,"https://opencollective.com/zinc-community/updates/august-2020-update, https://github.com/zinc-collective/convene/milestone/1",milestone
+https://twitter.com/twitter/status/1301849324746399745,English,2020-09-04 11:47:20+00:00,"Thank you @alfio_event
+for such a great work!
+
+💎 If you also want to support the project, you can do it here:
+https://t.co/jo1HDBvOLR
+
+🛠 If you prefer to contribute to the project, check out the repo: https://t.co/C5uKPzMTxd https://t.co/myD52sMtlM",4,0,10,"https://opencollective.com/alfio, https://github.com/alfio-event/alf.io, https://twitter.com/alfio_event/status/1301803846700851201",repository
+https://twitter.com/twitter/status/1297658463879864327,English,2020-08-23 22:14:21+00:00,"I figured I'd share this link  https://t.co/g2xqESD6w8 in regards to glTF 2.0 import plugin for #UE4, which seems to be still active and quite useful as alternative to FBX (I am not the author; just sharing). The project can be found here https://t.co/pkq7HNk3i6",0,0,2,"https://opencollective.com/gltfforue4, https://github.com/code4game/glTFForUE4",repository
+https://twitter.com/twitter/status/1276591339581267969,English,2020-06-26 19:01:07+00:00,"All my active ""hand-drawn"" projects are now under a new org https://t.co/FWqOUB9TFM 
+
+🎨 RoughJs (https://t.co/1VRZWZVFxy)
+✏️ RoughNotation (https://t.co/LmlYUOo28S)
+☑️ Wired-Elements (https://t.co/al44UJ7uzQ)
+
+You can support these on OpenCollective: https://t.co/SURY6uvFiP https://t.co/56UPhM4sZA",7,1,63,"https://github.com/rough-stuff, https://roughjs.com/, https://roughnotation.com/, https://wiredjs.com/, https://opencollective.com/rough, https://twitter.com/preetster/status/1276591339581267969/photo/1",profile
+https://twitter.com/twitter/status/1275615090537107456,English,2020-06-24 02:21:52+00:00,"I was always a fan of the Open Source movement, but nowadays I can see a great boost on how they get funded, mainly by initiatives as https://t.co/8qBrUO1cet, https://t.co/cjRQekpuKY and https://t.co/A5apiwdaIP. Traditional companies have a lot to learn with Open Source projects.",0,0,1,"https://opencollective.com/, https://salt.bountysource.com/, https://github.com/sponsors",profile
+https://twitter.com/twitter/status/1272999724195315712,English,2020-06-16 21:09:20+00:00,"If you use Unity and also happen to serialize / deserialize json often - look at this https://t.co/GEY1QYrNSO 
+Also consider donating if it saves you time. It definitely saved mine. https://t.co/p3uLDPtzTI",0,0,0,"https://github.com/jilleJr/Newtonsoft.Json-for-Unity, https://opencollective.com/newtonsoftjson-for-unity",repository
+https://twitter.com/twitter/status/1271549352754855936,English,2020-06-12 21:06:04+00:00,"Self-Defined is an OSS dictionary maintained by @TatianaTMac and generous contributors!
+
+Ways to help:
+🤲🏽 Contribute (writing terms/docs, translating, designing, PMing, or coding)
+https://t.co/0EuIMwpsGR
+
+💰 Support
+https://t.co/sNiYlLjXxe
+
+📕 Read + share
+https://t.co/Ss5BPSlHuO",17,0,33,"https://github.com/selfdefined/web-app/blob/prod/CONTRIBUTING.md, http://opencollective.com/selfdefined, http://selfdefined.app",file
+https://twitter.com/twitter/status/1517493163979595777,English,2022-04-22 13:18:58+00:00,"I've just contributed to Nestjsx. Consider supporting @MichaelYali too! I am glad you’re save now 🇺🇦 💙 
+
+Read his story here:
+
+https://t.co/LpzWd7P0Rb
+
+https://t.co/jJcuFjFokJ via @opencollect",0,1,1,"https://github.com/nestjsx/crud/issues/784, https://opencollective.com/nestjsx",issues
+https://twitter.com/twitter/status/1513175437861609472,English,2022-04-10 15:21:52+00:00,"I'm sure some of you #AndroidDev out there know Chucker ;)
+
+I'm happy to share that the https://t.co/QltNCforDN just decided to donate 450$ (i.e. ~90% of our total #OSS budget) to purchase equipments to support Ukraine 🇺🇦 https://t.co/doI2tpVm7K",2,1,12,"http://github.com/ChuckerTeam, https://opencollective.com/chucker",profile
+https://twitter.com/twitter/status/1493612663347322894,English,2022-02-15 15:46:23+00:00,"This year, I want to put more income from HTTP Toolkit back into open-source projects it depends on.
+
+Just put $1000 towards HTTP/3 support in @nodejs (via @rysolv): https://t.co/jY9onDgxfV. I've been sponsoring https://t.co/Y9EgQ9kIa2 for a while already too.
+
+More suggestions?",2,2,19,"https://github.com/nodejs/node/issues/38478, https://opencollective.com/openapi-directory",issues
+https://twitter.com/twitter/status/1491163414605230080,English,2022-02-08 21:33:57+00:00,"Use a LG display? Want to control brightness and volume like an Apple display? 
+
+You now can: https://t.co/apUlM7SZt1
+
+I've just contributed 5 USD to MonitorControl. Consider supporting them too — every little helps! https://t.co/eElbxJdsCz via @opencollect @JoniVR",0,0,0,"https://github.com/MonitorControl/MonitorControl#readme, https://opencollective.com/monitorcontrol",repository
+https://twitter.com/twitter/status/1482971753265651717,English,2022-01-17 07:03:12+00:00,"A big Thank You to @digitalocean for letting me to donate the $150 I got from completing the Kubernetes Challenge to Task, an awesome Go based task runner https://t.co/3V12Tz8ipc
+
+Do consider supporting Task if you use it https://t.co/wqHfGjIO1n",1,1,2,"https://github.com/go-task/task, https://opencollective.com/task",repository
+https://twitter.com/twitter/status/1473797674201763840,English,2021-12-22 23:28:42+00:00,"Want a #christmasgift a bit in advance?
+Try #LossLessCut software from @LosslessCut to split mkv videos...
+The processing speed is simply amazing (few seconds to cut a 1 GB file into several pieces)!!
+
+https://t.co/yrKOazEHO1 (scroll down to ""Download"")
+https://t.co/oAJ6zqkt1N",0,0,2,"https://github.com/mifi/lossless-cut, https://opencollective.com/losslesscut",repository
+https://twitter.com/twitter/status/1472289625368633353,English,2021-12-18 19:36:15+00:00,"Welcome to the official Cider Collective twitter account.
+
+Links:
+• https://t.co/VxrLx43o0O
+• https://t.co/aA9pwJHcKX",1,0,13,"https://opencollective.com/ciderapp, https://github.com/ciderapp",profile
+https://twitter.com/twitter/status/1464379663577399301,English,2021-11-26 23:44:53+00:00,"If you're looking for an #opensource project or maintainer to support, here are a couple places to start looking:
+
+https://t.co/UHlHcS6YgJ
+
+https://t.co/IfbB9y7DWU
+
+#OSSThanks #OSSGiveaway",7,0,26,"https://github.com/sponsors, https://opencollective.com/discover",profile
+https://twitter.com/twitter/status/1460791775409414146,English,2021-11-17 02:07:54+00:00,"Daily Git Repo, 11/16/21: GitHub - athensresearch/athens: Free self-hosted desktop app: https://t.co/8aGum2f8pd; Paid tiers available through https://t.co/fVnQYhAglV; Try the demo at https://t.co/4ODLYgBTPa; Docs viewable at https://t.co/UfcRc3yCCL https://t.co/efqWrIAIXv",0,0,0,"https://github.com/athensresearch/athens/releases, https://opencollective.com/athens, https://athensresearch.github.io/athens, https://app.gitbook.com/@athensresearch/s/handbook/, https://github.com/athensresearch/athens","releases, repository"
+https://twitter.com/twitter/status/1455954264422027278,English,2021-11-03 17:45:21+00:00,".@livekitted just donated $3,500 to fund Pion #WebRTC's bandwidth estimator! We are now able to have a developer working on it full time. See https://t.co/cnUaRkFyIb for progress.
+
+So lucky to have companies like LiveKit that give as much as they get. https://t.co/ROx3U9ZVUe",2,1,20,"https://github.com/pion/interceptor/issues/25, https://opencollective.com/pion-ion",issues
+https://twitter.com/twitter/status/1451540137330966533,English,2021-10-22 13:25:11+00:00,"Hi @getsentry thanks for your financial contribution to  https://t.co/svKttxu9Ex 🎉😊  part of #opensource organization NaturalIntelligence
+
+https://t.co/KZXEwxTFSZ",1,0,2,"https://opencollective.com/fast-xml-parser, https://github.com/NaturalIntelligence/ThankYouBackers",repository
+https://twitter.com/twitter/status/1447962848072699911,English,2021-10-12 16:30:19+00:00,"#Hacktoberfest is also about helping maintainers
+
+I have a few @opencollective gift cards to use and I'll start with donating it to @vuetifyjs which saves my life when it comes to frontend components library https://t.co/RSD5hjjcbh  https://t.co/bueeHpgiJt",0,0,1,"https://opencollective.com/vuetify, https://github.com/vuetifyjs/vuetify",repository
+https://twitter.com/twitter/status/1442124281866039302,English,2021-09-26 13:49:56+00:00,"https://t.co/aF5IRXkfFZ (Go XMPP library) version v0.20.0 
+
+Announce:
+https://t.co/ZJPJt1A44y
+
+Full changelog:
+https://t.co/cmIAFQx9Hk https://t.co/weyaQevBkE",0,0,0,"http://Mellium.im/XMPP, https://opencollective.com/mellium/updates/release-mellium-im-xmpp, https://github.com/mellium/xmpp/blob/main/CHANGELOG.md, https://twitter.com/CKsTechNews/status/1442124281866039302/photo/1, https://twitter.com/CKsTechNews/status/1442124281866039302/photo/1, https://twitter.com/CKsTechNews/status/1442124281866039302/photo/1",file
+https://twitter.com/twitter/status/1440073834279833610,English,2021-09-20 22:02:12+00:00,"Using WeasyPrint, PagedJS, or Vivliostyle? If you can, you should consider supporting them.
+
+➡️ https://t.co/CobNZpCYFZ
+➡️ https://t.co/yLm51GIMty, check the donate button on the bottom right
+➡️ https://t.co/t0Zr488Ayi
+
+#printcss",3,0,7,"https://opencollective.com/courtbouillon, https://www.pagedjs.org/, https://github.com/vivliostyle",profile
+https://twitter.com/twitter/status/1428003211701489666,English,2021-08-18 14:37:51+00:00,"It's out! Our first official release, version 1.0.2. Check it out on the link below. More exciting features, coming soon! Keep safe!
+
+👉 https://t.co/ZnwDLuPkA4
+🤗 https://t.co/5pXhEeto1O
+#TheDupe #Honeypot #CyberSecurity",0,0,0,"https://github.com/BV5Tl0N/TheDupe/tree/main/Release/1.0.2, https://opencollective.com/the-dupe-honeypot/contribute",file
+https://twitter.com/twitter/status/1427663264733749250,English,2021-08-17 16:07:01+00:00,"We're glad to announce that The Dupe Honeypot project is now in Open Collective. Please help us raise funds to ensure the future of this initiative. More exciting features, soon! Keep safe!  
+https://t.co/78KAe5xhl0
+https://t.co/bBqd0fVZXB
+#TheDupe #Honeypot #CyberSecurity",1,0,0,"https://opencollective.com/the-dupe-honeypot/contribute, https://github.com/BV5Tl0N/TheDupe/wiki",wiki
+https://twitter.com/twitter/status/1427663085402169350,English,2021-08-17 16:06:18+00:00,"We're glad to announce that The Dupe Honeypot project is now in Open Collective. Please help us raise funds to ensure the future of this initiative. More exciting features, soon! Keep safe!  
+https://t.co/5pXhEeto1O
+https://t.co/Ryvbifn7c9
+#TheDupe #Honeypot #CyberSecurity",1,0,0,"https://opencollective.com/the-dupe-honeypot/contribute, https://github.com/BV5Tl0N/TheDupe/wiki",wiki
+https://twitter.com/twitter/status/1422668033324163084,English,2021-08-03 21:17:45+00:00,"Fosscord open source software and developed by the public
+You can contribute on https://t.co/KtieoxfCcv
+Help by translating https://t.co/gwAX6XE5hy
+Debate about design decisions
+Financially support the project on https://t.co/nFH7ki0lVZ
+Or just simply share our vision https://t.co/fB4XMOIPIp",7,0,13,"https://github.com/fosscord/fosscord, https://translate.fosscord.com/, https://opencollective.com/fosscord, https://twitter.com/fosscord_/status/1422668033324163084/photo/1",repository
+https://twitter.com/twitter/status/1417630880160387072,English,2021-07-20 23:41:54+00:00,"Ways to support @Sveltejs
+
+🌟 Star: https://t.co/arZEAk8Dwy
+💰 Sponsor: https://t.co/ZjIYIy0gCW
+📽️ Subscribe: https://t.co/N14ljEAINZ
+
+🙏🏽 https://t.co/YkSbAnQmRr",11,2,57,"https://github.com/sveltejs/svelte, https://opencollective.com/svelte, https://svelte.substack.com/, https://twitter.com/SvelteSociety/status/1417630880160387072/photo/1",repository
+https://twitter.com/twitter/status/1407706788833771524,English,2021-06-23 14:27:07+00:00,"As part of https://t.co/HbX6Q6UDM0, Ben Burdette has been hacking on debugger feature for Nix on top of Eelco Dolstra's initial prototype.
+
+https://t.co/ElbBrrHxRN to test out the second prototype :-)",2,0,7,"https://opencollective.com/nix-errors-enhancement, https://github.com/NixOS/nix/pull/3901",pull
+https://twitter.com/twitter/status/1394614066413391872,English,2021-05-18 11:21:18+00:00,[github: https://t.co/txWTFMuPec ] #php https://t.co/BakE6Xv2X3,0,0,0,"https://github.com/php-service-bus/demo, https://lnkd.in/gshsmUg",repository
+https://twitter.com/twitter/status/1391067073330167813,English,2021-05-08 16:26:49+00:00,"We started caniuse-lite refactoring to solve a few security issues.
+
+https://t.co/3XDdPRrYRy
+
+For a while there will be no Can I Use database updates for Browserslist and @Autoprefixer.
+
+You can support this refactoring on:
+https://t.co/U65nXe4WiH",3,0,3,"https://github.com/browserslist/caniuse-lite, https://opencollective.com/browserslist",repository

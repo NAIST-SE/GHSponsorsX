@@ -1,0 +1,1355 @@
+Tweet_Url,Language,Time,Tweet_Text,# Retweet,# Replys,# Likes,Links,GH_Link_Type
+https://twitter.com/twitter/status/1255919927552327686,English,2020-04-30 18:00:19+00:00,"Review Heatmap v1.0.0-beta.1 is now available on GitHub!: https://t.co/hkqnexSBXt
+
+Let me know what you think via @glutanimate
+Support my work: https://t.co/OyQo8zRUJ6
+
+#AnkiAddons #AnkiSRS #Anki #SpacedRepetition https://t.co/7BBjQ8jjfB",2,1,28,"https://github.com/glutanimate/review-heatmap/releases/tag/v1.0.0-beta.1, https://patreon.com/glutanimate, https://twitter.com/AnkiUpdates/status/1255919927552327686/photo/1",releases
+https://twitter.com/twitter/status/1254620310411915266,English,2020-04-27 03:56:06+00:00,"Our Kubernetes scheduler (https://t.co/2Obkvt4uw7) has received some love recently!
+
+- Nginx Ingress support
+- Letsencrypt via CertManager
+- Pod Disruption Budgets support
+- Nvidia GPU support
+
+Like what you see? Donate on https://t.co/vvTRlLtYnb or https://t.co/w2zapXGfu3",1,0,7,"https://github.com/dokku/dokku-scheduler-kubernetes, https://www.patreon.com/dokku, https://opencollective.com/dokku",repository
+https://twitter.com/twitter/status/1254086373402980353,English,2020-04-25 16:34:25+00:00,"Logs are very useful to detect problems. That's why we are welcoming logging utility to Findomain+ with nice colors but also timestamp support. If you want to automate recon with this tool, see https://t.co/Y6h4oVyDET Patreon (donate and get the tool): https://t.co/UEz8n9Fp3Z https://t.co/j0fFNTX3LB",1,0,3,"https://github.com/Edu4rdSHL/findomain#findomain-plus-version, https://www.patreon.com/bePatron?u=30383720, https://twitter.com/Edu4rdSHL/status/1254086373402980353/photo/1, https://twitter.com/Edu4rdSHL/status/1254086373402980353/photo/1",repository
+https://twitter.com/twitter/status/1251267225463504903,English,2020-04-17 21:52:08+00:00,"New #SGDK 1.50 released ! Many changes included as support of SSF2 mapper (ROM &gt; 4MB) and finally a long scrolling example in sprite sample :)
+Check it out here: https://t.co/VbNESKWMBg
+SGDK Patreon page: https://t.co/n4fujBxVK9
+#Megadrive #coding #retrodev #SegaGenesis",69,6,118,"https://github.com/Stephane-D/SGDK/releases, https://patreon.com/SGDK",releases
+https://twitter.com/twitter/status/1249340915363254272,English,2020-04-12 14:17:40+00:00,"Yessss! I am now a proud patron of https://t.co/QDXlAXlHLB and contributors on @patreon, and you should be too: #NewPatron https://t.co/cPNkYqxD2P",0,0,0,"https://github.com/laurent22/joplin, https://patreon.com/joplin?utm_medium=social&utm_source=twitter&utm_campaign=tyshare2",repository
+https://twitter.com/twitter/status/1246261517516967940,English,2020-04-04 02:21:14+00:00,"Updated my #VRChat prefabs to 2018: https://t.co/TjH789eVGQ
+
+I plan to expand into Udon as well soon.
+
+If you would like to support me: https://t.co/Xf3fObMcms",0,1,7,"https://github.com/jetdog8808/JetDogs-Prefabs/releases, https://www.patreon.com/jetdoglabs",releases
+https://twitter.com/twitter/status/1242039697645371392,English,2020-03-23 10:45:14+00:00,"#terraform + #docker  == portable #DevOps deployment
+
+https://t.co/auByl5N2XE
+
+Code clean up &amp; docs pending. Join the Patron for direct access to the coding livestream and upcoming master classes. All #HackathonCOVID19 proceeds from https://t.co/fnpYfxG72X helps @dallasmakers https://t.co/DPP2t5VGdI",0,0,0,"https://github.com/denzuko-devops/assets/tree/master/workstation, http://patreon.com/DMSVCC, https://twitter.com/denzuko/status/1242039697645371392/photo/1",file
+https://twitter.com/twitter/status/1241493047201935365,English,2020-03-21 22:33:02+00:00,"We’ve released Dokku 0.20, with support for custom docker networks, proxying non-web processes, and much more! See https://t.co/l25I8AKMNF for a full list changes.
+
+Like what you see? Donate to us via Patreon or OpenCollective:
+
+- https://t.co/w2zapXGfu3
+- https://t.co/vvTRlLtYnb",6,0,16,"https://github.com/dokku/dokku/releases/tag/v0.20.0, https://opencollective.com/dokku, https://www.patreon.com/dokku",releases
+https://twitter.com/twitter/status/1240650465974587392,English,2020-03-19 14:44:55+00:00,"Tissue v0.3.39 is out, check the release notes on Github: https://t.co/B59BiJUU2h If you want to support Tissue and see some exclusive contents you can join my Patreon page: https://t.co/DyzfCUJaLq #b3d #blendertissue #blender3d #computationaldesign #3dmodelling #3dart",9,1,46,"https://github.com/alessandro-zomparelli/tissue/releases/tag/v0-3-39, https://www.patreon.com/alessandrozomparelli",releases
+https://twitter.com/twitter/status/1239166611103387648,English,2020-03-15 12:28:37+00:00,"If anyones wondering about the 3dx site i post my videos to, heres the open source code for it aswell as the devs patreon if you want to support him
+https://t.co/IdMD3vTlJB
+https://t.co/p9P3VTFWpJ",0,0,13,"https://github.com/WeebDev/lolisafe, https://www.patreon.com/m/2488227/posts",repository
+https://twitter.com/twitter/status/1239110954450739200,English,2020-03-15 08:47:27+00:00,"Generate 100,000 unique coupons up to 128 characters using couponjs. Absolutely FREE :-)
+
+Install
+&gt; npm i couponjs
+
+GitHub
+https://t.co/PrWtjrZw6t
+
+Support
+https://t.co/VNXi0NFy0o
+
+#coupon #couponjs #javascript #nodejs #node #free #opensource #project #weekend #pic #yusufshakeel https://t.co/GVuSykn53u",3,1,8,"http://github.com/yusufshakeel/couponjs, http://patreon.com/yusufshakeel, https://twitter.com/yusufshakeel/status/1239110954450739200/photo/1",repository
+https://twitter.com/twitter/status/1238844309253681152,English,2020-03-14 15:07:54+00:00,"Estás instalando como un campeón y quedás 👀
+
+The project needs your help! Please consider supporting of core-js on Open Collective or Patreon:
+&gt; https://t.co/SqaAkvMExH
+&gt; https://t.co/QPxj1QKFcx
+
+Also, the author of core-js ( https://t.co/SuWzxBeD0u ) is looking for a good job )",1,0,0,"https://opencollective.com/core-js, https://www.patreon.com/zloirock, https://github.com/zloirock",profile
+https://twitter.com/twitter/status/1238754923480633345,English,2020-03-14 09:12:43+00:00,"Working on my Coupon Code open source project.
+
+&gt; npm i couponjs
+
+GitHub: https://t.co/PrWtjrZw6t
+
+Patreon: https://t.co/VNXi0NFy0o
+
+#saturday #weekend #coding #working #project #javascript #node #nodejs #pic #yusufshakeel https://t.co/16tjqg7Ueo",3,0,2,"http://github.com/yusufshakeel/couponjs, http://patreon.com/yusufshakeel, https://twitter.com/yusufshakeel/status/1238754923480633345/photo/1",repository
+https://twitter.com/twitter/status/1237902652547182593,English,2020-03-12 00:46:06+00:00,"Celebrating the release of Inventory Managoat!
+A simple Inventory Manager to that will help you prevent food waste as well as keep entries of what you own
+
+Fully open source!
+Get it here: https://t.co/RM6m3uuMkp
+
+Support my work on https://t.co/OWmeiAESpy
+
+I wish you a good day!",0,0,0,"https://github.com/jojolepro/inventory-managoat, https://www.patreon.com/jojolepro",repository
+https://twitter.com/twitter/status/1236371376187092994,English,2020-03-07 19:21:21+00:00,"Anyone interested in some procedural texture generation inside of Minecraft?
+
+#WaveFunctionCollapse
+
+Available for download on https://t.co/AcjPEBIdKt
+
+More info: https://t.co/Xyf1Fx3iyt https://t.co/WhRRO3TMBu",18,5,122,"http://Arcaniax.net, https://github.com/Brennian/Arceon/wiki/Experimental-tools#wave-function-collapse, https://twitter.com/Arcaniax/status/1236371376187092994/photo/1",wiki
+https://twitter.com/twitter/status/1235332730063335432,English,2020-03-04 22:34:08+00:00,"Hey, Listen me! 
+
+I was updated to v0.5.0. I'm searching for updates on Nintendo japanese website now.
+
+My source code: https://t.co/qMAQ0zGWID
+My Patreon and roadmap: https://t.co/pnmHIAYE9n https://t.co/7NKqKyKmiY",0,0,2,"https://github.com/stephannv/heylisten.me, https://patreon.com/stephann, https://twitter.com/heylisten_me/status/1218347077534715904",repository
+https://twitter.com/twitter/status/1233736316723970050,English,2020-02-29 12:50:34+00:00,"MLT Starter KIT: https://t.co/zvow1rk8Q3 🚀🎊
+You can find the followings:
+* the mission of MLT
+* Code of conduct
+* How to join @__MLT__ 
+* Collaboration opportunities
+* How to contribute to MLT
+* How to become a @__MLT__ patron (https://t.co/qFDc9JMBqx) 🙃
+
+Thanks @suzatweet 🙌",13,1,44,"https://github.com/Machine-Learning-Tokyo/MLT_starterkit, https://www.patreon.com/MLTOKYO",repository
+https://twitter.com/twitter/status/1230313418004914176,English,2020-02-20 02:09:11+00:00,"Who wants to see Social Trends open source?
+
+https://t.co/G4RtQaJhkG
+
+Bring me to $50/mo and it’s MIT right away. I’ll get a screenshot tomorrowish.
+
+https://t.co/PSWz49Qv5G",0,0,0,"https://github.com/harlanji/social-demo/blob/master/README.md#social-trends, http://Patreon.com/harlanji",file
+https://twitter.com/twitter/status/1226029713442758657,English,2020-02-08 06:27:16+00:00,Glad you guys like it. Star us on github: https://t.co/5oYMLvLJVw or Be a Patreon: https://t.co/DaPlk53XOH. Many thanks. https://t.co/19DPoU3tSs,0,0,1,"https://github.com/baowenbo/DAIN, https://patreon.com/DAINAPP, https://twitter.com/InGrenades/status/1219772176854745089",repository
+https://twitter.com/twitter/status/1226028945792880641,English,2020-02-08 06:24:13+00:00,Glad you guys like it. Star us on github: https://t.co/5oYMLvLJVw or Be a Patreon: https://t.co/eGu9gu1SFD. Many thanks. https://t.co/EbnWtezrob,0,0,0,"https://github.com/baowenbo/DAIN, https://www.patreon.com/DAINAPP, https://twitter.com/ShiyaMoegin/status/1220386119688192007",repository
+https://twitter.com/twitter/status/1224481537032409088,English,2020-02-03 23:55:22+00:00,"My @Docker @jdownloader @Raspberry_Pi image (https://t.co/BB9w95FF8y) just passed 20M downloads. I know you find this useful, maybe you can help me.
+https://t.co/ssW1179Vva https://t.co/2rH9HxuLwM https://t.co/hW4OOXOZpo https://t.co/KxEw1F37ky",0,0,1,"https://github.com/jaymoulin/docker-jdownloader, https://www.paypal.me/jaymoulin, https://www.buymeacoffee.com/3Yu8ajd7W, https://patreon.com/femtopixel, https://utip.io/femtopixel",repository
+https://twitter.com/twitter/status/1219036246154063872,English,2020-01-19 23:17:44+00:00,"#emacs I've just tagged a new 2.17.0 release for dash.el, the modern list library for Emacs: https://t.co/uElxGtG4pO We have a long-awaited -zip-lists now!! 🎉
+
+You can support my open-source endeavours on Patreon https://t.co/ulk4LFWDq3",1,0,15,"https://github.com/magnars/dash.el#from-216-to-217, https://www.patreon.com/matusgoljer",repository
+https://twitter.com/twitter/status/1218969767303942145,English,2020-01-19 18:53:34+00:00,"Digital Forensics Tool: Email Header Analyzer
+
+Learn More:
+https://t.co/tFhBLgPsPz
+
+GitHub Link:
+https://t.co/QZCvcB86xp
+
+Support us on Patreon:
+https://t.co/PZoSl0K4Ag
+
+#mha #emailheaderanalyzer #cybersecurity #digitalforensics #blackhatethicalhacking https://t.co/MbqWN3bCuf",7,0,3,"https://www.blackhatethicalhacking.com/tools/email-header-analyzer/, https://github.com/blackhatethicalhacking/email-header-analyzer, https://www.patreon.com/blackhatethicalhacking, https://twitter.com/secur1ty1samyth/status/1218969767303942145/photo/1",repository
+https://twitter.com/twitter/status/1218347077534715904,English,2020-01-18 01:39:13+00:00,"Hey, Listen me! 
+
+I was updated to v0.3.0. I'm searching for updates on Nintendo brazilian website now.
+
+My source code: https://t.co/qMAQ0zGWID
+My Patreon and roadmap: https://t.co/pnmHIAYE9n
+My website: https://t.co/74hyin7ey5 https://t.co/5DHyvRkBH9",0,0,3,"https://github.com/stephannv/heylisten.me, https://patreon.com/stephann, http://heylisten.me, https://twitter.com/heylisten_me/status/1169727211718553600",repository
+https://twitter.com/twitter/status/1218096842136678402,English,2020-01-17 09:04:52+00:00,"Corsy 1.0-beta is out 🔥 https://t.co/PArCg4uaBQ
+
+It comes with mass scanning, json output, custom headers support and bug fixes.
+
+Like my content and want more? Become a patron: https://t.co/0YG77IBmS7 https://t.co/jthEeMNhCw",41,2,180,"https://github.com/s0md3v/Corsy, https://www.patreon.com/s0md3v, https://twitter.com/s0md3v/status/1218096842136678402/photo/1",repository
+https://twitter.com/twitter/status/1217111595907723264,English,2020-01-14 15:49:51+00:00,"Hey fam, my personal website is ~struggling~ after my video + blog post that came out yesterday.
+Until it’s fixed, relevant links:
+https://t.co/3xEdkMomdG
+https://t.co/qTs6A9Jb8O
+https://t.co/nudKV8bDyu
+https://t.co/3DgpuYrems",9,11,144,"http://patreon.com/cassidoo, http://buttondown.email/cassidoo, http://github.com/cassidoo, http://codepen.io/cassidoo",profile
+https://twitter.com/twitter/status/1216386429774786561,English,2020-01-12 15:48:18+00:00,"Introducing velocity,
+
+Speed up network connections in Python with DNS caching that applies to everything from sockets to 
+HTTP requests. Activates globally with a single import.
+
+Github: https://t.co/KOVCqpewku
+
+Oh and I am now on Patreon https://t.co/0YG77IBmS7 https://t.co/vWMWEPUXgV",71,3,303,"https://github.com/s0md3v/velocity, https://www.patreon.com/s0md3v, https://twitter.com/s0md3v/status/1216386429774786561/photo/1",repository
+https://twitter.com/twitter/status/1215965842632007680,English,2020-01-11 11:57:03+00:00,"Offensive Security Tool: Androrat
+
+Androrat is a mix of Android and RAT (Remote Access Tool)
+
+Learn More:
+https://t.co/4hCvgs8iBm
+
+GitHub Link:
+https://t.co/Lo9w6oeKJP
+
+Support us on Patreon:
+https://t.co/PZoSl0K4Ag
+
+#android #androrat #offensivesecurity #blackhatethicalhacking https://t.co/akDV1g9R3z",2,0,4,"https://www.blackhatethicalhacking.com/tools/androrat/, https://github.com/blackhatethicalhacking/androrat, https://www.patreon.com/blackhatethicalhacking, https://twitter.com/secur1ty1samyth/status/1215965842632007680/photo/1",repository
+https://twitter.com/twitter/status/1215716000932515842,English,2020-01-10 19:24:16+00:00,"Merged the MOI branch to master :O 
+https://t.co/hc5oF4jrJ1
+New blog post on Sunday or now on @Patreon 
+https://t.co/cHzXMLUloH",0,0,1,"https://github.com/Wikunia/ConstraintSolver.jl, https://www.patreon.com/opensources",repository
+https://twitter.com/twitter/status/1214208351627882497,English,2020-01-06 15:33:24+00:00,"Digital Forensics Tool: Volatility Memory Forensics Framework
+
+GitHub Link:
+https://t.co/PWK6EiIi2q
+
+Support us on Patreon:
+https://t.co/PZoSl0K4Ag
+
+More Info:
+https://t.co/70yge5g1Fe
+
+#volatility #memoryanalysis #digitalforensics #cybersecurity https://t.co/BJc9EQZzs8",4,0,5,"https://github.com/blackhatethicalhacking/volatility, https://www.patreon.com/blackhatethicalhacking, https://www.blackhatethicalhacking.com/tools/volatility-framework/, https://twitter.com/secur1ty1samyth/status/1214208351627882497/photo/1",repository
+https://twitter.com/twitter/status/1214170384209260544,English,2020-01-06 13:02:32+00:00,Just became a patron of https://t.co/5XIh6CW1AL - check out Mezzano at https://t.co/4GsVpvLSfp,0,0,1,"https://www.patreon.com/froggey/posts, https://github.com/froggey/Mezzano",repository
+https://twitter.com/twitter/status/1213762059566845953,English,2020-01-05 10:00:00+00:00,"~~~My Links~~~
+
+🌐 Site: https://t.co/BDmLaBG8vq
+👨‍💻 GitHub: https://t.co/28yf78j2Ao 
+⏺ YouTube: https://t.co/tzej9trAD4
+
+▶ Ko-Fi: https://t.co/00ZfkuvVKt
+▶ Patreon: https://t.co/WGLeiryXfF",0,0,1,"http://gal.vin, http://github.com/digressive, http://youtube.com/channel/UC2nIDWS_uLHXOYFuLYMATrw, http://ko-fi.com/mikegalvin, http://patreon.com/mikegalvin",profile
+https://twitter.com/twitter/status/1202429899304103937,English,2019-12-05 03:30:02+00:00,"I am very happy with the results of this repository that I have worked on for the last few months. If you want to check it out find it in GitHub at:
+
+https://t.co/FFTDwFKX1o
+
+Get more code from my Patreon thanks !
+https://t.co/K5TrbyqxeR
+
+#unity3d #AR #AugmentedReality https://t.co/VSKfXmVHI7",3,1,15,"https://github.com/dilmerv/UnityARFoundationEssentials, https://www.patreon.com/dilmerv, https://twitter.com/Dilmerv/status/1202429899304103937/video/1",repository
+https://twitter.com/twitter/status/1202088239911309314,English,2019-12-04 04:52:24+00:00,"Yes I did it !
+
+My L-System #Unity3d project is now available in GitHub and completely open source. Clone it today and use it in your own projects :)
+
+https://t.co/NYEZH6a3u4
+
+If you like early access to my projects check out:
+https://t.co/K5TrbyI8Dr 
+
+Thank you!
+
+#proceduralart https://t.co/6G17GwW0NL",6,1,28,"https://github.com/dilmerv/UnityLSystemEssentials, https://www.patreon.com/dilmerv, https://twitter.com/Dilmerv/status/1202088239911309314/video/1",repository
+https://twitter.com/twitter/status/1200779979560112128,English,2019-11-30 14:13:51+00:00,"Navigation &amp; Pathfinding tutorials including open source examples now available in GitHub !
+
+https://t.co/AlslQ6qrvI
+
+Get more source code from my projects at: https://t.co/SAuxmtSEaq 
+
+#unity3d #unitytips https://t.co/3vcNWMqDw1",12,0,36,"https://github.com/dilmerv/UnityPathfindingEssentials/, https://patreon.com/dilmerv, https://twitter.com/Dilmerv/status/1200779979560112128/video/1",repository
+https://twitter.com/twitter/status/1199447946808479746,English,2019-11-26 22:00:49+00:00,"I am excited to share with you 3 new effects in a new open source project with #VisualEffectGraph effects.
+
+https://t.co/BhOCW1Jy6K
+
+For more code find me in Patreon thanks https://t.co/SAuxmuafz0 
+
+#unity3d #vfx #unitytips https://t.co/JqhspfcN4N",9,2,21,"https://github.com/dilmerv/UnityVFXMillionsOfParticles, https://patreon.com/dilmerv, https://twitter.com/Dilmerv/status/1199447946808479746/video/1",repository
+https://twitter.com/twitter/status/1199085266021109760,English,2019-11-25 21:59:40+00:00,"Woo up to $99/month on Patreon!
+
+Help me break $100!
+
+https://t.co/1PoYQlQvOm
+
+https://t.co/DIsAeMgSwA",0,2,4,"https://www.patreon.com/meditationstuff, https://github.com/meditationstuff/protocol_1",repository
+https://twitter.com/twitter/status/1199017037537910794,English,2019-11-25 17:28:33+00:00,"Reconnaissance Tool: tweets_analyzer
+
+The goal of this simple python script written by x0rz is to analyze a Twitter profile through its tweets by detecting:
+
+GitHub Link:
+https://t.co/XHItf1xGfA
+
+Support our work:
+https://t.co/PZoSl0K4Ag
+
+#recon #hacking  #blackhatethicalhacking https://t.co/Hzp8yyAFDc",2,0,4,"https://github.com/securityisamyth/tweets_analyzer, https://www.patreon.com/blackhatethicalhacking, https://twitter.com/secur1ty1samyth/status/1199017037537910794/photo/1",repository
+https://twitter.com/twitter/status/1198181478703751168,English,2019-11-23 10:08:20+00:00,"Offensive Security Tool: RedCloud Red Team Infrastructure
+
+GitHub Link:
+https://t.co/SJJb77bWt2
+
+Support Our Work on Patreon:
+https://t.co/PZoSl0K4Ag
+
+#redcloud #redteam #metasploit #cloud  #docker #offensivesecurity #blackhatethicalhacking https://t.co/34RAu0nYL6",3,0,5,"https://github.com/blackhatethicalhacking/Redcloud, https://www.patreon.com/blackhatethicalhacking, https://twitter.com/secur1ty1samyth/status/1198181478703751168/video/1",repository
+https://twitter.com/twitter/status/1197462959745851393,English,2019-11-21 10:33:12+00:00,"Now Tessellation is much faster!
+Still a work in progress, but you can test it:
+https://t.co/tDCX6S601O
+Let me know how much faster it is for you!
+You can support me on Patreon: https://t.co/DyzfCUJaLq #b3d #patreoncreator #blendertissue #blenderaddon https://t.co/O9wG2gV5KM",11,0,62,"https://github.com/alessandro-zomparelli/tissue/tree/b280-dev, https://www.patreon.com/alessandrozomparelli, https://twitter.com/alessandrozompa/status/1197462959745851393/photo/1",file
+https://twitter.com/twitter/status/1197067774461382657,English,2019-11-20 08:22:52+00:00,"Offensive Security Tool: Aquatone Domain Recon &amp; Takeover
+
+GitHub Link:
+https://t.co/vuxIog6kvv
+
+Support Our Work on Patreon:
+https://t.co/PZoSl0K4Ag
+
+#domain #discovery #bruteforce #offensivesecurity #reconnaissance https://t.co/3eZhtvek3N",3,0,4,"https://github.com/blackhatethicalhacking/aquatone, https://www.patreon.com/blackhatethicalhacking, https://twitter.com/secur1ty1samyth/status/1197067774461382657/photo/1",repository
+https://twitter.com/twitter/status/1196831103987920896,English,2019-11-19 16:42:25+00:00,"Hey fam, I was messing with my DNS things and broke my website 🙃 I’m teaching today so I can’t fix it until tonight, but until then:
+
+My newsletter: https://t.co/qTs6A9Jb8O
+My Patreon: https://t.co/3xEdkMomdG
+My GitHub: https://t.co/nudKV8bDyu
+My CodePen: https://t.co/3DgpuYrems",9,6,91,"http://buttondown.email/cassidoo, http://patreon.com/cassidoo, http://github.com/cassidoo, http://codepen.io/cassidoo",profile
+https://twitter.com/twitter/status/1193216883580919814,English,2019-11-09 17:20:48+00:00,"Facebook: https://t.co/DQ7ULlPiZ5
+GitHUB: https://t.co/1slDlrv5Ey
+YouTube: https://t.co/QqlwgcR9L3
+LinkedIn: https://t.co/s0N6DS9oo8
+
+Patreon: https://t.co/B60rYBWpYS
+BMAC: https://t.co/sadh4EF0EF
+
+Check my website too ;)
+https://t.co/IunDXpAh90",0,0,0,"https://facebook.com/RapThorDev/, https://github.com/R4PThOR, https://youtube.com/channel/UCEOGiUc6ieAZUtXFHMrrrww, https://linkedin.com/in/dalnokirobert/, https://patreon.com/RapThor, https://www.buymeacoffee.com/LQbTlPAgD, https://rapthor.dev",profile
+https://twitter.com/twitter/status/1192505954065158145,English,2019-11-07 18:15:49+00:00,"Now Tissue will install Numba automatically! As usual on Github: https://t.co/GVsdeL2J5D 
+If you want to see more experiments with Tissue supporting me in the development you can join my Patreon: https://t.co/DyzfCUJaLq #b3d #blender3d #blendertissue #reactiondiffusion https://t.co/huC1Id7cH4",16,0,110,"https://github.com/alessandro-zomparelli/tissue, https://www.patreon.com/alessandrozomparelli, https://twitter.com/alessandrozompa/status/1192505954065158145/video/1",repository
+https://twitter.com/twitter/status/1191315654298738688,English,2019-11-04 11:26:00+00:00,"GitHub: https://t.co/28yf78ADYY
+Instagram: https://t.co/fUTHxyGZBR
+YouTube: https://t.co/7noMwFXb9f
+Mixer: https://t.co/6cDHs4xXcf
+My music: https://t.co/X1L6OlLDHW
+Ko-Fi: https://t.co/00ZfkuNx93
+Patreon: https://t.co/lKvbaFfT3B
+
+Contact: My DM's are open",2,0,2,"http://github.com/digressive, http://instagram.com/mikegalvin_/, http://www.youtube.com/channel/UC2nIDWS_uLHXOYFuLYMATrw, http://mixer.com/Digressive, http://soundcloud.com/digressive/tracks, http://ko-fi.com/mikegalvin, http://www.patreon.com/mikegalvin",profile
+https://twitter.com/twitter/status/1187675349741719553,English,2019-10-25 10:20:43+00:00,"I write: https://t.co/uH3budmJFD
+I code: https://t.co/AV7QzbAzfj
+I take photos: https://t.co/I8PRt0TWCP
+I make videos: https://t.co/f7PIhEM4Up
+I stream: https://t.co/2eN9xl924d
+I make music: https://t.co/NRjfCd7nkP
+Ko-Fi: https://t.co/00ZfkuNx93
+Patreon: https://t.co/WGLeirQyEf",1,0,6,"https://gal.vin, https://github.com/digressive, https://instagram.com/mikegalvin_/, https://youtube.com/DigressiveVision, https://mixer.com/Digressive, https://soundcloud.com/digressive/tracks, http://ko-fi.com/mikegalvin, http://patreon.com/mikegalvin",profile
+https://twitter.com/twitter/status/1185563029754318848,English,2019-10-19 14:27:07+00:00,"#emacs Bored from configuring paths to locally bundled executables for flycheck, lsp, company...?  Look no further, https://t.co/3wra9mBpjY
+
+(you can support my work on patreon: https://t.co/ulk4LFWDq3)",2,1,8,"https://github.com/Fuco1/find-local-executable, https://www.patreon.com/matusgoljer",repository
+https://twitter.com/twitter/status/1180153670048129026,English,2019-10-04 16:12:15+00:00,"#OpticsByExample tip of the day!
+Did you know that you can use most optics from `lens` directly as a custom traversal? Check out some examples!
+
+Learn optics with larger-than-tweet sized examples: https://t.co/WEoFiOPGmQ
+
+https://t.co/k43eqyB8gG
+https://t.co/c3vHO5mFl2",2,0,3,"https://patreon.com/chrispenner, https://gist.github.com/ChrisPenner/fbc0aac7a9aadfeb23b74903e30255ec, https://twitter.com/carbon_noreply/status/1180152456916783104/photo/1",gist
+https://twitter.com/twitter/status/1177085732126646272,English,2019-09-26 05:01:22+00:00,"#idevicerestore changes are live🤘- iPhone 11 (Pro) support, usage of new #libirecovery event API, etc: https://t.co/VtaGhgPpPE (make sure to update libirecovery &amp; libimobiledevice too)
+If you like this, please consider becoming a patron: https://t.co/3ZMxDvz7nM  thx❤️",43,2,122,"https://github.com/libimobiledevice/idevicerestore, https://www.patreon.com/nikias",repository
+https://twitter.com/twitter/status/1175598703173914630,English,2019-09-22 02:32:27+00:00,"Yessss! I am now a proud patron of Feross (author of @StandardJS and other awesome JavaScript packages! https://t.co/tO8KkB1ltW) on @patreon, and you should be too: #NewPatron https://t.co/9xyqvUjFPg",0,0,0,"https://github.com/feross, https://patreon.com/feross?utm_medium=social&utm_source=twitter&utm_campaign=tyshare2",profile
+https://twitter.com/twitter/status/1173083685362384896,English,2019-09-15 03:58:40+00:00,"Hi! I'm Zoggins, the developer of RetroSpy.
+
+RetroSpy is hardware+software solution used to display controller inputs on your stream, speed running validation, game tutorials and more.
+
+💻https://t.co/C0VSiIbcYG
+💡https://t.co/VgvGhvDT4l
+☕https://t.co/VmmstdGqPf",2,1,11,"http://github.com/zoggins/RetroSpy, http://patreon.com/zoggins, http://ko-fi.com/zoggins",repository
+https://twitter.com/twitter/status/1171503615803965442,English,2019-09-10 19:20:02+00:00,"Thank you all for taking part in the RxDB user survey.
+As one result I recreated the patreon page so users can help RxDB to be healthy and sustainable.
+https://t.co/Owc1WW8PDm
+
+Some survey insights are here: https://t.co/TTryfWQyow",1,0,0,"https://www.patreon.com/rxdb, https://github.com/pubkey/rxdb/issues/1411",issues
+https://twitter.com/twitter/status/1169727211718553600,English,2019-09-05 21:41:14+00:00,"Hey, Listen me! 
+
+I was updated to v0.2. I'm searching for updates on Nintendo America website now.
+
+My source code: https://t.co/qMAQ0zGWID
+My Patreon and roadmap: https://t.co/pnmHIAYE9n
+My website: https://t.co/74hyin7ey5 https://t.co/gsNhW0mFhW",0,0,4,"https://github.com/stephannv/heylisten.me, https://patreon.com/stephann, http://heylisten.me, https://twitter.com/heylisten_me/status/1169727211718553600/photo/1",repository
+https://twitter.com/twitter/status/1168499121881309184,English,2019-09-02 12:21:14+00:00,"Hey, Listen me!
+
+I'm on v0.1. For now, I'm searching only for Nintendo Europe website updates. But I have a roadmap, check out on my patreon page.
+
+My source code: https://t.co/qMAQ0zGWID
+My Patreon: https://t.co/gbL5qgXkzz
+My website: https://t.co/74hyin7ey5",0,0,4,"https://github.com/stephannv/heylisten.me, https://www.patreon.com/stephann, http://heylisten.me",repository
+https://twitter.com/twitter/status/1168058867592286208,English,2019-09-01 07:11:50+00:00,"Who doesn’t love data ? This demonstrates how data goes from my #Unity3D TCP client over to my local TCP Server :) 
+
+If you like what you see here is the code:
+
+https://t.co/KbovlUo73d
+
+Patreon support appreciated thanks ! https://t.co/SAuxmtSEaq https://t.co/wY7iWSbT0C",7,0,22,"https://github.com/dilmerv/TCPServerAndClient, https://patreon.com/dilmerv, https://twitter.com/Dilmerv/status/1168058867592286208/video/1",repository
+https://twitter.com/twitter/status/1167952163756072960,English,2019-09-01 00:07:49+00:00,"My simple #Python text editor is now available through #Pip: `pip install Golmorich`
+
+Full Code: https://t.co/WEvtHM3Y0D
+
+Support: https://t.co/U13UztTf2f https://t.co/a1XLgRYqjb",0,0,2,"https://github.com/tiazahmd/golmorich, https://www.patreon.com/imtiazahmed, https://twitter.com/magpy0/status/1167952163756072960/photo/1",repository
+https://twitter.com/twitter/status/1167428213837946882,English,2019-08-30 13:25:50+00:00,"Updated my text editor to identify file types. Next up: packaging and distribution through pip. 
+
+Github code: https://t.co/WEvtHM3Y0D
+
+Patreon: https://t.co/U13UztTf2f
+
+#python #tkinter #python3 #programming #100daysofcode https://t.co/XJv5YWke5f",1,0,0,"https://github.com/tiazahmd/golmorich, https://www.patreon.com/imtiazahmed, https://twitter.com/magpy0/status/1167428213837946882/photo/1",repository
+https://twitter.com/twitter/status/1166993862646272000,English,2019-08-29 08:39:53+00:00,"WE also added a sponsor button in our repo CHECK it out !! 👇
+
+https://t.co/bSXXDdAqDF
+https://t.co/q2MfFUYLWP https://t.co/7WdYwO9klf",0,0,0,"https://github.com/Zed-M/dzcode.talk, https://patreon.com/code__talk, https://twitter.com/Code__Talk/status/1166993862646272000/photo/1, https://twitter.com/Code__Talk/status/1166993862646272000/photo/1",repository
+https://twitter.com/twitter/status/1166044985961041920,English,2019-08-26 17:49:23+00:00,"If WTF is useful to you, kindly consider sponsoring its development here: https://t.co/1CUkNnO9EO
+
+Also, bug reports, feature suggestions, and code contributions are more than welcome here: https://t.co/n5gA6nmtdk
+
+Thanks everyone.",1,0,2,"https://www.patreon.com/wtfutil, https://github.com/wtfutil/wtf",repository
+https://twitter.com/twitter/status/1163875574500057088,English,2019-08-20 18:08:55+00:00,"Thank you so much @chocolateynuget for becoming a silver sponsor on Patreon! 🙏🎉
+
+Get your #PowerShell #ChatOps on!
+
+https://t.co/zL5DhAqSuI
+https://t.co/y83dOPEDu2 https://t.co/EBEA3e4ejO",2,0,16,"https://www.patreon.com/bePatron?u=10352866, https://github.com/poshbotio/PoshBot, https://twitter.com/devblackops/status/1163875574500057088/photo/1",repository
+https://twitter.com/twitter/status/1162351136126492674,English,2019-08-16 13:11:20+00:00,"New Patterns and Masks have been added to Arceon!
+Including a fractal pattern, voronoi pattern, type pattern and more!
+
+More information: https://t.co/cKh0QIBGY2
+
+Available on https://t.co/tpoFndgz6S https://t.co/XnNuUUm6u1",17,3,113,"https://github.com/Brennian/Arceon/wiki, http://arcaniax.net, https://twitter.com/Arcaniax/status/1162351136126492674/photo/1, https://twitter.com/Arcaniax/status/1162351136126492674/photo/1, https://twitter.com/Arcaniax/status/1162351136126492674/photo/1, https://twitter.com/Arcaniax/status/1162351136126492674/photo/1",wiki
+https://twitter.com/twitter/status/1159423155351502849,English,2019-08-08 11:16:35+00:00,"Icon font C, C++ headers and C# classes updated with
+&gt;&gt; Font Awesome 5.10.1
+&gt;&gt; Material Design Icons 3.9.97
+https://t.co/cEquWtqucz
+
+Many thanks to our patrons for supporting our open-source work https://t.co/1zcAt3OUMF
+#gamedev",2,0,5,"https://github.com/juliettef/IconFontCppHeaders, https://www.patreon.com/enkisoftware",repository
+https://twitter.com/twitter/status/1157957947516829697,English,2019-08-04 10:14:23+00:00,"I now have a library where you can download Fortnite game files instead of having them preinstalled!
+If you're a developer, I highly encourage you to check it out and try it for yourself!
+🔥 Please check out my Patreon as well! 🔥
+https://t.co/20esFEFbP4
+
+https://t.co/uA8ETFRKoH https://t.co/AE7KXjTXh8",5,7,85,"https://www.patreon.com/asriel_dev, https://github.com/WorkingRobot/FortniteDownloader, https://twitter.com/Asriel_Dev/status/1157957947516829697/video/1",repository
+https://twitter.com/twitter/status/1157724076087099392,English,2019-08-03 18:45:03+00:00,"Some important links:
+
+My Site
+https://t.co/UrsU5G7xA2
+
+My Patreon
+https://t.co/PtQVDSZT53
+
+My GitHub
+https://t.co/Uko0Jwq6SJ
+
+My PayPal
+https://t.co/dkc9yLgifh
+
+@MacThemesCo  @SecuraRepo @psty_io",2,1,7,"https://maxbridgland.com, https://patreon.com/maxbridgland, https://github.com/M4cs, https://paypal.me/maxbridgland",profile
+https://twitter.com/twitter/status/1155473416566128641,English,2019-07-28 13:41:44+00:00,"runs npm install
+🤯
+The project needs your help! Please consider supporting of core-js on Open Collective or Patreon: 
+&gt; https://t.co/vsqx5kAJYI 
+&gt; https://t.co/p6njfIoGc8 
+Also, the author of core-js ( https://t.co/LAe2Pj9Ann ) is looking for a good job -) 
+#npm #nodejs #js https://t.co/C0MkXepaFD",0,0,1,"https://opencollective.com/core-js, https://www.patreon.com/zloirock, https://github.com/zloirock, https://twitter.com/jdc91xt/status/1155473416566128641/photo/1",profile
+https://twitter.com/twitter/status/1153536498437939200,English,2019-07-23 05:25:07+00:00,"Hey! I'm Marlon (or Pancode) and I'm an Artist and Programmer in college for Studio Art! Website coming soon!✨✍️
+Ko-Fi: https://t.co/0UW6h2HG2t
+Patreon: https://t.co/P6VfN3FQBi
+Artstation: https://t.co/TL5Q3McyIT
+GitHub: https://t.co/aAq921D2lu
+Dribbble: https://t.co/66mAhQms63 https://t.co/R7HwLth9UN",0,1,4,"http://ko-fi.com/pancodemakes, http://patreon.com/pancodemakes, http://artstation.com/pancodemakes, http://github.com/pancodemakes, http://dribbble.com/pancodemakes, https://twitter.com/pancodemakes/status/1153536498437939200/photo/1, https://twitter.com/pancodemakes/status/1153536498437939200/photo/1, https://twitter.com/pancodemakes/status/1153536498437939200/photo/1, https://twitter.com/pancodemakes/status/1153536498437939200/photo/1",profile
+https://twitter.com/twitter/status/1151773734417633280,English,2019-07-18 08:40:31+00:00,"Icon font C C++ headers &amp; C# classes updated with
+&gt;&gt; Fork Awesome ringing bell and outlined ringing bell
+&gt;&gt; Material Design Icons new version 3.8.95
+
+Many thanks to our patrons for supporting our open-source work! https://t.co/1zcAt3OUMF
+
+https://t.co/cEquWtqucz",0,0,3,"https://www.patreon.com/enkisoftware, https://github.com/juliettef/IconFontCppHeaders",repository
+https://twitter.com/twitter/status/1151461909830537217,English,2019-07-17 12:01:27+00:00,"RT juulcat: To use markdown in Dear ImGui check out our open-sourced library imgui_markdown &gt;&gt;&gt; https://t.co/9Mbi4zxKFj You can support dougbinks and my work on Patreon &gt;&gt;&gt; https://t.co/GgjbSeUGF5 #gamedev #indiegametech IndieDevDog https://t.co/0SEJoTrtUW
+
+To use markdown in…",0,0,0,"https://github.com/juliettef/imgui_markdown, https://www.patreon.com/enkisoftware, https://twitter.com/IndieDevDog/status/1151459040360304641",repository
+https://twitter.com/twitter/status/1151456474285191168,English,2019-07-17 11:39:51+00:00,"To use markdown in Dear ImGui check out our open-sourced library imgui_markdown &gt;&gt;&gt;  https://t.co/reNkIvkftF
+
+You can support @dougbinks and my work on Patreon &gt;&gt;&gt; https://t.co/1zcAt3OUMF
+
+#gamedev #indiegametech",5,0,11,"https://github.com/juliettef/imgui_markdown, https://www.patreon.com/enkisoftware",repository
+https://twitter.com/twitter/status/1151444757828251648,English,2019-07-17 10:53:17+00:00,Proud to support @andreaskayy patreon for his free #dataengineering book - the book can be downloaded at his github site https://t.co/SbuubeoL0H the patreon site is here(If you want to support). I support good content / tech effort…https://t.co/Td65BuU5s4 https://t.co/x68AGgkzBQ,0,0,0,"https://lnkd.in/eU5T2A2, https://github.com/andkret/Cookbook, https://lnkd.in/ecJF7Ke",repository
+https://twitter.com/twitter/status/1151056455417651200,English,2019-07-16 09:10:19+00:00,"RT Andrew_Chewie: UGUI Unity Assets by mob_sakai are super useful, well documented and free! Please share and support this amazing creator #unity #gamedev #unitytips https://t.co/Pl2YDvDuzq https://t.co/ILtDUSOK1S https://t.co/CiRdOoh2Jd IndieDevDog https://t.co/UkRXEvlJWh
+
+…",0,0,2,"https://github.com/mob-sakai, https://www.patreon.com/mob_sakai/posts, https://twitter.com/IndieDevDog/status/1151056389177073665, https://twitter.com/Andrew_Chewie/status/1151045085217398788/photo/1",profile
+https://twitter.com/twitter/status/1151045085217398788,English,2019-07-16 08:25:08+00:00,"UGUI Unity Assets by @mob_sakai are super useful, well documented and free! Please share and support this amazing creator
+#unity #gamedev #unitytips 
+https://t.co/BhsfXdqftD 
+https://t.co/dKXywvh3CA https://t.co/loohDUzqmk",57,0,207,"https://github.com/mob-sakai, https://www.patreon.com/mob_sakai/posts, https://twitter.com/Andrew_Chewie/status/1151045085217398788/photo/1",profile
+https://twitter.com/twitter/status/1149686571760783360,English,2019-07-12 14:26:53+00:00,"What the hell some NPM packages give a lot of advertising in console now
+
+#npm
+
+...supporting of core-js on Open Collective or Patreon: 
+ https://t.co/rKdf37fsMm 
+ https://t.co/BuSPzg5RcI 
+Also, the author of core-js ( https://t.co/s2ARkudrdS ) is looking for a good job -)",0,0,1,"https://opencollective.com/core-js, https://www.patreon.com/zloirock, https://github.com/zloirock",profile
+https://twitter.com/twitter/status/1146562911042752513,English,2019-07-03 23:34:34+00:00,"Hey! I'm Marlon (or pancode) and I'm an artist and programmer in college for Studio Art! Website coming soon!✨✍️
+Ko-Fi: https://t.co/0UW6h2HG2t
+Patreon: https://t.co/P6VfN3FQBi
+Artstation: https://t.co/TL5Q3McyIT
+GitHub: https://t.co/aAq921D2lu
+Dribbble: https://t.co/66mAhQms63 https://t.co/ZUDdfK4033",2,1,2,"http://ko-fi.com/pancodemakes, http://patreon.com/pancodemakes, http://artstation.com/pancodemakes, http://github.com/pancodemakes, http://dribbble.com/pancodemakes, https://twitter.com/pancodemakes/status/1146562911042752513/photo/1, https://twitter.com/pancodemakes/status/1146562911042752513/photo/1, https://twitter.com/pancodemakes/status/1146562911042752513/photo/1",profile
+https://twitter.com/twitter/status/1145965865969602562,English,2019-07-02 08:02:08+00:00,"Big thanks to our gold sponsors for supporting IdentityServer4!
+
+https://t.co/xKDE6IBUgS
+https://t.co/Qu5jcLbEi8
+
+@thinktecture @RitterIM @intuitdev @eumgr @firegiantco",7,0,22,"https://github.com/IdentityServer/IdentityServer4/blob/master/SPONSORS.md, https://www.patreon.com/identityserver",file
+https://twitter.com/twitter/status/1145068514702692358,English,2019-06-29 20:36:22+00:00,"Other places I'm at:
+
+GitHub: https://t.co/g0WuyfhI3s
+Instagram: https://t.co/C5STlKTBXo
+Facebook: https://t.co/8gOewUfBOj
+Patreon: https://t.co/6hd2AKmbIz",49,39,197,"https://github.com/javascriptteacher, https://www.instagram.com/javascriptteacher/, https://www.facebook.com/javascriptteacher/, https://www.patreon.com/js_tut",profile
+https://twitter.com/twitter/status/1145018585934422017,English,2019-06-29 17:17:58+00:00,"Today I like to invite you to checkout a new scene I created in my GitHub repo https://t.co/FFTDwFtm9Q where I provide you with an example for #AR object selection with overlays
+
+https://t.co/9ChdhRLZh5
+
+Get more code via Patreon:
+https://t.co/SAuxmuafz0 
+
+#unity3d #arkit #arcore https://t.co/MkbcVGhmG0",2,0,10,"https://github.com/dilmerv/UnityARFoundationEssentials, https://youtu.be/CdeV1iMVLw0, https://patreon.com/dilmerv, https://twitter.com/Dilmerv/status/1145018585934422017/video/1",repository
+https://twitter.com/twitter/status/1144705332821798912,English,2019-06-28 20:33:13+00:00,"A new tool has entered the arena, you can now //render you selection! 
+(it is very experimental so not all blocks work and it is subject to change)
+
+Get it on https://t.co/AcjPEBIdKt 
+
+More information: https://t.co/TkRYgqRUmi
+
+Custom terrain made by @Immanulll https://t.co/uW4PEaEzZf",8,2,56,"http://Arcaniax.net, https://github.com/Brennian/Arceon/wiki/Experimental-tools#render-tool, https://twitter.com/Arcaniax/status/1144705332821798912/photo/1, https://twitter.com/Arcaniax/status/1144705332821798912/photo/1, https://twitter.com/Arcaniax/status/1144705332821798912/photo/1",wiki
+https://twitter.com/twitter/status/1143577331350380544,English,2019-06-25 17:50:57+00:00,"If anyone is interested in #AR or any of the projects I have worked on in the last few months check out my GitHub page for free code ;)
+
+https://t.co/GJdfMpET4F
+
+For new projects and code I am always announcing their release via Patreon at:
+
+https://t.co/SAuxmtSEaq 
+
+#developers https://t.co/PtE2hAQkSj",5,0,14,"https://www.github.com/dilmerv, https://patreon.com/dilmerv, https://twitter.com/Dilmerv/status/1143577331350380544/photo/1",profile
+https://twitter.com/twitter/status/1143212787239477248,English,2019-06-24 17:42:23+00:00,"For the weekday folks:
+
+Released v1.0 of enkiTS, a permissively licensed lightweight C &amp; C++ Task Scheduler for creating parallel programs.
+
+Code: https://t.co/G5DgtMc2sg
+Release notes: https://t.co/lkrGlFWuS6
+
+With thanks to our https://t.co/qcye42bbTD supporters! https://t.co/AB8Byyvtwu",12,0,44,"http://github.com/dougbinks/enkiTS, https://github.com/dougbinks/enkiTS/releases/tag/v1.0, http://patreon.com/enkisoftware, https://twitter.com/dougbinks/status/1143212787239477248/photo/1","repository, releases"
+https://twitter.com/twitter/status/1143204981673271296,English,2019-06-24 17:11:22+00:00,"Did you guys want another tool to make your life easier?
+The roof tool is now available for you to use!
+
+Get it on https://t.co/AcjPEBIdKt 
+
+Available right now on @BuildersRefuge 🙌
+
+More information: https://t.co/fkwum2wsX9 https://t.co/wZ16lzUFZ6",30,9,175,"http://Arcaniax.net, https://github.com/Brennian/Arceon/wiki/Roof-Tool, https://twitter.com/Arcaniax/status/1143204981673271296/video/1",wiki
+https://twitter.com/twitter/status/1142447525644967936,English,2019-06-22 15:01:30+00:00,"Announcing v1.0 of enkiTS
+
+Release notes: https://t.co/lkrGlFWuS6
+Code: https://t.co/j0bY4StftL
+
+With thanks to our supporters on https://t.co/MqZXeNkc8v for making this release possible! https://t.co/cKpBfQhtx5",52,2,175,"https://github.com/dougbinks/enkiTS/releases/tag/v1.0, https://github.com/dougbinks/enkiTS, https://www.patreon.com/enkisoftware, https://twitter.com/dougbinks/status/1142447525644967936/photo/1","releases, repository"
+https://twitter.com/twitter/status/1141152272728100868,English,2019-06-19 01:14:38+00:00,"My Xenko 3.1b-R12 fork is out! Vulkan-powered 3D, fully #opensource C# engine @xenko3d with bullet physics, integrated editor and publishing to Mac/Linux/Windows. Give it a try as a #unity3d alternative! @xenko3d #gamedev #indiedev https://t.co/tYUaNcLNLv https://t.co/FbS9lA9enn",3,2,11,"https://www.patreon.com/phr00tssoftware, https://github.com/phr00t/xenko/releases",releases
+https://twitter.com/twitter/status/1138005861664641024,English,2019-06-10 08:51:55+00:00,"Just made a small donation to core-js. This issue about postinstall logs is outright rude and detrimental to open source. 
+
+https://t.co/QBxII32ijR
+
+You can support core-js on Open Collective and Patreon
+https://t.co/DHFrvDZt6r
+https://t.co/uVdvHmL0pI",0,0,3,"https://github.com/zloirock/core-js/issues/548, https://opencollective.com/core-js, https://www.patreon.com/zloirock",issues
+https://twitter.com/twitter/status/1136899096424456192,English,2019-06-07 07:34:01+00:00,"As mentioned yesterday, if you want to help the platform that runs our website you can check the code out here: https://t.co/8x4qK15NqC
+
+You can also help with money: https://t.co/8bxoDF5XTk
+
+And of course, if you want to know more get in touch with @phoet 👋",7,0,5,"https://github.com/phoet/on_ruby, https://www.patreon.com/on_ruby",repository
+https://twitter.com/twitter/status/1132248869125926914,English,2019-05-25 11:35:41+00:00,"Latest batch of #DietPi stickers have arrived!
+
+Two ways you can obtain them:
+- Contribute to the #DietPi source code on @github: https://t.co/H2XEWkwsuU
+- Become a @Patreon: https://t.co/zjUwG0WELv (we also do mugs too!) https://t.co/XvnTN1SWnU",3,1,10,"https://github.com/MichaIng/DietPi, https://www.patreon.com/DietPi, https://twitter.com/DietPi_/status/1132248869125926914/photo/1, https://twitter.com/DietPi_/status/1132248869125926914/photo/1",repository
+https://twitter.com/twitter/status/1129354609288458240,English,2019-05-17 11:54:55+00:00,thx to @Hagenburger the redesign of #OnRuby is now on it's way! please feel free to join the discussion https://t.co/Aa4h2NO0ek or become a patron https://t.co/JicFl3rmhu,1,0,3,"https://github.com/phoet/on_ruby/issues/554, https://www.patreon.com/on_ruby",issues
+https://twitter.com/twitter/status/1128202446642262021,English,2019-05-14 07:36:38+00:00,"After more than 1 year, finally a new release of #SGDK !
+It brings tons of changes and a new resource compiler, check it out here : https://t.co/ptmlrsUcS5
+You can also now support SGDK from its Patreon page :
+https://t.co/3Pl8dYTJSp
+#Megadrive #coding #retrodev #Patreon #Enjoy",45,0,63,"https://github.com/Stephane-D/SGDK/releases, https://www.patreon.com/SGDK",releases
+https://twitter.com/twitter/status/1126564490236051458,English,2019-05-09 19:07:59+00:00,"Heh, time for an emu-revolution!
+#emuiibo 0.2 is finally out, featuring progress saving, HOME button LED blinking on combos.... and more! https://t.co/obTr4ykijA
+
+As a remainder, if you want to support my work: https://t.co/CkIAXlEbuS",3,1,15,"https://github.com/XorTroll/emuiibo/releases/tag/0.2, https://www.patreon.com/xortroll",releases
+https://twitter.com/twitter/status/1125304953155796992,English,2019-05-06 07:43:02+00:00,"1 motorbike, 4 weeks, 20 countries. Holidays!
+Meanwhile, #PhpCSFixer v2.15 is out! 8 new rules, gitlab reporter and other improvements! Check them out! https://t.co/LWC0sqqpd1
+Want more? Contribute or became a patron ! https://t.co/WAIoagUqze",2,2,5,"https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v2.15.0, https://patreon.com/keradus",releases
+https://twitter.com/twitter/status/1125015413803319298,English,2019-05-05 12:32:31+00:00,"Just a little break between two trips... #PhpCSFixer v2.12.9 and v2.14.3 is out with over 30 improvements! Check them out ! (https://t.co/zLd8QSL12d)
+As always, big thanks to all patrons! https://t.co/zJNbStDqAm",1,0,4,"https://github.com/FriendsOfPHP/PHP-CS-Fixer/releases/tag/v2.14.3, https://www.patreon.com/keradus",releases
+https://twitter.com/twitter/status/1387507755787898882,English,2021-04-28 20:43:22+00:00,"#DYK💡 #SolveSpace 3.0 app may be used for #Airplanes3D🛩
+Support me in my #DailySolveSpace experiments 🧰 https://t.co/KVkQ27zWSj
+Buy Me a Coffee ☕ https://t.co/ZeByqaWFCG
+Became my Patron 💸🔀🚀 https://t.co/DPCPjT0h72
+👨‍🔧 #Engineering #2D #3D #blender #FreeCAD #LibreCAD #QCAD https://t.co/OSzzgI0d5m",0,0,2,"https://github.com/Symbian9/SolveSpace-Daily-Engineering, https://www.buymeacoffee.com/app4soft, https://www.patreon.com/app4soft, https://twitter.com/app4soft/status/1387507755787898882/photo/1",repository
+https://twitter.com/twitter/status/1386291399218241546,English,2021-04-25 12:10:00+00:00,Let me set a little last weekend day reminder! If you like what we do on DB! you can help us in the following ways... Patreon: https://t.co/0ZSYLGaJTt GitHub: https://t.co/edKFmFX6eG or tip us whatever you want on PayPamMe: https://t.co/DxImqyJOIG,0,0,1,"https://patreon.com/stdbgames, https://github.com/jolupa/stdbgames, https://paylpal.me/stdbgames",repository
+https://twitter.com/twitter/status/1383685654639304704,English,2021-04-18 07:35:42+00:00,"I just uploaded my new template: how to generate fractal with Chaos Game
+
+Thanks @2xTacker for suggestion
+
+gh https://t.co/boKrOONHle
+demo https://t.co/NybfMcQemu
+patreon https://t.co/N2UPRNFaDQ
+
+#C3 #js #html5 #indiegame #IndieGameDev #indiedev #generativeart #math #construct3 https://t.co/F8TVKoCSe2",2,5,11,"https://github.com/el3um4s/construct-demo, https://c3demo.stranianelli.com/template/019-chaos-game/demo/, https://patreon.com/el3um4s, https://twitter.com/el3um4s/status/1383685654639304704/photo/1",repository
+https://twitter.com/twitter/status/1383516125867036684,English,2021-04-17 20:22:03+00:00,"Sex tech code libraries &amp; apps!
+
+Github: https://t.co/tDN3tMayMw
+
+Dev Guide: https://t.co/srhBNe6xsm
+
+Apps/Games: https://t.co/mDXDDRqad2
+
+Youtube: https://t.co/R19l8KE7Bd
+
+Discord: https://t.co/0FCmbMZgKf
+
+Patreon: https://t.co/TDsDAHLrlp
+
+https://t.co/M3Az3WNldG for more info!",12,4,67,"http://github.com/buttplugio, https://buttplug-developer-guide.docs.buttplug.io, https://github.com/buttplugio/awesome-buttplug, https://youtube.buttplug.io, https://discord.buttplug.io, https://patreon.com/qdot, http://buttplug.io","profile, repository"
+https://twitter.com/twitter/status/1383120505188732931,English,2021-04-16 18:10:00+00:00,Let's set a good old reminder. If you like what DB! do you can help us on this different ways... Patreon: https://t.co/0ZSYLGaJTt GitHub: https://t.co/edKFmFX6eG or tip is with PayPalMe: https://t.co/nJ99Cw7pl9 whatever you want!,0,0,0,"https://patreon.com/stdbgames, https://github.com/jolupa/stdbgames, https://paypal.me/stdbgames",repository
+https://twitter.com/twitter/status/1381194575725920264,English,2021-04-11 10:37:02+00:00,"I created https://t.co/4WMWy5Rcz9 with #construct3
+It was a much simpler experiment than expected
+
+gh https://t.co/boKrOOw6tG
+demo https://t.co/eqPRioaDUn
+patreon https://t.co/N2UPRNnzMi
+
+#c3 #js #html5 #indiegame #IndieGameDev #indiedev #test #keyboard #javascript #gamedev https://t.co/6hQjSwO7iT",14,0,22,"http://keycode.info, https://github.com/el3um4s/construct-demo, https://c3demo.stranianelli.com/mini-template/005-keycode-info/demo/, https://patreon.com/el3um4s, https://twitter.com/el3um4s/status/1381194575725920264/photo/1",repository
+https://twitter.com/twitter/status/1380878996074823681,English,2021-04-10 13:43:02+00:00,"I just uploaded my new template: a simple web app to generate geometric patterns from math formulas
+
+demo https://t.co/UvilSIn2fn
+gh https://t.co/boKrOOw6tG
+patreon https://t.co/N2UPRNnzMi
+
+#c3 #js #construct3 #html5 #indiegame #IndieGameDev #indiedev #generativeart #math #html5 https://t.co/47vcC1M1G1",2,0,12,"https://c3demo.stranianelli.com/template/018-geometric-draw/demo/, https://github.com/el3um4s/construct-demo, https://patreon.com/el3um4s, https://twitter.com/el3um4s/status/1380878996074823681/photo/1",repository
+https://twitter.com/twitter/status/1379134238847496193,English,2021-04-05 18:10:00+00:00,"And another reminder is that, if you like the DB!, you can help in this ways. Patreon: https://t.co/0ZSYLGaJTt GitHub: https://t.co/edKFmFX6eG or PayPalMe: https://t.co/nJ99Cw7pl9 All is appreciated!",0,0,0,"https://patreon.com/stdbgames, https://github.com/jolupa/stdbgames, https://paypal.me/stdbgames",repository
+https://twitter.com/twitter/status/1377243799336914945,English,2021-03-31 12:58:04+00:00,"I just uploaded a new version of the ""HTML-ELEMENT"" plugin. It now support ""Module"" mode.
+
+link: https://t.co/LegyIEeooB
+github: https://t.co/URndaA8EZe
+patreon: https://t.co/DsoXa7kIPD
+
+#construct3 #js #javascript #indiedev #indiegamedev #html5 #css #addons #free",2,0,5,"https://www.construct.net/en/make-games/addons/190/html-element, https://github.com/el3um4s/construct-plugins-and-addons, https://www.patreon.com/el3um4s",repository
+https://twitter.com/twitter/status/1376610539988783105,English,2021-03-29 19:01:43+00:00,"OMG😱OMG ... The future is here. @RealThunder12 published a new release of @FreeCADNews #LinkStage3 and the daily version contains the new renderer together with an improved TopoNaming alghorithm. 
+
+Please support RealThunder at https://t.co/PGIVqGFuw9
+
+https://t.co/As5u9ENJ41 https://t.co/uQJEEYDmY1",24,2,92,"https://www.patreon.com/thundereal, https://github.com/realthunder/FreeCAD_assembly3/releases, https://twitter.com/OficineRobotica/status/1376610539988783105/photo/1",releases
+https://twitter.com/twitter/status/1376537125735313422,English,2021-03-29 14:10:00+00:00,Let me say that if you want to help us you have so many different ways to do it if you like our work! You have Patreon: https://t.co/0ZSYLFT91V; GitHub: https://t.co/edKFmGeHDg and PayPalMe: https://t.co/nJ99CvPOtB CHEERS!,0,0,2,"https://patreon.com/stdbgames, https://github.com/jolupa/stdbgames, https://paypal.me/stdbgames",repository
+https://twitter.com/twitter/status/1376189315462672386,English,2021-03-28 15:07:55+00:00,"#Ambermoon 0.5.2beta is out. It adds much 3D stuff like spinners, traps, ladders, holes and a bunch of cool new spells like Levitation. Tons of things also have been improved or fixed. Join the project at https://t.co/1XVlKA5Fbn or support me via https://t.co/nrJseYJh2r. #Thalion https://t.co/BSJtO3FfbR",0,0,4,"https://github.com/Pyrdacor/Ambermoon.net, https://patreon.com/Pyrdacor, https://twitter.com/Pyrdacor2/status/1376189315462672386/photo/1",repository
+https://twitter.com/twitter/status/1374767545857740801,English,2021-03-24 16:58:19+00:00,"I've open sourced my demo of @storybookjs with Relay
+
+https://t.co/rvmgbpsVXI
+
+it uses relay-test-utils to make mocking stories easy
+
+online demo here https://t.co/KZIaHfEMIb
+
+you can sponsor me here https://t.co/ljGzLenKLa",11,0,26,"https://github.com/sibelius/relay-storybook, https://sibelius.github.io/relay-storybook-demo/?path=/story/userlist--simple, https://www.patreon.com/sibelius",repository
+https://twitter.com/twitter/status/1374682376085848065,English,2021-03-24 11:19:53+00:00,"Tokyo Machile Learning Meetup ! https://t.co/DQZQr4NFDe #kaggle #machinelearning @ph_singer @__MLT__
+Code &amp; Tutorials
+GitHub https://t.co/e7LKZ6vLOn
+YouTube https://t.co/WCrzTcpA93
+Become a Patron https://t.co/xW3oX71xeU 💙 https://t.co/n2r37MZNMa",0,0,3,"https://mltokyo.ai/, https://github.com/Machine-Learning-Tokyo, https://www.youtube.com/mltokyo, https://www.patreon.com/MLTOKYO, https://twitter.com/crs_macedo/status/1374682376085848065/photo/1",profile
+https://twitter.com/twitter/status/1372988744463093762,English,2021-03-19 19:10:00+00:00,And without leaving the remembers... Here are the ways you can help us! Patreon: https://t.co/0ZSYLGaJTt; GitHub: https://t.co/edKFmFX6eG or tip wherever you wan via PayPalMe: https://t.co/nJ99Cw7pl9 Cheers!!!,0,0,0,"https://patreon.com/stdbgames, https://github.com/jolupa/stdbgames, https://paypal.me/stdbgames",repository
+https://twitter.com/twitter/status/1372809334481154050,English,2021-03-19 07:17:05+00:00,"#MiSTerFPGA Atari Lynx core is released now: https://t.co/mmrTyZbFIZ
+If you like the core or want to support future cores, you can support my work on Patreon: https://t.co/2w170km5hd",53,20,276,"https://github.com/MiSTer-devel/AtariLynx_MiSTer, https://www.patreon.com/FPGAzumSpass",repository
+https://twitter.com/twitter/status/1371811997008924676,English,2021-03-16 13:14:01+00:00,"v0.2.4 released to Patreon https://t.co/YiVZNE7FRq
+v0.2.2 released to Github. https://t.co/9Q0zSFwSR2 https://t.co/CrZIB9q8j1",7,0,17,"http://patreon.snestracker.com, https://github.com/bazzinotti/snestracker/releases, https://twitter.com/snestracker1/status/1371811997008924676/photo/1",releases
+https://twitter.com/twitter/status/1370421832751280129,English,2021-03-12 17:10:00+00:00,Ops! I think that's time for a reminder! If you like the work we do on DB! Here you have some ways to help us! Patreon: https://t.co/0ZSYLGaJTt GitHub: https://t.co/edKFmFX6eG or tip us whatever you want on PayPal Me: https://t.co/nJ99Cw7pl9,0,0,0,"https://patreon.com/stdbgames, https://github.com/jolupa/stdbgames, https://paypal.me/stdbgames",repository
+https://twitter.com/twitter/status/1369298396876529666,English,2021-03-09 14:45:52+00:00,"#DailySolveSpace is #AWESOME👓 #dealwithit 
+Grab #slvs for FREE 📥 https://t.co/NX185Rp875
+Want much more weird #SolveSpace 3.x #Showcase?
+👋👨‍💻 Became my Patron! 💸🔀🚀 https://t.co/2FC5pddJ0y https://t.co/N6wKwCYd7w",0,0,1,"https://github.com/Symbian9/SolveSpace-Daily-Engineering, https://patreon.com/app4soft, https://twitter.com/app4soft/status/1369292211817508873",repository
+https://twitter.com/twitter/status/1368610482450481156,English,2021-03-07 17:12:21+00:00,"Highlight Search Results in the Browser v1.0.0-beta.1 is now available on GitHub!: https://t.co/m3EiSQrqci
+
+Let me know what you think via @glutanimate
+Support my work: https://t.co/OyQo8zRUJ6
+
+#AnkiAddons #AnkiSRS #Anki #SpacedRepetition https://t.co/RJRKUiwlhj",0,0,3,"https://github.com/glutanimate/highlight-search-results/releases/tag/v1.0.0-beta.1, https://patreon.com/glutanimate, https://twitter.com/AnkiUpdates/status/1368610482450481156/photo/1",releases
+https://twitter.com/twitter/status/1368193286490517505,English,2021-03-06 13:34:33+00:00,"Shout Out
+https://t.co/Z40MxJj5xH
+
+Patreon
+https://t.co/QG3cEF8ayc 
+
+Facebook
+https://t.co/tPofF2EQfX 
+
+Instagram 
+https://t.co/bMBeQl3dKm
+
+Twitter
+https://t.co/VueRRY9ZRm
+
+Github 
+https://t.co/rBxBPd3j5j
+
+Discord 
+https://t.co/XL6hzqNbfK
+
+Merch
+https://t.co/qJjsH7B8gs
+#Links",0,0,0,"https://docs.google.com/forms/d/e/1FAIpQLSfeVwONmUYtoQ4w0gOtdPwdtivaVZlgZur9vBni8orXNiLwrA/viewform?usp=sf_link, https://www.patreon.com/TermiNateVader, https://www.facebook.com/terminatevader, https://www.instagram.com/terminatevader, https://www.twitter.com/terminatevader, https://www.github.com/terminatevader, https://discord.gg/DVNUcqe, https://teespring.com/stores/terminatevader",profile
+https://twitter.com/twitter/status/1367596037557391364,English,2021-03-04 22:01:18+00:00,"hi~ i'm ally!
+
+ask me stuff ☆ https://t.co/eW8pAjP8xI
+see my code ☆ https://t.co/Gpmj4KOGGv
+visit my site ☆ https://t.co/fJ66FECosH
+simp to me ☆ https://t.co/6muSWV9bHJ
+
+ask for my discord ~ but only if we're friends! ☆
+
+ta~ &lt;3",0,2,8,"https://curiouscat.qa/AllyTally, https://github.com/AllyTally, https://ally.moe/, https://patreon.com/AllyTally",profile
+https://twitter.com/twitter/status/1365618793293217797,English,2021-02-27 11:04:26+00:00,"Hello FPL folks,
+I recently have started a patreon (https://t.co/8eqtNkxVQV). If you have ever used my data on github and would like to show support then please become a patreon. More tiers coming soon with customised weekly and monthly reports ( eg: https://t.co/KCAiZZ8LEy)",3,0,8,"https://www.patreon.com/fplgwdatareports, https://github.com/vaastav/Fantasy-Premier-League/blob/master/vaastav_report_1920.pdf",file
+https://twitter.com/twitter/status/1365227604228198402,English,2021-02-26 09:10:00+00:00,Did you know? If you like the DB! You can help us in this ways: Patreon (https://t.co/wB3dRvv8UW) GitHub (https://t.co/edKFmFX6eG) And PayPalMe (https://t.co/nJ99Cw7pl9),0,0,0,"https://www.patreon.com/stdbgames, https://github.com/jolupa/stdbgames, https://paypal.me/stdbgames",repository
+https://twitter.com/twitter/status/1364675368498659337,English,2021-02-24 20:35:36+00:00,"#FreeCAD #LinkStage3 #News .@RealThunder12 has released Daily 2021.02.24. See the attached changelog. Remember you can support LinkStage3 efforts by donating to Patreon https://t.co/4Nl16j9Sag 
+Download from https://t.co/8GHKOSmmSe
+#fc3d #FLOSS #FOSS #OpenSource #CAD #MCAD https://t.co/YMQdkaufIw",4,2,26,"https://www.patreon.com/thundereal, https://github.com/realthunder/FreeCAD_assembly3/releases, https://twitter.com/FreeCADNews/status/1364675368498659337/photo/1",releases
+https://twitter.com/twitter/status/1363778053260926976,English,2021-02-22 09:10:00+00:00,Let's start the week with a healthy reminder. If you want to help us because you like the DB! Here are the answers: Patreon (https://t.co/0ZSYLFT91V) GitHub (https://t.co/RxE8ozAHvY) or PayPal Me (https://t.co/nJ99CvPOtB) Thanks a lot! And good morning!,0,0,2,"https://patreon.com/stdbgames, https://github.com/jolupa/stdbgames, https://paypal.me/stdbgames",repository
+https://twitter.com/twitter/status/1363620691761856518,English,2021-02-21 22:44:42+00:00,"TONIGHT: Doing a multi-hour webinar on every detail behind the hate5grip (microprocessor config, wiring, 3D printing, Python dev). Tune in/ask questions at 7pm EST: https://t.co/CqahM3exYR. Will stay up as VOD
+
+All the code/project files are open source: https://t.co/7kjFXIUhKf",1,1,6,"http://patreon.com/hate5six, http://github.com/hate5six/hate5grip",repository
+https://twitter.com/twitter/status/1361966113559511040,English,2021-02-17 09:10:00+00:00,Let's we start with a reminder for everyone. If you like what you see on DB! remember you can help us in different ways: Patreon (https://t.co/0ZSYLGaJTt); GitHub (https://t.co/edKFmFX6eG) or make a little tip to our jar via PayPalMe (https://t.co/nJ99Cw7pl9),0,0,1,"https://patreon.com/stdbgames, https://github.com/jolupa/stdbgames, https://paypal.me/stdbgames",repository
+https://twitter.com/twitter/status/1359987798766465024,English,2021-02-11 22:08:53+00:00,"say hello to the hate5grip: my 3d printed wifi based camera angle switcher via raspberry pi
+
+watch in full: https://t.co/gptU8eNzlX
+
+step by step breakdown/livestream tutorial will be held at https://t.co/CqahM3exYR
+
+code will be shared soon at https://t.co/6eTdDmhaLm https://t.co/FDzsli7R5p",31,17,347,"https://youtu.be/o0lLO4V0J0c, http://patreon.com/hate5six, http://github.com/hate5six, https://twitter.com/hate5six/status/1359987798766465024/video/1",profile
+https://twitter.com/twitter/status/1359256809526218753,English,2021-02-09 21:44:11+00:00,"Welcome to my Twitter here are some links.
+
+Discord: https://t.co/WpUp6gJQge
+Patreon: https://t.co/zPhPJGoe66
+Stream: https://t.co/X5uPEGA923
+Github: https://t.co/aDykn8EpWa https://t.co/sFgKFrdqjE",2,1,7,"http://discord.gg/qksGqMD, http://patreon.com/jetdoglabs, http://www.twitch.tv/jetdog8808, http://github.com/jetdog8808, https://twitter.com/jetdog8808_dev/status/1359255625759358977",profile
+https://twitter.com/twitter/status/1358261149427499008,English,2021-02-07 03:47:47+00:00,"[ Commonly asked questions to clean twitter bio up
+Author: @fakevexorian 
+
+How it works: https://t.co/E2VYp8Vpnv
+
+Tip Jar: https://t.co/etMf5l6Fbk
+
+Help keep me running: https://t.co/QzY20tjVVW
+
+Twitter bot source code (not really state of the art tech) https://t.co/qHToDRzAZB
+]",2,1,6,"https://www.vexorian.com/2015/05/cloudy-conway.html, http://buymeacoffee.com/vexorian, http://patreon.com/vexorian, https://github.com/vexorian/bmpbug-source",repository
+https://twitter.com/twitter/status/1357768525226659844,English,2021-02-05 19:10:17+00:00,"Support us at our work for #DietPi, by working on software implementations, help in the forum and at issues: https://t.co/DBPXtxlkpl
+
+Or just support us with a donation:
+https://t.co/JlHQfg8Hgo
+or become a Patron: https://t.co/zjUwG0WELv",4,0,11,"https://github.com/MichaIng/DietPi/blob/master/CONTRIBUTING.md, https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=6DVBECXRW3TAA, https://www.patreon.com/DietPi",file
+https://twitter.com/twitter/status/1357180641524219910,English,2021-02-04 04:14:14+00:00,"Instead of filtering specific strings do you want to exclude specific ones when doing subdomain enumeration? Download Findomain: https://t.co/EZyU6FqpUk, then (image):  #BugBounty #bugbountytips #Hacking 
+
+Help us to keep the work: https://t.co/UpK6lchHyt https://t.co/PzOtGexY5b https://t.co/3U13ATRAb5",13,1,15,"https://github.com/Findomain, https://www.patreon.com/edu4rdshl, https://paypal.me/sechacklabs, https://twitter.com/FindomainApp/status/1357180641524219910/photo/1",profile
+https://twitter.com/twitter/status/1355171341243183104,English,2021-01-29 15:10:00+00:00,So many ways to help us improve the DB! here I tell you. Be a Patron (https://t.co/wB3dRvMKjw) help with coding issues (https://t.co/edKFmGeHDg) or send us a little tip (https://t.co/nJ99CvPOtB) There's a lot of ways!,0,0,0,"https://www.patreon.com/stdbgames, https://github.com/jolupa/stdbgames, https://paypal.me/stdbgames",repository
+https://twitter.com/twitter/status/1354503446918029315,English,2021-01-27 18:56:01+00:00,"He also open-sources his animation engine on GitHub for all to use! https://t.co/oB5b0smQIE
+
+So if you're a fan of 3Blue1Brown, please don't forget to support his Patreon: https://t.co/O3opndBDgL https://t.co/KSgYT2hqzE",0,1,7,"https://github.com/3b1b/manim, https://www.patreon.com/3blue1brown/, https://twitter.com/NicolasDorier/status/1354421917063671811",repository
+https://twitter.com/twitter/status/1350939190633099268,English,2021-01-17 22:52:56+00:00,"Stress test Tessellation with 14 million polygons, from 34 sec to 8.7 sec using Numba and Parallel computing :-) https://t.co/71d6d8YQwV A special thanks to my supporters on Patreon! https://t.co/DyzfCUJaLq #b3d #blender3d #blendertissue #computationaldesign https://t.co/Y8nnPYziPI",10,0,80,"https://github.com/alessandro-zomparelli/tissue/tree/b290-dev, https://www.patreon.com/alessandrozomparelli, https://twitter.com/alessandrozompa/status/1350939190633099268/photo/1",file
+https://twitter.com/twitter/status/1348849681275621379,English,2021-01-12 04:29:59+00:00,My lil bro makes cool #OpenSource tools to run #WordPress without headaches and #a11y Check him out! @ljsdotdev @patreon #NewPatron https://t.co/yzSAilEPbe https://t.co/JvQe3j5mhn #ProudSis #PHP #webperf,4,1,3,"https://patreon.com/leonstafford, https://github.com/leonstafford",profile
+https://twitter.com/twitter/status/1348728944925802497,English,2021-01-11 20:30:13+00:00,"Since I am using this repo https://t.co/RXgMANMhIt, I thought why not sponsor the project. It happens I am the first one. :p @viglovikov 
+
+https://t.co/qk4r6oC1z1",1,1,3,"https://github.com/ternaus/cloths_segmentation, https://patreon.com/ternaus?utm_medium=social&utm_source=twitter&utm_campaign=tyshare2",repository
+https://twitter.com/twitter/status/1346141843420028929,English,2021-01-04 17:10:00+00:00,Reminder on how you can help with the page! Be a Patron: https://t.co/0ZSYLFT91V Help coding: https://t.co/edKFmGeHDg supporting us one time: https://t.co/nJ99CvPOtB,0,0,0,"https://patreon.com/stdbgames, https://github.com/jolupa/stdbgames, https://paypal.me/stdbgames",repository
+https://twitter.com/twitter/status/1345105515693678597,English,2021-01-01 20:32:00+00:00,"📌 sup,, i'm Lio! 🦁
+
+💻 I'm a web dev and UI designer. 
+
+pretty much always open for comms
+
+website; https://t.co/OYrGxYPk6T
+portfolio; https://t.co/AHpzagzrJY
+
+patreon; https://t.co/JBp3QfdpTw
+kofi; https://t.co/g29oQqhnOt
+git; https://t.co/CrVJaDbhoD",9,1,18,"http://himbo.cat, http://werewolf.design, http://kji.tf/patreon, http://kji.tf/kofi, https://github.com/himbolion",profile
+https://twitter.com/twitter/status/1344239307180048386,English,2020-12-30 11:10:00+00:00,Follow your Xmas spirit and help us with the page maintenance! We have a Patreon (https://t.co/0ZSYLGaJTt) our GitHub if you have programming knowledge (https://t.co/edKFmFX6eG) ornif you want to make a quick money relief (https://t.co/nJ99Cw7pl9),0,0,1,"https://patreon.com/stdbgames, https://github.com/jolupa/stdbgames, https://paypal.me/stdbgames",repository
+https://twitter.com/twitter/status/1341204467467902976,English,2020-12-22 02:10:38+00:00,"DS Anim Studio Version 3.0.0 is available now for Patreon supporters.
+
+Changelog: https://t.co/KVJtqjC7Ze
+
+v3.0.X will be Patreon exclusive until December 28th 2020 (If I Update it to v3.0.1 etc it won't be delayed further).
+
+https://t.co/AiIkhbIqwV",3,1,27,"https://gist.github.com/Meowmaritus/daed2d0c433770839822e0bed2d54d1c, https://patreon.com/Meowmaritus",gist
+https://twitter.com/twitter/status/1340011448739762176,English,2020-12-18 19:10:00+00:00,"So you visit the DB! and say ""Hey! Cool! How can I help them!"" So you have some alternatives: Our Patreon (https://t.co/0ZSYLFT91V), if you know some programming (https://t.co/RxE8ozAHvY) or send us a tip (https://t.co/nJ99CvPOtB)",1,0,1,"https://patreon.com/stdbgames, https://github.com/jolupa/stdbgames, https://paypal.me/stdbgames",repository
+https://twitter.com/twitter/status/1338817431184273408,English,2020-12-15 12:05:24+00:00,"#FreeCAD #News 
+#realthunder releases new #LinkStage3 ""Daily 2020.12.13"" build. Pls download, test, report issues, + give feedback. Also included previous releases we hadn't announced
+https://t.co/8GHKOSmmSe
+
+Support realthunder's efforts via his Patreon
+https://t.co/EO9I8CimlK https://t.co/BAzemREwLj",2,0,18,"https://github.com/realthunder/FreeCAD_assembly3/releases, https://patreon.com/thundereal, https://twitter.com/FreeCADNews/status/1338817431184273408/photo/1, https://twitter.com/FreeCADNews/status/1338817431184273408/photo/1, https://twitter.com/FreeCADNews/status/1338817431184273408/photo/1",releases
+https://twitter.com/twitter/status/1335923726832054273,English,2020-12-07 12:26:51+00:00,Follow #realthunder work on #LinkStage3 branch through his patreon https://t.co/4Nl16j9Sag and his github repo https://t.co/8GHKOSmmSe https://t.co/xepyBdN7Jq,0,1,7,"https://www.patreon.com/thundereal, https://github.com/realthunder/FreeCAD_assembly3/releases, https://twitter.com/MinervasRefuge/status/1335774810366910466",releases
+https://twitter.com/twitter/status/1334169052416249856,English,2020-12-02 16:14:24+00:00,"#FreeCAD #News 
+#realthunder releases new #LinkStage3 ""Daily 2020.12.02"" build. Please download, test, report issues, and give feedback. 
+Support realthunder's efforts via his Patreon
+https://t.co/4Nl16j9Sag 
+
+https://t.co/CdXbjZYO1U
+#fc3d #FLOSS #FOSS #OpenSource #CAD https://t.co/88cB8QhJgC",2,0,11,"https://www.patreon.com/thundereal, https://github.com/realthunder/FreeCAD_assembly3/releases/tag/0.11, https://twitter.com/FreeCADNews/status/1334169052416249856/photo/1",releases
+https://twitter.com/twitter/status/1332181372266549248,English,2020-11-27 04:36:04+00:00,"Hi just wanted to support my friend @Shaostoul He literary is the best and actually friendliest guy You'll ever meet for why not go support him!:)
+Website - https://t.co/FaylWqRYkw
+Patreon - https://t.co/hv1mpCrD1Y
+Trello - https://t.co/R1MkBczHNn
+GitHub - https://t.co/FsB7WYrCux",0,0,2,"https://shaostoul.com/, https://www.patreon.com/Shaostoul, https://trello.com/projectuniverse, https://github.com/Shaostoul/Project-Universe",repository
+https://twitter.com/twitter/status/1332056509048643584,English,2020-11-26 20:19:54+00:00,"Thanks for passing by! 
+Support server: https://t.co/vvibalapmf
+Wiki: https://t.co/0ymbV0ZhIe
+
+If you want, you can help support development for a little as $2 a month at https://t.co/o8csTgEeOJ
+
+Love you all and thanks for using Mantaro! &lt;3",0,4,26,"https://support.mantaro.site, https://github.com/Mantaro/MantaroBot/wiki, https://patreon.com/mantaro",wiki
+https://twitter.com/twitter/status/1329136407282114562,English,2020-11-18 18:56:28+00:00,"The homebrew maintainers are doing an even more heroic amount of work than usual: https://t.co/oWpBUna8u5
+
+If you're not already, now would be a great time to support them financially: https://t.co/gfGYE61j99",9,1,41,"https://github.com/Homebrew/brew/issues/7857, https://www.patreon.com/homebrew",issues
+https://twitter.com/twitter/status/1328701555848196102,English,2020-11-17 14:08:31+00:00,"Download Links
+- https://t.co/SNPBXEvEqP
+- https://t.co/ewptAU0j7p
+- https://t.co/6p1jJ7uC1R
+
+Creator Support
+- https://t.co/ZAGm3Tk92K
+- https://t.co/MCuMMGVyXu",4,0,43,"https://www.curseforge.com/wow/addons/hekili, https://www.wowinterface.com/downloads/info24608-Hekili.html, https://github.com/Hekili/hekili/releases/latest, https://patreon.com/hekili, https://paypal.me/hekili",releases
+https://twitter.com/twitter/status/1327112180404269056,English,2020-11-13 04:52:55+00:00,"I released a critical bugfix to https://t.co/HZ6Sm30ALo!!
+the crash: https://t.co/gIkjxSeHq0
+
+early birds get the worm :)",1,0,2,"https://patreon.snestracker.com, https://github.com/bazzinotti/snestracker/issues/160",issues
+https://twitter.com/twitter/status/1317617472095309825,English,2020-10-18 00:04:20+00:00,"new sticky post, who dis
+
+I like functional programming, Scala, money and other nice things.
+I make videos about FP/Scala: https://t.co/bqYW4dKtO2
+Sometimes push lines at: https://t.co/AdadhYkHko
+
+You can also help me pay my water bills: https://t.co/9bfOcpx5HJ",6,0,21,"https://www.youtube.com/channel/UCBSRCuGz9laxVv0rAnn2O9Q, https://github.com/kubukoz, https://www.patreon.com/kubukoz",profile
+https://twitter.com/twitter/status/1317170100491984896,English,2020-10-16 18:26:38+00:00,"Our new package named as ""c-installer"" has been released as v0.0.5.
+With that module you can make discord bots more easyly.
+docs: https://t.co/m4E8S2RnAp
+npm: https://t.co/KV4PKDLSCf
+github: https://t.co/xi10Twao5B
+patreon: https://t.co/dvG2CzLXmn https://t.co/9sgE5zwpWY",0,1,1,"https://c-installer.js.org, https://www.npmjs.com/package/c-installer, https://github.com/llenax/c-installer, https://www.patreon.com/lenax, https://twitter.com/CodeFENIX2/status/1317170100491984896/photo/1",repository
+https://twitter.com/twitter/status/1312061746899750919,English,2020-10-02 16:07:52+00:00,"Still, greatly underappreciated #ScreenToGif tool!
+
+Using it too often to resist from supporting author at Patreon: https://t.co/UVQCygywEc
+
+Such projects deserve more attention and all our support!
+https://t.co/oAJvQ1nhgi
+
+#opensource https://t.co/BWi0frSrQ6",4,0,13,"https://www.patreon.com/nicke, https://github.com/NickeManarin/ScreenToGif, https://twitter.com/NickeManarin/status/1236508122480611328",repository
+https://twitter.com/twitter/status/1309076434086961160,English,2020-09-24 10:25:18+00:00,"2 bits of news: 
+
+⭐️I've launched a Patreon to support &amp; encourage future work on my #UE4 public works (libs, scripts, Git LFS improvements, blogs): https://t.co/im4TteHZEy
+
+⭐️My new #UE4 helpers library is live! https://t.co/XG5T3xbw6L Improvements to UI &amp; input so far.
+
+😀
+1/2",9,1,21,"https://patreon.com/stevestreeting, https://github.com/sinbad/StevesUEHelpers",repository
+https://twitter.com/twitter/status/1308160941360472064,English,2020-09-21 21:47:27+00:00,"https://t.co/HYX1riYqWj
+https://t.co/ZwwiO0bjVt
+https://t.co/puXE36WeA5
+LIQUID IS COMING...
+Follow Our Dev On Github or Read Up On Medium
+#LiquidCool #DeFi #Ethereum #uniswap",0,0,0,"https://github.com/LiquidSwapFinance, https://medium.com/@liquidswapfinance, https://www.patreon.com/LiquidSwap",profile
+https://twitter.com/twitter/status/1301229326986129411,English,2020-09-02 18:43:41+00:00,"I don't know of a better explication of JavaScript than the @ydkjs series from @getify.  https://t.co/t02GM6SR9K
+
+The entire series is available for no cost. 
+
+Read and support him on @Patreon cuz he's worth it. 
+
+ https://t.co/QGHjmA0QMl",1,0,2,"https://github.com/getify/You-Dont-Know-JS, https://patreon.com/getify?utm_medium=social&utm_source=twitter&utm_campaign=tyshare2",repository
+https://twitter.com/twitter/status/1294551322071412737,English,2020-08-15 08:27:41+00:00,"We are compiling a list of AI News on AI Digest repository every month: 
+https://t.co/iPrbiKHLeR 
+
+You could either;
+- visit the repo to see the recent news
+- Become a MLT Patron: https://t.co/6Qjv0jiYsj  to receive monthly MLT Newsletter which contains AI Digest &amp; MLT News.",1,0,8,"https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter, https://www.patreon.com/MLTOKYO/posts",repository
+https://twitter.com/twitter/status/1292397782913843201,English,2020-08-09 09:50:17+00:00,"Hello World in C | C Language Tutorial | CodingSolution | #2, Please like subscribe and share
+Youtube : https://t.co/bk7LWNlT5g
+Patreon : https://t.co/UPHXiuocOl
+LinkedIn : https://t.co/32wAkGVt5z
+Facebook : https://t.co/Y9Jsl0t6z6
+GitHub : https://t.co/GJIa3HA9T0 https://t.co/BTLaSb7B4z",0,0,1,"https://youtu.be/O63JdwlVPSc, https://www.patreon.com/codingsolution, https://www.linkedin.com/company/codingsolution, https://www.facebook.com/CodingSolution-109860890797611, https://github.com/codingsolution20, https://twitter.com/Codingsolution1/status/1292397782913843201/photo/1",profile
+https://twitter.com/twitter/status/1290676985191174145,English,2020-08-04 15:52:27+00:00,"My great list of socials and links!
+Twitch: https://t.co/bu7E84xoog
+YouTube: https://t.co/xwiicjFC7h
+Instagram: https://t.co/WVYl4LH5ot
+Website: https://t.co/y5egbnX5zN
+GitHub: https://t.co/un6SYvp1ru
+Patreon: https://t.co/5pZow8jMLG",0,0,4,"https://www.twitch.tv/turkeydev, https://youtube.com/c/turkeydev, https://www.instagram.com/turkeydev/, https://theturkey.dev/, https://github.com/TheTurkeyDev, https://www.patreon.com/TurkeyDev",profile
+https://twitter.com/twitter/status/1288866158599266305,English,2020-07-30 15:56:52+00:00,"A brief ""introduction to c language"", Please like subscribe and share
+Youtube : https://t.co/M95eF70oD7
+Patreon : https://t.co/UPHXiuocOl
+Instagram : https://t.co/I6umI4Wb09
+LinkedIn : https://t.co/32wAkGVt5z
+Facebook : https://t.co/Y9Jsl0t6z6
+GitHub : https://t.co/GJIa3HA9T0 https://t.co/Tk13zv1iBe",0,0,2,"https://youtu.be/Gf337RS3Bog, https://www.patreon.com/codingsolution, https://www.instagram.com/coding.solution, https://www.linkedin.com/company/codingsolution, https://www.facebook.com/CodingSolution-109860890797611, https://github.com/codingsolution20, https://twitter.com/Codingsolution1/status/1288866158599266305/photo/1",profile
+https://twitter.com/twitter/status/1288203828630663168,English,2020-07-28 20:05:01+00:00,". @TheEduardoRFS's Pull Request for iOS/Mac ARM has landed in OCaml compiler https://t.co/RlyS2mE1m2. If that sounds cool, consider supporting Eduardo's Patreon - also building cool @reveryui /@reasonml / mobile infra!
+https://t.co/GPROVcX3AJ",12,1,46,"https://github.com/ocaml/ocaml/pull/9699, https://www.patreon.com/eduardorfs",pull
+https://twitter.com/twitter/status/1285275821029105665,English,2020-07-20 18:10:09+00:00,"02 Microsoft Blazor (Arabic) https://t.co/b44u7wbm4H via @YouTube 
+
+Source Code: https://t.co/K9MzQkKGlS
+Playlist: https://t.co/45KN2bydf2
+Linkedin: https://t.co/27dACR7zpD
+Github: https://t.co/58kTlh8Yht
+Patreon: https://t.co/gksvvvuK7w",0,0,0,"https://youtu.be/ipRkFCS51c4, https://github.com/ShadyNagy/BlazorCourse, https://www.youtube.com/playlist?list=PLIwDt-6Yg4xyGr6ac6E8g-fe_fV4wXIS1, https://www.linkedin.com/in/shadynagy, https://github.com/ShadyNagy, https://www.patreon.com/ShadyNagy","repository, profile"
+https://twitter.com/twitter/status/1284135713332584448,English,2020-07-17 14:39:46+00:00,"In this video, I will explain 'what is PREPROCESSOR? with live demo
+youtube : https://t.co/urhKBrej1L
+Patreon : https://t.co/UPHXiuocOl
+Instagram : https://t.co/I6umI4Wb09
+LinkedIn : https://t.co/32wAkGVt5z
+Facebook : https://t.co/Y9Jsl0t6z6
+GitHub : https://t.co/GJIa3HA9T0 https://t.co/lSwXKKdHNT",0,0,1,"https://youtu.be/q755U1-1iHg, https://www.patreon.com/codingsolution, https://www.instagram.com/coding.solution, https://www.linkedin.com/company/codingsolution, https://www.facebook.com/CodingSolution-109860890797611, https://github.com/codingsolution20, https://twitter.com/Codingsolution1/status/1284135713332584448/photo/1",profile
+https://twitter.com/twitter/status/1282839333142134784,English,2020-07-14 00:48:25+00:00,"Links to my work:
+
+🌐My coding: https://t.co/AV7QzbAzfj
+💾My hobby game: https://t.co/llr0BaMmXu
+📼Tech YT: https://t.co/LuEKLIdxub
+🎮Gaming YT: https://t.co/7MLKISSo4I
+🕹Twitch: https://t.co/q2Lw1Foox7
+👍Patreon: https://t.co/WGLeirQyEf
+📷Capturas: https://t.co/TudDf1bFBn",0,0,2,"https://github.com/digressive, http://mikegalvin.itch.io/3d-maze-remix, http://youtube.com/mikegalvin, http://youtube.com/digressive, http://twitch.tv/digressive, http://patreon.com/mikegalvin, https://www.instagram.com/itsdigressive",profile
+https://twitter.com/twitter/status/1281339664595472384,English,2020-07-09 21:29:16+00:00,"&gt; ICYMI:
+
+My minimal pixelart editor is open source! I started from scratch, so it's missing a lot of features, but it's a work in progress!
+If you'd like to show your support, I have a Patreon: https://t.co/ZrFM2HuoYb
+
+EDGITOR GitHub: https://t.co/NV0L8Qr2xR &lt; https://t.co/wA572wdaXH",2,1,35,"https://www.patreon.com/ENDESGA, https://github.com/ENDESGA/EDGITOR, https://twitter.com/ENDESGA/status/1281339664595472384/photo/1",repository
+https://twitter.com/twitter/status/1281251674632474625,English,2020-07-09 15:39:38+00:00,"Create Layout using React and Semantic UI - 
+https://t.co/poX6nCwm2c
+Ben Awad
+Create layout using React and Semantic UI.
+
+Finished code:
+https://t.co/mzrzOZbH4Q
+Patreon: https://t.co/iaaBQfFLPF
+----
+Join the Discord: https://t.co/Mh7B4NiSRx
+Twitter: https://t.co/83zMJsv8Lw
+... https://t.co/IUh4pAaFfk",0,0,0,"https://theengineeringofconsciousexperience.com/create-layout-using-react-and-semantic-ui/, https://github.com/benawad/real-time-todo, https://www.patreon.com/benawad, https://discord.gg/Vehs99V, https://twitter.com/benawad, https://twitter.com/AiNewsCurrents/status/1281251674632474625/photo/1",repository
+https://twitter.com/twitter/status/1281176445432274944,English,2020-07-09 10:40:42+00:00,"YAYY!!!
+#CrossCode is out today &amp; im so incredibly proud &amp; happy for @robdangerous.
+their tech has done SO much &amp; they deserve support. they really deserve it
+
+GO SUPPORT THEM TO HELP CONTINUE WHAT THEY DO!!!
+
+https://t.co/FtiQoGiDDR
+
+https://t.co/6Wjl442vQX
+
+@Deck13Spotlight",3,1,6,"https://github.com/RobDangerous, https://www.patreon.com/RobDangerous",profile
+https://twitter.com/twitter/status/1279055017094205440,English,2020-07-03 14:10:54+00:00,"I am releasing an open-source flowfield compute shader sample project for people who want to know how to use compute shaders in unity's URP pipeline! [Link below]
+
+🔗https://t.co/82hEgKEbb6
+💌https://t.co/I2gwV1KISI
+
+#madewithunity #unity3d #UnityTips #VFXFriday https://t.co/JueWE8LCh5",1,0,8,"https://github.com/Kodrin/GPU-FlowField, https://www.patreon.com/Codrin_Mihail, https://twitter.com/CodrinMihail/status/1279055017094205440/photo/1",repository
+https://twitter.com/twitter/status/1278740603434676226,English,2020-07-02 17:21:32+00:00,"Interested in software defined radio and machine learning related open-source softwares?  Support my friend and brilliant developer @luigifcruz on patreon! #supportyourdev
+
+https://t.co/KchRwGoVi3 
+
+https://t.co/k5hVmG83tC
+https://t.co/ZwH4GDqEGd
+https://t.co/6i1C6hZARG",3,0,4,"https://www.patreon.com/luigifcruz, https://github.com/luigifreitas/CyberRadio, https://github.com/luigifreitas/pisdr-image, https://github.com/luigifreitas/kimera","repository, repository, repository"
+https://twitter.com/twitter/status/1278155014565842944,English,2020-07-01 02:34:37+00:00,"This is the official twitter account for RetroSpy.
+
+RetroSpy is hardware+software solution used to display controller inputs on your stream, speed running validation, game tutorials and more.
+
+💻https://t.co/coQRVvgNE9
+💡https://t.co/qV4RpveFtF
+☕https://t.co/j4jNzwYlgo",1,0,10,"http://github.com/retrospy/RetroSpy, http://patreon.com/zoggins, http://ko-fi.com/zoggins",repository
+https://twitter.com/twitter/status/1273453328823808000,English,2020-06-18 03:11:47+00:00,"Tissue addon by Alessandro Zomparelli for Blender got new updates, now has this neat ""Streamline"" option download the b280 dev branch:
+https://t.co/lk5eHbLwG2
+
+Support Tissue: https://t.co/mtCapwWadZ https://t.co/tecHMuRP84",7,3,83,"https://github.com/alessandro-zomparelli/tissue/tree/b280-dev, https://www.patreon.com/alessandrozomparelli, https://twitter.com/jimmygunawanapp/status/1273453328823808000/photo/1",file
+https://twitter.com/twitter/status/1273310201026838534,English,2020-06-17 17:43:03+00:00,Streamlines are now part of the development branch of Tissue! If you want to test it: https://t.co/tDCX6S601O If you want to support me: https://t.co/DyzfCUJaLq #b3d #blender3d #blendertissue #streamlines #weightmaps #computationaldesign #parametricarchitecture #generativedesign https://t.co/A95fonlz3I,65,7,352,"https://github.com/alessandro-zomparelli/tissue/tree/b280-dev, https://www.patreon.com/alessandrozomparelli, https://twitter.com/alessandrozompa/status/1273310201026838534/video/1",file
+https://twitter.com/twitter/status/1272479924360638470,English,2020-06-15 10:43:50+00:00,"Tecmo arcade core for MiSTer public release 💖 
+
+Rygar (1986), Gemini Wing (1987), and Silkworm (1988): https://t.co/6FwsfvyVL0
+
+Please enjoy it. If you want to support my efforts: https://t.co/R9FegnT0HS https://t.co/x8AH9boFsp",26,11,166,"https://github.com/MiSTer-devel/Arcade-Tecmo_MiSTer, https://www.patreon.com/nullobject, https://twitter.com/nullobject/status/1272479924360638470/photo/1, https://twitter.com/nullobject/status/1272479924360638470/photo/1, https://twitter.com/nullobject/status/1272479924360638470/photo/1",repository
+https://twitter.com/twitter/status/1267160370915008513,English,2020-05-31 18:25:49+00:00,I'm excited to share something I've been working on. A simple virtual tabletop for D&amp;D. https://t.co/JEywyvBnQ8. Access is currently limited to the first Patreon supporters https://t.co/GqOsXiroQP so we can make it awesome. And it's open-source: https://t.co/04mP8UT9S9,2,1,3,"https://table.party, https://patreon.com/tableparty, https://github.com/tableparty/table",repository
+https://twitter.com/twitter/status/1266378160574279680,English,2020-05-29 14:37:36+00:00,"Hey y'all. Are you a #Minecraft player and a #StarWars fan? I am making a Minecraft Star Wars plugin for your servers! 
+Check out the GitHub: https://t.co/lvDJ08q1Kq
+Join the Discord: https://t.co/8OEq1pRi6E
+Or support the project: https://t.co/mVS48Oe0YA https://t.co/Oh8zFhy39v",0,1,1,"https://github.com/MrLucaDev/StarCraft, https://discord.gg/8sfwpfK, https://patreon.com/StarCraft, https://twitter.com/MrLuca09/status/1266378160574279680/photo/1",repository
+https://twitter.com/twitter/status/1264617762061721601,English,2020-05-24 18:02:24+00:00,"So, the development on StarCraft has started. A Minecraft StarWars plugin. Will be including The Force, Lightsabers and way more!
+Follow the project on GitHub: https://t.co/RgZZhyp9M3
+Join the Discord server: https://t.co/mX3UktAAfq
+And support at: https://t.co/mVS48Oe0YA https://t.co/kpd0UZsnM7",0,0,0,"https://github.com/StarCraft, https://discord.gg/bAfVjsf, https://patreon.com/StarCraft, https://twitter.com/MrLuca09/status/1264617762061721601/photo/1",profile
+https://twitter.com/twitter/status/1516903124040093698,English,2022-04-20 22:14:22+00:00,"The legendary Sergey has spoken and 32X is here! I've add it to the YC builds https://t.co/SunxZFLxUQ
+
+Please support @srg320_  on Patreon! https://t.co/E8TubDtVqJ",3,1,32,"https://github.com/MikeS11/MiSTerFPGA_YC_Encoder/tree/main/YC%20Builds, https://www.patreon.com/srg320",file
+https://twitter.com/twitter/status/1516885362659966980,English,2022-04-20 21:03:47+00:00,"#MiSTerFPGA 🔥
+
+32X Core Release:
+https://t.co/YtutlQvIKc 
+
+Support Sergey via Patreon here: 🇺🇦
+https://t.co/zQ23hdlfuQ https://t.co/thWO6WN3Up",12,3,41,"https://github.com/MiSTer-devel/S32X_MiSTer/tree/main/releases, https://www.patreon.com/srg320/, https://twitter.com/JudgeDrokk/status/1516885362659966980/photo/1",file
+https://twitter.com/twitter/status/1512099462621106178,English,2022-04-07 16:06:19+00:00,"*tw* mention of neo n*zis
+
+https://t.co/aiIqD3PsLT
+https://t.co/aNlBaZxVj7
+https://t.co/8q5XidvYG9
+https://t.co/UHX6QE8eBo
+https://t.co/iZ6dzdL4NJ
+https://t.co/QSlvVqMQ3b
+
+For those wanting to report him to his employers &amp; clients. https://t.co/uO8v4qHroQ",0,0,0,"https://www.linkedin.com/in/tyrrrz/?originalSubdomain=ua, https://github.com/Tyrrrz, https://mvp.microsoft.com/en-us/PublicProfile/5004136?fullName=Alexey%20Golub, https://www.patreon.com/tyrrrz, https://dev.to/tyrrrz, https://dotnet.microsoft.com/en-us/, https://t.co/uO8v4qHroQ",profile
+https://twitter.com/twitter/status/1509481445672513537,English,2022-03-31 10:43:16+00:00,"Other social, please follow me!
+https://t.co/0964R1vcsF
+https://t.co/VavWtzNLnO
+https://t.co/lZLbBOgqSU
+
+https://t.co/zKRtfUwFFS
+https://t.co/ouecUeLTuX
+https://t.co/r8fECgNAId
+https://t.co/9pbvTKRRoM?
+https://t.co/DxekWhUxAR
+https://t.co/6PRlH38rMT
+https://t.co/Kzdc3KFPZ5",0,0,0,"https://github.com/nhomkinhthanhtam, https://issuu.com/nhomkinhthanhtam, https://myspace.com/nhomkinhthanhtam, https://profile.hatena.ne.jp/nhomkinhthanhtam/, https://nhomkinhthanhtam.blogspot.com/, https://stackoverflow.com/users/18638062/nhom-kinh-thanh-tam?tab=profile, https://www.houzz.com/hznb/professionals/general-contractors/nhom-kinh-thanh-tam-pfvwus-pf~851720918, https://www.kickstarter.com/profile/nhomkinhthanhtam, https://www.patreon.com/nhomkinhthanhtam, https://www.pinterest.com/contactnhomkinhthanhtam/_saved/",profile
+https://twitter.com/twitter/status/1505941207091982341,English,2022-03-21 16:15:37+00:00,"Well, it took less than ten minutes for @grego2d to patch out flashes when shooting an enemy. 
+
+You can run update_all to grab the patched mra for @Darren__O's Toaplan V1 core. Just enable AO.
+
+Check out https://t.co/Zn0bxv9WL8 and enjoy!
+
+#MiSTerFPGA 
+https://t.co/eITA26Oe3n",7,2,24,"http://patreon.com/arcade_atavism, https://github.com/atrac17/Arcade_Offset/commit/969a8901eee99c77f7c1daa0719dd9a1971b90ef",commit
+https://twitter.com/twitter/status/1505574358571397120,English,2022-03-20 15:57:53+00:00,"I am now a proud patron of Andrés Martinelli, creator of ""sc-im"" -- a #vim-like, terminal-based spreadsheet. 
+
+Thank you Andrés! And I hope you continue to improve this amazing tool.
+
+Repo:
+https://t.co/cMHfUHFq3N
+
+Patreon:
+https://t.co/6I9P9vEMNm https://t.co/I3CjWMGmh9",0,0,1,"https://github.com/andmarti1424/sc-im, http://patreon.com/user?u=51340616, https://twitter.com/elstono/status/1505574358571397120/photo/1",repository
+https://twitter.com/twitter/status/1501971844047462407,English,2022-03-10 17:22:47+00:00,"both #chrome and #edge pending review, the race is on. You can check the latest code(v2.5)on github if you're really impatient: https://t.co/KnfycXLssS
+
+We do have a patreon as well... if you like what we're doing, please consider supporting us: https://t.co/JLxxOQ1XfW https://t.co/zw0H8NvWbI",0,1,3,"https://github.com/mark-et-cap, https://www.patreon.com/mark_et_cap, https://twitter.com/mark_et_cap/status/1501958553401274371",profile
+https://twitter.com/twitter/status/1498675094222159876,English,2022-03-01 15:02:41+00:00,"My OpenGL demo
+https://t.co/iNHUcflPPL
+https://t.co/XemJpWGIr4 https://t.co/ZoJsBf4aLo",0,0,1,"https://github.com/DezlowNG/OGLD, https://www.patreon.com/dezlow, https://twitter.com/DezlowNG/status/1498675094222159876/photo/1",repository
+https://twitter.com/twitter/status/1495814175423094786,English,2022-02-21 17:34:24+00:00,"We should all contribute to community #DFIR efforts by supporting that do the work.
+
+Here are some worthwhile projects you can sponsor:
+Excellent videos  and hardware initiatives by Joshua James (.@DFIRScience). 
+https://t.co/gyAiPO0rRf
+https://t.co/t2XYltfKGl",8,1,23,"https://www.patreon.com/dfirscience, https://github.com/DFIRScience/DFIRCommunityHardwareFund",repository
+https://twitter.com/twitter/status/1493951003380514816,English,2022-02-16 14:10:50+00:00,"Online Course App - Flutter
+
+- Preview Video: https://t.co/srRSynUsoF
+- Source code: https://t.co/Su7xoZDDQ5
+- Support my work: https://t.co/NTSwU7Hepm
+
+#flutter #mobileapp #onlinecourse https://t.co/APMgl3Ou8M",0,1,3,"https://youtu.be/CSj-c8cegkY, https://github.com/sangvaleap/app-flutter-online-course, https://www.patreon.com/sangvaleap, https://twitter.com/sangvaleap/status/1493951003380514816/photo/1, https://twitter.com/sangvaleap/status/1493951003380514816/photo/1, https://twitter.com/sangvaleap/status/1493951003380514816/photo/1, https://twitter.com/sangvaleap/status/1493951003380514816/photo/1",repository
+https://twitter.com/twitter/status/1493277405904920577,English,2022-02-14 17:34:11+00:00,"By popular request, I have a patreon! Support my work maturing https://t.co/rlmeAek2ed here: https://t.co/nXp99JDy2R",0,0,3,"http://github.com/pytti-tools, http://patreon.com/DigThatData",profile
+https://twitter.com/twitter/status/1493009210866606094,English,2022-02-13 23:48:29+00:00,"We have hardware breakpoints 🚀
+
+😺Learned so much this stream! 
+
+- what is the system breakpoint
+- how to set dr7 bitmasks
+- EXCEPTION_SINGLE_STEP
+
+#trashDBG #OALABS
+
+Source on GitHub:
+https://t.co/rePtyyIx23
+
+VOD on Patreon:
+https://t.co/cMlEv3RlR4 https://t.co/FzBO0cFpD3",6,1,18,"https://github.com/OALabs/trashdbg, https://www.patreon.com/oalabs, https://twitter.com/herrcore/status/1492925915172642819",repository
+https://twitter.com/twitter/status/1492975985725222917,English,2022-02-13 21:36:27+00:00,"I've finished my run! Look at the little guy go!
+
+With that, I'll be releasing my initial character pack for these guys soon! Just need to get their hair and clothes in order. #pixel_art
+
+Github: https://t.co/3NXDyBMZV6
+Patreon: https://t.co/G2lX0Lufpo https://t.co/12IUzP7OAm",0,0,1,"https://github.com/ElizaWy/LPC, https://www.patreon.com/DeathsDarling, https://twitter.com/DeathsDarling/status/1492975985725222917/photo/1",repository
+https://twitter.com/twitter/status/1491919003736064018,English,2022-02-10 23:36:23+00:00,"#TrashDBG has breakpoints 🤘
+
+If you have ever wondered how a #breakpoint works …
+
+Code is on GitHub:
+https://t.co/rePtyyIx23
+
+Recording will be on Patreon tomorrow:
+https://t.co/cMlEv3RlR4
+
+😸Thanks for all the help on stream we’ll see you on Sunday for round 4! https://t.co/bazKU0giCA",3,1,16,"https://github.com/OALabs/trashdbg, https://www.patreon.com/oalabs, https://twitter.com/herrcore/status/1491841271668817933",repository
+https://twitter.com/twitter/status/1491405274821050370,English,2022-02-09 13:35:01+00:00,"Mobile Banking App - Flutter
+
+- Preview Video: https://t.co/dx5MM7hYsq
+- Source code: https://t.co/VnDTh4pNsG
+- Support my work: https://t.co/NTSwU7qbnm
+
+#flutter #mobileapp #fashion https://t.co/y6VCh6fTEn",1,0,1,"https://youtu.be/TSg8QXCYfhY, https://github.com/sangvaleap/app-flutter-fashion-shop, https://www.patreon.com/sangvaleap, https://twitter.com/sangvaleap/status/1491405274821050370/photo/1, https://twitter.com/sangvaleap/status/1491405274821050370/photo/1, https://twitter.com/sangvaleap/status/1491405274821050370/photo/1, https://twitter.com/sangvaleap/status/1491405274821050370/photo/1",repository
+https://twitter.com/twitter/status/1489664413015629829,English,2022-02-04 18:17:27+00:00,"Spectral Delay - open source Csound Prototype. Free on my Github to compile yourself: https://t.co/40X6SamrIt  or get the full installers on Patreon: https://t.co/cJelMvRPeJ
+
+Video walkthrough : https://t.co/U668u9eQWq",4,0,12,"https://github.com/micah-frank-studio/Lore/tree/main/SpectralDelay, https://www.patreon.com/puremagnetik, https://www.youtube.com/watch?v=LMz0rMqM1BU",file
+https://twitter.com/twitter/status/1486641514918952963,English,2022-01-27 10:05:32+00:00,"I've been playing some new games on my Minstrel 4th. PAC-MAN and Snakez++ by @gldm_it (https://t.co/9PrvbG9vvR) and the preview of 3D Monster Maze by @markgbeckett (https://t.co/66qWGYIkKT). 
+Full story on my Patreon (https://t.co/1QZhGTtF2m) https://t.co/qVPqng4bCm",3,1,21,"https://gldm.itch.io/, https://github.com/markgbeckett/jupiter_ace/tree/master/3d_monster_maze, https://www.patreon.com/tynemouthsoftware, https://twitter.com/tynemouthsw/status/1486641514918952963/photo/1, https://twitter.com/tynemouthsw/status/1486641514918952963/photo/1, https://twitter.com/tynemouthsw/status/1486641514918952963/photo/1, https://twitter.com/tynemouthsw/status/1486641514918952963/photo/1",file
+https://twitter.com/twitter/status/1485282357687234560,English,2022-01-23 16:04:43+00:00,"Travel App - Flutter
+
+- Preview Video: https://t.co/8g245t2MZK
+- Source code: https://t.co/3MtCWm4dO6
+- Patreon: https://t.co/NTSwU7qbnm
+
+#flutter #mobileapp #travel https://t.co/EaSLCqJ56k",0,0,1,"https://youtu.be/P4meRVGz1pw, https://github.com/sangvaleap/app-flutter-travel-app, https://www.patreon.com/sangvaleap, https://twitter.com/sangvaleap/status/1485282357687234560/photo/1, https://twitter.com/sangvaleap/status/1485282357687234560/photo/1, https://twitter.com/sangvaleap/status/1485282357687234560/photo/1, https://twitter.com/sangvaleap/status/1485282357687234560/photo/1",repository
+https://twitter.com/twitter/status/1484323522059014145,English,2022-01-21 00:34:39+00:00,"Thanks to all who joined our #WhisperGate #analysis stream 🙌
+
+I pushed our notes to GitHub, including our #deobfuscation of #NetReactor and debugging tips for #EazFuscator 
+
+https://t.co/b6UR1pNxJZ
+
+Recording will be up on Patreon soon!
+
+https://t.co/cMlEv3zKsu https://t.co/WWyrGsRK4M",13,1,55,"https://github.com/OALabs/Lab-Notes/blob/main/WhisperGate/WhisperGate.ipynb, https://www.patreon.com/oalabs, https://twitter.com/herrcore/status/1484230295993921539",file
+https://twitter.com/twitter/status/1483625449435668480,English,2022-01-19 02:20:46+00:00,"Find all my content links here
+
+https://t.co/DKzlQ5Ol2F
+https://t.co/MXXZuZPltC
+https://t.co/GEclP8eycA
+
+If you like my content consider supporting me on
+https://t.co/jaybdCKPKn
+or
+https://t.co/eeWcAFlf4V",0,0,0,"https://www.twitch.tv/bitedevyouriel, https://github.com/bitedev, https://www.spigotmc.org/members/bitedevyouriel.1498424, https://www.patreon.com/bitedev, https://ko-fi.com/bitedev",profile
+https://twitter.com/twitter/status/1483409422504374274,English,2022-01-18 12:02:21+00:00,"👋 Hey @gamingonlinux @icculus @mdiluz
+♻️ Wanna retweet?
+
+I just learned that 🎮️ Xenia emulator by @gibbed, @Razzilient, &amp; the gang is looking for Linux contributors!
+
+GitHub page: https://t.co/14Ku4lVT1T
+Support on Patreon: https://t.co/9Yre3yOtw9 https://t.co/kE0esB17pQ",3,3,7,"https://github.com/xenia-project/xenia, https://www.patreon.com/xenia_project, https://twitter.com/hardpenguin13/status/1483409422504374274/photo/1",repository
+https://twitter.com/twitter/status/1481375674380210179,English,2022-01-12 21:20:58+00:00,"A new release of @FreeCADNews #LinkStage3 is out and we are again spoiled with a huge list of improvements and bug fixes https://t.co/SbbawJJMiQ
+
+If you like what you see consider supporting @RealThunder12 at https://t.co/KnCkQBhZmg https://t.co/o17C97IAbX",13,1,70,"https://github.com/realthunder/FreeCAD_assembly3/releases/tag/0.11, https://www.patreon.com/thundereal/, https://twitter.com/OficineRobotica/status/1481375674380210179/video/1",releases
+https://twitter.com/twitter/status/1479234041702498304,English,2022-01-06 23:30:53+00:00,"Thanks all for joining the stream! And special thanks to @mrexodia for the #VMProtect dumping tips 🙌
+
+⬆️ The (mostly) clean unpacked #NightSky #ransomware sample is on malshare and our notes are on GitHub
+https://t.co/gtTnI2YzTy
+
+📺 Recording will be on…
+https://t.co/cMlEv3RlR4",20,0,67,"https://github.com/OALabs/Lab-Notes/blob/main/NightSky/nightsky.ipynb, https://www.patreon.com/oalabs",file
+https://twitter.com/twitter/status/1478700418939047939,English,2022-01-05 12:10:27+00:00,"Real Estate App - Flutter
+
+- Preview Video: https://t.co/3eFICZoD9S
+- GitHub: https://t.co/cuntwGJCDW
+- Patreon: https://t.co/NTSwU7Hepm
+
+#flutter #mobileapp #realestate https://t.co/wY83Eyslgs",0,1,3,"https://youtu.be/11u0KeymAAs, https://github.com/sangvaleap/app-flutter-real-estate, https://www.patreon.com/sangvaleap, https://twitter.com/sangvaleap/status/1478700418939047939/photo/1, https://twitter.com/sangvaleap/status/1478700418939047939/photo/1, https://twitter.com/sangvaleap/status/1478700418939047939/photo/1, https://twitter.com/sangvaleap/status/1478700418939047939/photo/1",repository
+https://twitter.com/twitter/status/1472924139786686464,English,2021-12-20 13:37:35+00:00,"Yarn Spinner 2.0 is out! 🎉
+
+Would you like to know more?
+👩🏻‍💻 https://t.co/4NVDCcDYvi
+📖 https://t.co/4wAhyCaMC8
+💾 https://t.co/EXBCJhfLDM
+💬 https://t.co/BDTVdniF8E
+👀 https://t.co/y5rxJD7khG
+https://t.co/4NVDCcDYvi",51,2,128,"https://yarnspinner.dev, https://docs.yarnspinner.dev, https://github.com/YarnSpinnerTool/YarnSpinner, https://discord.gg/yarnspinner, https://patreon.com/secretlab, https://yarnspinner.dev",repository
+https://twitter.com/twitter/status/1467151763920896000,English,2021-12-04 15:20:13+00:00,"Try #SolveSpace &amp; Enjoy It! https://t.co/ly9f1wj5Tp
+FTR, I may say next: #Blender, #FreeCAD, #OpenSCAD, #LibreCAD and #QCAD are not bad, but SolveSpace is a thing! 
+That is a true story on my choice of 2D/3D CAD app for work &amp; play: https://t.co/DPCPjT0h72 https://t.co/3TPXhVilbF",0,1,0,"https://github.com/Symbian9/SolveSpace-Daily-Engineering#solvespace-3x-slvs, https://www.patreon.com/app4soft, https://twitter.com/moorviper/status/1466779785141628937",repository
+https://twitter.com/twitter/status/1467090020314062849,English,2021-12-04 11:14:52+00:00,"#SolveSpace #showcase
+3D part with a cut and pattern fill on cutout sides #MadeWithSolveSpace
+NOTE: SolveSpace does not support pattern fills YET, but there is a trick I used for solve this task)
+Try SolveSpace 3.x: https://t.co/ly9f1wj5Tp
+My Patreon page: https://t.co/DPCPjT0h72 https://t.co/8nXXrx6Gcc",2,1,5,"https://github.com/Symbian9/SolveSpace-Daily-Engineering#solvespace-3x-slvs, https://www.patreon.com/app4soft, https://twitter.com/app4soft/status/1467090020314062849/photo/1, https://twitter.com/app4soft/status/1467090020314062849/photo/1, https://twitter.com/app4soft/status/1467090020314062849/photo/1, https://twitter.com/app4soft/status/1467090020314062849/photo/1",repository
+https://twitter.com/twitter/status/1465912020079947777,English,2021-12-01 05:13:55+00:00,"Thanks all for joining the stream, it’s a lot more fun #ReverseEngineering #Dridex as a team 😸😸 
+
+Recording will be available on Patreon at 9:00AM EST tomorrow 📫
+
+https://t.co/cMlEv3RlR4
+
+Jupyter lab notes are available on GitHub now ⚙️
+
+https://t.co/onlODwbFci https://t.co/g43tiugvfT",4,1,27,"https://www.patreon.com/oalabs, https://github.com/OALabs/Lab-Notes/blob/main/Dridex/DridexLoader.ipynb, https://twitter.com/herrcore/status/1465835525068185605",file
+https://twitter.com/twitter/status/1463212994071040014,English,2021-11-23 18:28:57+00:00,"It's still in early development, but I've started pushing models to a public repository. 
+
+https://t.co/CBp9C5pPNL
+
+If you find value in my work, any support is welcome. 
+
+https://t.co/V9BONwCL8t
+
+#magicavoxel #voxel #voxelart #art https://t.co/V8r8VHE3CW",17,5,129,"https://github.com/sharkca/faux, https://www.patreon.com/lord_sharkca, https://twitter.com/Lord_Sharkca/status/1463212994071040014/photo/1",repository
+https://twitter.com/twitter/status/1463141399264641028,English,2021-11-23 13:44:28+00:00,"Find &amp; follow us at:
+⁃Website: https://t.co/4MdBwOjHYo
+⁃Twitter: @modernagilist
+⁃LinkedIn: https://t.co/NqaRS8CVf3
+⁃Facebook: https://t.co/4NJigLJxCS
+⁃Instagram: @the_modernagilist
+⁃GitHub: https://t.co/ZzzlIfTjfm
+⁃https://t.co/FDSuraCRrF",0,0,1,"http://themodernagilist.net, http://linkedin.com/company/themodernagilist, http://facebook.com/themodernagilist, http://github.com/themodernagilist, http://patreon.com/themodernagilist",profile
+https://twitter.com/twitter/status/1461066362063888394,English,2021-11-17 20:19:00+00:00,"i've dropped few stargan2 models on https://t.co/NF4mSwC0qF
+
+the colab is now public on https://t.co/jcjIypN3Jd https://t.co/9eA0ONqBoE",44,3,489,"http://patreon.com/eps696, http://github.com/eps696/stargan2, https://twitter.com/eps696/status/1461066362063888394/video/1",repository
+https://twitter.com/twitter/status/1458545421031288839,English,2021-11-10 21:21:41+00:00,"Maigret
+Socid-Extractor
+Mailcat
+
+and many others useful #osint tools created by famous developer @sox0j (https://t.co/lyCn2Wr9D8) 
+
+Today he started a Patreon account, where he publish closed articles about his work.
+
+https://t.co/xUbvRxNAEi
+
+ Please support him https://t.co/Yt4CqcPMNo",9,0,16,"https://github.com/soxoj, https://www.patreon.com/soxoj, https://twitter.com/cyb_detective/status/1458545421031288839/photo/1",profile
+https://twitter.com/twitter/status/1457449169552039937,English,2021-11-07 20:45:34+00:00,"Links:
+
+https://t.co/gpwAzCTTbW
+https://t.co/A5o6hFcoak
+https://t.co/VnA6w91Xbj",0,0,0,"https://www.patreon.com/StraxisStudios, https://www.github.com/oxi-dev0, https://www.youtube.com/c/StraxisStudios",profile
+https://twitter.com/twitter/status/1454144306999185410,English,2021-10-29 17:53:14+00:00,"Some Links to support and follow me😍👇
+
+🕹️ My Portfolio: 
+https://t.co/nIpoUnxzUT
+
+👊 Support me on Patreon:
+https://t.co/OI2LyuRrKR
+
+🖼️ Instagram:
+https://t.co/jnAsGu2tM3
+
+💻 GitHub Projects:
+https://t.co/wJcBUXR4Vv
+
+📹 My Youtube Channel:
+https://t.co/KCfd8M0WYp
+
+Thanks!! 🙏👊",2,1,9,"https://fadrikalexander.itch.io, https://www.patreon.com/Fadrik, https://www.instagram.com/fadrikalexander/, https://github.com/FadrikAlexander, https://www.youtube.com/Fadrik",profile
+https://twitter.com/twitter/status/1449908096869048325,English,2021-10-18 01:20:02+00:00,"recursive generation is added to https://t.co/jcjIypN3Jd (and colab on https://t.co/NF4mSwC0qF), to make things like these
+
+👇. . see more . .👇 https://t.co/jqvfOf2FP4 https://t.co/VubEfIer5P",5,1,63,"http://github.com/eps696/stargan2, http://patreon.com/eps696, https://twitter.com/eps696/status/1449908096869048325/video/1, https://twitter.com/eps696/status/1449106356116590592",repository
+https://twitter.com/twitter/status/1449043363542540288,English,2021-10-15 16:03:54+00:00,"A *NEW* #ANDROID APP that acts as an ""in-hand"" front-end for #MiSTerFPGA  - great stuff! 
+GitHub
+https://t.co/v66GvRWZiP
+YouTube
+https://t.co/NOlUdSeqj2
+Patreon
+https://t.co/dzxXe1UT9j https://t.co/CQILFLIevP",2,1,17,"https://github.com/tatsutron/mistercon, https://youtu.be/Rr5tvTTU7gY, https://www.patreon.com/tatsutron, https://twitter.com/JudgeDrokk/status/1449043363542540288/photo/1",repository
+https://twitter.com/twitter/status/1441109107793006594,English,2021-09-23 18:36:00+00:00,"What I'm up to...
+⬆️ UnpacMe: https://t.co/Zu8O7WCaBO
+📺 OALABS: https://t.co/r1kc2Ej9UP
+💻 Git: https://t.co/1f40p8wy7L
+
+Chat...
+💬 Discord: https://t.co/D58B5ppPaX
+
+Support...
+💖 Patreon: https://t.co/cMlEv3zKsu
+👕 Merch: https://t.co/4S0okA25PZ
+☕️ Tips: https://t.co/QCuTCgk9kO",15,3,70,"https://www.unpac.me/, https://www.youtube.com/oalabs, https://github.com/OALabs, https://discord.gg/6h5Bh5AMDU, https://www.patreon.com/oalabs, https://oalabs.creator-spring.com/, https://ko-fi.com/oalabs",profile
+https://twitter.com/twitter/status/1436770126481829889,English,2021-09-11 19:14:26+00:00,"Geometry illustration #MadeWithSolveSpace 🤏😎
+Grab #SolveSpace 3.x: https://t.co/ly9f1wj5Tp
+My Patreon: https://t.co/DPCPjT0h72 https://t.co/ADcbESPMPu https://t.co/TJqR0dFfjh",0,0,0,"https://github.com/Symbian9/SolveSpace-Daily-Engineering#solvespace-3x-slvs, https://www.patreon.com/app4soft, https://twitter.com/jealcalat/status/1436183302705016833, https://twitter.com/app4soft/status/1436770126481829889/photo/1",repository
+https://twitter.com/twitter/status/1428464521098797059,English,2021-08-19 21:10:56+00:00,"#GarajEngine's CPU renderer updates 😃
+
+Code can be found on https://t.co/ZXaEkGwFJR on the Renderer branch.
+
+You can star the repo for more updates and if you can then please sponsor it too ❤️
+
+https://t.co/rYtHjDgAbR
+
+#thundersoft #opensource #coding #rendering #graphics #cpp https://t.co/ssm6GGyh5j",4,0,4,"https://github.com/Thundersoft-Tech/GarajEngine/tree/main/CPU_Renderer, https://www.patreon.com/thundersoft, https://twitter.com/wamiq_ur_rehman/status/1428464521098797059/video/1",file
+https://twitter.com/twitter/status/1428462371325059076,English,2021-08-19 21:02:23+00:00,"Back face culling and reading data from wave front files.
+
+Code can be found in the CPU_Renderer project in Renderer branch of https://t.co/fRpRqgKRR5
+
+You can help the development here😊https://t.co/rYtHjDgAbR
+
+#GarajEngine #rendering #code #programming #opensource #graphics",4,1,4,"https://github.com/Thundersoft-Tech/GarajEngine, https://www.patreon.com/thundersoft",repository
+https://twitter.com/twitter/status/1427408159858208768,English,2021-08-16 23:13:19+00:00,"Colab for StarGAN2 operations is dropped on https://t.co/NF4mSwC0qF
+it covers the functionality, used e.g. for this https://t.co/DwQAatGPL8
+animation processing is also added to https://t.co/jcjIypN3Jd",2,1,21,"http://patreon.com/eps696, http://vimeo.com/460679408, http://github.com/eps696/stargan2",repository
+https://twitter.com/twitter/status/1422682247778426888,English,2021-08-03 22:14:14+00:00,"Knurling on Cylindrical Surface #MadeWithSolveSpace
+Grab latest nightly #SolveSpace 3.x builds for Linux, macOS, Windows: https://t.co/KPtAtkmnFr
+Join me on Patreon — your support would then be converted to solid CAD modeling #tutorials &amp; #assets for You: https://t.co/DPCPjT0h72 https://t.co/XaEOFQUtkN",1,0,4,"https://github.com/Symbian9/SolveSpace-Daily-Engineering#solvespace-3x-slvs, https://www.patreon.com/app4soft, https://twitter.com/app4soft/status/1422682247778426888/photo/1",repository
+https://twitter.com/twitter/status/1422383366788288514,English,2021-08-03 02:26:35+00:00,"Grab SolveSpace 3.x: https://t.co/KPtAtkmnFr
+Support me: https://t.co/DPCPjT0h72 
+Your support would then be converted into #SolveSpace solid parametric CAD modeling #tutorials &amp; 2D/3D #assets for You!
+👋👨‍💻 #Blender #FreeCAD #Inkscape #LibreCAD #OpenSCAD https://t.co/cJtSJLw0Cv",6,1,15,"https://github.com/Symbian9/SolveSpace-Daily-Engineering#solvespace-3x-slvs, https://www.patreon.com/app4soft, https://twitter.com/app4soft/status/1422380137602027521",repository
+https://twitter.com/twitter/status/1420863855316672516,English,2021-07-29 21:48:36+00:00,"Cheap people do not value other people work
+
+https://t.co/5y6cW5sL1r
+
+you can get access to the whole code and exercises for only 5 usd at my Patreon https://t.co/ljGzLenKLa
+
+you also get access to my discord server, where I can help you with any issues you have https://t.co/vXiLZovpfT",5,5,25,"https://github.com/sibelius/relay-workshop/issues/6#issue-956228282, https://www.patreon.com/sibelius, https://twitter.com/sseraphini/status/1420863855316672516/photo/1",issues
+https://twitter.com/twitter/status/1420676105782972416,English,2021-07-29 09:22:33+00:00,"Re:Write 0.0.5a is released! You can find it here: https://t.co/7RxM8TrLks
+
+If you find any bugs or have any suggestions, join my Discord and let me know: https://t.co/qv2UaYjCgM
+
+Also, my Patreon is available to those who want to support in that way: https://t.co/GRV9cWk0iA https://t.co/RiyTejZiCO",11,0,47,"https://github.com/WaterKH/MoM-ReChart/releases/tag/0.0.5-alpha, http://discord.gg/8KUBjDV, https://www.patreon.com/waterkh, https://twitter.com/water_kh/status/1420676105782972416/photo/1",releases
+https://twitter.com/twitter/status/1419871126478598152,English,2021-07-27 04:03:51+00:00,"""Helix Pitch"" feature (distance between threads) coming soon for SolveSpace app: https://t.co/u4SG9l1upd
+🔩 Metric Bolt M6x1-25 #SolveSpace #3D #showcase 
+My Patreon page: https://t.co/DPCPjT0h72
+Apps in my toolbox: #Blender #FreeCAD #Inkscape #LibreCAD https://t.co/r5w9z6To5q",0,1,5,"https://github.com/solvespace/solvespace/pull/1074, https://www.patreon.com/app4soft, https://twitter.com/app4soft/status/1419871126478598152/photo/1",pull
+https://twitter.com/twitter/status/1418618617634164738,English,2021-07-23 17:06:49+00:00,"Hi, I'm app4soft! And actually I'm working on new #SolveSpace 3.0 tutorials.
+My #DailySolveSpace Showcases: https://t.co/KVkQ27zWSj
+Support me, please:
+- https://t.co/s9lt4ew965
+- https://t.co/ETWoDqhhjs
+- https://t.co/a7jD5V88NH
+https://t.co/3iUKfspXmm https://t.co/JVwIlhCGHL",0,0,1,"https://github.com/Symbian9/SolveSpace-Daily-Engineering, http://patreon.com/app4soft, http://ko-fi.com/app4soft, http://www.buymeacoffee.com/app4soft, https://twitter.com/app4soft/status/1405679513430900740, https://twitter.com/app4soft/status/1418618617634164738/photo/1",repository
+https://twitter.com/twitter/status/1410585438604206080,English,2021-07-01 13:05:50+00:00,"#RaviVisvesvarayaSharadaPrasad. https://t.co/GIzmDbJMlD  Coding Word2Vec : Natural Language Processing  ritvikmath  Code word2vec with me!!
+
+Word2Vec Intro Video : https://t.co/3Q1XSMuXUW
+
+Link to Code: https://t.co/BVR2pOG8qP
+
+My Patreon : https://t.co/rC9WS2UXtN",0,0,1,"https://youtu.be/d2E-pU4H2gc, https://www.youtube.com/watch?v=f7o8aDNxf7k, https://github.com/ritvikmath/YouTubeVideoCode/blob/main/Word2Vec.ipynb, https://www.patreon.com/user?u=49277905",file
+https://twitter.com/twitter/status/1409093369033338882,English,2021-06-27 10:16:53+00:00,"#RepRap #3Dprinting #Stampa3D #OpenSource universal #SpoolHolder Makeroll 1.1.0-alpha0 #FreeCAD with  assembly4, spreadsheet, exploded assembly
+
+full video: https://t.co/fjJRtdY9BK
+
+link MakeRoll: https://t.co/oHt4AJD7td
+
+Patreon and my reprap projects: https://t.co/DiX2weuwxI https://t.co/jLsw34d4Qi",9,0,23,"https://youtu.be/upP96dG-IZ8, https://github.com/mauriziospaccialbelli/MakeRoll/releases, https://www.patreon.com/mauriziospaccialbelli, https://twitter.com/maurinoweb/status/1409093369033338882/video/1",releases
+https://twitter.com/twitter/status/1408305018659250181,English,2021-06-25 06:04:16+00:00,"#RepRap #Spoolholder MakeRoll 1.1.0-alpha
+#FreeCAD #Asm4 assembly4, Spreadsheet, expoded assembly
+
+Video: https://t.co/fjJRtdGyda
+
+#3Dprinting #stampa3d #MakeRoll
+
+link project: https://t.co/oHt4AJUIkL
+
+Patreon: https://t.co/DiX2weM7pg",0,0,1,"https://youtu.be/upP96dG-IZ8, https://github.com/mauriziospaccialbelli/MakeRoll/releases, https://www.patreon.com/mauriziospaccialbelli",releases
+https://twitter.com/twitter/status/1406934894723440642,English,2021-06-21 11:19:53+00:00,"#FreeCAD #RepRap #MasterSpool #3Dprinting #Stampa3D
+
+#SpoolHolder MakeRoll version 1.1.0-alfa0
+Download, things done and things to do:
+https://t.co/oHt4AJD7td
+
+If you like my projects please support me on patreon: https://t.co/DiX2weuwxI https://t.co/Qv2kqt7j4A",1,2,14,"https://github.com/mauriziospaccialbelli/MakeRoll/releases, https://www.patreon.com/mauriziospaccialbelli, https://twitter.com/maurinoweb/status/1406934894723440642/photo/1, https://twitter.com/maurinoweb/status/1406934894723440642/photo/1, https://twitter.com/maurinoweb/status/1406934894723440642/photo/1, https://twitter.com/maurinoweb/status/1406934894723440642/photo/1",releases
+https://twitter.com/twitter/status/1403079573844156416,English,2021-06-10 20:00:13+00:00,"#RaviVisvesvarayaSharadaPrasad  https://t.co/vVT4AUj2sY  Machine Learning with 10 Data Points - Or an Intro to PyMC3  ritvikmath  You've heard of big data, but what about small data?
+
+Link to Code : https://t.co/K0FQjrowUQ
+
+My Patreon : https://t.co/rC9WS2UXtN",0,0,0,"https://youtu.be/SP-sAAYvGT8, https://github.com/ritvikmath/YouTubeVideoCode/blob/main/PyMC3.ipynb, https://www.patreon.com/user?u=49277905",file
+https://twitter.com/twitter/status/1401593629718712324,English,2021-06-06 17:35:36+00:00,"Yoga Pose Recognition and Classification implemented using @opencvlibrary AI Kit [OAK-D] and Depth AI
+
+GitHub: https://t.co/aEKLJFFBcI
+
+If you want to support this project, you can do so by donating to our Patreon: https://t.co/CxYlmdqo5p
+
+https://t.co/DIEqDisqvL",0,0,1,"https://github.com/Soumi7/depthai_blazepose/tree/pose-classification, https://www.patreon.com/souvikbiswas, https://www.linkedin.com/posts/soumi-bardhan-8539b3191_opencv-depthai-oak2021-activity-6803351564279975937-dsff",file
+https://twitter.com/twitter/status/1398711091799023618,English,2021-05-29 18:41:25+00:00,"Custom Notes is now updated for Beat Saber 1.16! I've also added an ingame patreon link and fixed a few nasty bugs.
+
+Download here: https://t.co/f3VmJWwmtv
+
+Patreon: https://t.co/7faKPqbHKb https://t.co/BFF06TtCWb",3,2,24,"https://github.com/legoandmars/BeatSaberCustomNotes/releases/tag/2.3.0, https://www.patreon.com/bobbievr, https://twitter.com/VRBobbie/status/1398711091799023618/photo/1",releases
+https://twitter.com/twitter/status/1395895873146695681,English,2021-05-22 00:14:45+00:00,"Welcome to my Twitter here are some links.
+
+Discord: https://t.co/WpUp6gJQge
+Patreon: https://t.co/zPhPJGoe66
+Stream: https://t.co/Qy6wZqim9m
+Github: https://t.co/aDykn8EpWa",0,0,2,"http://discord.gg/qksGqMD, http://patreon.com/jetdoglabs, http://twitch.tv/jetdog8808, http://github.com/jetdog8808",profile
+https://twitter.com/twitter/status/1394671752790298624,English,2021-05-18 15:10:32+00:00,"I am a developer of hacking tools written in Rust. Among other things I have created:
+
+- Findomain: Recon framework.
+- Rusolver: DNS resolver.
+- FHC: Fast HTTP checker.
+- Unimap.
+
+https://t.co/D86uaOStbo
+
+If you think I deserve it, you can donate to me at https://t.co/9gYOHtq0k4",11,1,60,"https://github.com/edu4rdshl, https://www.patreon.com/edu4rdshl",profile
+https://twitter.com/twitter/status/1394354457807314958,English,2021-05-17 18:09:43+00:00,"The access to the latest Relay Workshop (https://t.co/6QyLCluGTs) will be available only to sponsors of my Patreon 
+
+You can have access for only 5usd per month
+
+https://t.co/ljGzLenKLa",5,1,19,"https://github.com/sibelius/relay-workshop, https://www.patreon.com/sibelius",repository
+https://twitter.com/twitter/status/1391324103177539586,English,2021-05-09 09:28:10+00:00,"MakeRoll 1.0.2 #spoolholder #3Dprinting is now documented (from images only, but I think that's enough.)
+Born with @FreeCADNews❤️ (docs with @inkscape to 5% 😊)
+@RichRap3D #RepRap #stampa3d 
+
+link project: https://t.co/0ulTK0xHbf
+
+support my free projects: https://t.co/DiX2weuwxI https://t.co/lwXFeiZMVn",4,1,15,"https://github.com/mauriziospaccialbelli/MakeRoll, https://www.patreon.com/mauriziospaccialbelli, https://twitter.com/maurinoweb/status/1391324103177539586/photo/1, https://twitter.com/maurinoweb/status/1391324103177539586/photo/1, https://twitter.com/maurinoweb/status/1391324103177539586/photo/1, https://twitter.com/maurinoweb/status/1391324103177539586/photo/1",repository
+https://twitter.com/twitter/status/1390700451398574080,English,2021-05-07 16:10:00+00:00,It's Friday reminder time! and here I will told you how you can help if you like what we do! Patreon: https://t.co/0ZSYLFT91V Github (Much appreciated 'cause we want to add things!): https://t.co/edKFmGeHDg and tip us whatever you want on PayPalMe: https://t.co/nJ99CvPOtB,0,1,2,"https://patreon.com/stdbgames, https://github.com/jolupa/stdbgames, https://paypal.me/stdbgames",repository
+https://twitter.com/twitter/status/1390555531123642368,English,2021-05-07 06:34:08+00:00,"Where to find me:
+FurAffinity: https://t.co/Mvi0JgJyZk
+Fimfic: https://t.co/skWauwSaOT
+DriveThru: https://t.co/lOZOLwQkVD
+RoyalRoad: https://t.co/MoIcGWsSxu
+Patreon: https://t.co/vnwLivX6W4
+Ko-Fi: https://t.co/EvctYwIKGV
+Git: https://t.co/RL1KLHm8y6
+Alt: https://t.co/D55s4L9ifj",0,1,6,"https://www.furaffinity.net/user/thedamaged/, https://www.fimfiction.net/user/216165/Damaged, https://www.drivethrurpg.com/browse.php?author=Byron%20Mulvogue, https://www.royalroad.com/profile/220350, https://www.patreon.com/ByronMulvogue, https://ko-fi.com/damaged, https://github.com/SomewhatDamaged, https://twitter.com/Damaged83404931",profile
