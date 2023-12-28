@@ -1,8 +1,16 @@
 # Research Artifact: "My GitHub Sponsors profile is live!" Investigating the Impact of Twitter/X Mentions on GitHub Sponsors
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10437641.svg)](https://doi.org/10.5281/zenodo.10437641)
 
 This is a research artifact for the paper **"My GitHub Sponsors profile is live!" Investigating the Impact of Twitter/X Mentions on GitHub Sponsors**. This artifact is a data repository including all 11,582 tweets that contain GitHub Sponsors profile links associated with the information of tweets and GitHub accounts on these tweets, and the processed data. The purpose of this artifact is enabling researchers to replicate our results of the paper, and to reuse our dataset of more than 10,000 tweets linking GitHub Sponsors profiles for further research.
 
+## Contents
+- `data` - the data utilized in the paper.
+- `scripts` - the scripts utilized in the paper.
+- `appendix.pdf` - coding schema examples for RQ1.2, RQ1.3, RQ1.4, and RQ2.2.
+- `LICENSE.md` - [Open Data Commons Public Domain Dedication and License (PDDL)](https://opendatacommons.org/licenses/pddl/summary/)
+- `README.md` - this file
+- `README.pdf` - README file for the application of reusable and available artifact badges.
+- `paper.pdf` - the accepted paper
 
 ## RQ1 
 
