@@ -37,7 +37,7 @@ For specific research questions (RQ1.2, RQ1.3, and RQ1.4), manual coding was emp
 ## Outcome Data (PSM Data)
 The outcome data, in CSV format, specifically for Propensity Score Matching (PSM), includes values for 568 developers. This dataset is relevant to understanding the outcomes.
 
-## Next, we will introduce each piece of data one by one according to RQs, along with the corresponding scripts that will be used.
+## Data And Scripts for Each RQ 
 
 ## RQ1 
 
