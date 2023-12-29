@@ -21,7 +21,7 @@ We are applying for both Reusable and Available Badges.
 
 # Provenance
 
-The replication package comprises scripts and a dataset, accessible at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11437641.svg)](https://doi.org/10.5281/zenodo.11437641)
+The replication package comprises scripts and a dataset, accessible at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10442289.svg)](https://doi.org/10.5281/zenodo.10442289)
 
 # Data
 Our artifact focuses on various types of data, each with distinct characteristics and considerations.
