@@ -21,7 +21,7 @@ We are applying for both Reusable and Available Badges.
 
 # Provenance
 
-The replication package comprises scripts and a dataset, accessible at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10457699.svg)](https://doi.org/10.5281/zenodo.10457699)
+The replication package comprises scripts and a dataset, accessible at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10461383.svg)](https://doi.org/10.5281/zenodo.10461383)
 
 # Data
 Our artifact focuses on various types of data, each with distinct characteristics and considerations.
@@ -154,4 +154,4 @@ The instructions for obtaining the main results are presented in the paper, whic
 * [Tao Xiao](https://tao-xiao.github.io/)
 * [Hideaki Hata](https://hideakihata.github.io/)
 * [Christoph Treude](http://ctreude.ca/)
-* [Kenichi Matsumoto](https://naist-se.github.io/en/)
+* Kenichi Matsumoto
