@@ -154,4 +154,4 @@ The instructions for obtaining the main results are presented in the paper, whic
 * [Tao Xiao](https://tao-xiao.github.io/)
 * [Hideaki Hata](https://hideakihata.github.io/)
 * [Christoph Treude](http://ctreude.ca/)
-* Kenichi Matsumoto
+* [Kenichi Matsumoto](https://naist-se.github.io/en/)
