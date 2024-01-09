@@ -1,7 +1,7 @@
 # Research Artifact: "My GitHub Sponsors profile is live!" Investigating the Impact of Twitter/X Mentions on GitHub Sponsors
 
 
-This is a research artifact for the paper **"My GitHub Sponsors profile is live!" Investigating the Impact of Twitter/X Mentions on GitHub Sponsors**. This artifact is a data repository including all 11,582 tweets that contain GitHub Sponsors profile links associated with the information of tweets and GitHub accounts on these tweets, and the processed data. The purpose of this artifact is enabling researchers to replicate our results of the paper, and to reuse our dataset of more than 10,000 tweets linking GitHub Sponsors profiles for further research.
+This is a research artifact for the paper **["My GitHub Sponsors profile is live!" Investigating the Impact of Twitter/X Mentions on GitHub Sponsors](https://arxiv.org/abs/2401.02755)**. This artifact is a data repository including all 11,582 tweets that contain GitHub Sponsors profile links associated with the information of tweets and GitHub accounts on these tweets, and the processed data. The purpose of this artifact is enabling researchers to replicate our results of the paper, and to reuse our dataset of more than 10,000 tweets linking GitHub Sponsors profiles for further research.
 
 # Contents
 - `data` - the data utilized in the paper.
@@ -154,4 +154,4 @@ The instructions for obtaining the main results are presented in the paper, whic
 * [Tao Xiao](https://tao-xiao.github.io/)
 * [Hideaki Hata](https://hideakihata.github.io/)
 * [Christoph Treude](http://ctreude.ca/)
-* Kenichi Matsumoto
+* [Kenichi Matsumoto](https://naist-se.github.io/en/)
