@@ -38,6 +38,7 @@ For specific research questions (RQ1.2, RQ1.3, and RQ1.4), manual coding was emp
 The outcome data, in CSV format, specifically for Propensity Score Matching (PSM), includes values for 568 developers. This dataset is relevant to understanding the outcomes.
 
 ## Data And Scripts for Each RQ 
+**Note** that we anonymize the real user names on each platform (GitHub, OpenCollective, Paypal, Patreon) within our dataset. To guarantee the functionality of the code, we create dummy files ([users' data used to collect PSM data](./scripts/PSM/data)) and dummy data ([users' data to get users' activities in different time duration](./data/Tweets/English_tweets.csv)).
 
 ## RQ1 
 
@@ -56,6 +57,7 @@ The outcome data, in CSV format, specifically for Propensity Score Matching (PSM
 - [A week within posting the tweet](./data/Contribution_activities/week_within.csv): `week_within.csv` is a CSV file that contains numbers of contributions of each activity from 810 developers in a week within posting the tweet.
 - [A week after posting the tweet](./data/Contribution_activities/week_after.csv): `week_after.csv` is a CSV file that contains the numbers of contributions of each activity from 810 developers in a week after posting the tweet.
 - Script: [get_activity_different_time_duration.ipynb](./scripts/Contribution_activities/get_activity_different_time_duration.ipynb) it is a script that retrieves all github user's activity that occurred a week before, after, and within a week of posting the tweet. And [categorize_activities.ipynb](./scripts/Contribution_activities/categorize_activities.ipynb) it is a script that classify activities into 9 categories.
+  - Note that [get_activity_different_time_duration.ipynb](./scripts/Contribution_activities/get_activity_different_time_duration.ipynb) must be executed before [categorize_activities.ipynb](./scripts/Contribution_activities/categorize_activities.ipynb).
 
 
 ## RQ2
