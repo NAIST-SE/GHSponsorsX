@@ -43,7 +43,7 @@ The outcome data, in CSV format, specifically for Propensity Score Matching (PSM
 ## RQ1 
 
 ### RQ1.
-- [RQ1.1](./data/Tweets/All_tweets.csv): `All_tweets.csv` is a CSV file that contains 11,582 tweets linking to GitHub Sponsors profiles, the main columns in this CSV are `Language`, `Account type`, `Primary programming language` which are used in this RQ. For each column:
+- RQ1.1: [`All_tweets.csv`](./data/Tweets/All_tweets.csv) is a CSV file that contains 11,582 tweets linking to GitHub Sponsors profiles, the main columns in this CSV are `Language`, `Account type`, `Primary programming language` which are used in this RQ. For each column:
   - Tweet_URL: The tweets contain a link to the GitHub Sponsors profile page.
   - Language: The language used in the tweet.
   - Time: The time the tweet was posted.
@@ -58,15 +58,15 @@ user_use_language
 - Script: [find_tweets.ipynb](./scripts/Tweets/find_tweets.ipynb) it is script that retrieves all tweets in which the URL "github.com/sponsors/" appears.
 
 ### English tweets
-- [English tweets](./data/Tweets/English_tweets.csv): `English_tweets.csv` is a CSV file that contains 10,531 tweets linking to GitHub Sponsors profiles and were written in English, it is used to obtain our sample for RQ1.2, RQ1.3, RQ1.4, and RQ2.2.
+- English tweets: [English_tweets.csv](./data/Tweets/English_tweets.csv) is a CSV file that contains 10,531 tweets linking to GitHub Sponsors profiles and were written in English, it is used to obtain our sample for RQ1.2, RQ1.3, RQ1.4, and RQ2.2.
 
 ### Sample for RQ1.2, RQ1.3, and RQ1.4
 - [Coding results](https://docs.google.com/spreadsheets/d/e/2PACX-1vS7m5xkt-IZpXhSE3zoroy5Cme0rDbN-SfUQ3_SMlY5f6qlqjaTaCmcfAzubYjwhaYlpAVPjjhVhs6a/pubhtml): This coding results for a statistically representative and stratified sample of 371 tweets, the main columns are `Relationship(RQ1.2)`, `Context(RQ1.3)`, and `Timing(RQ1.4)` for each RQ, respectively.
 
 ### Numbers of contributions of each activity in RQ1.4
-- [A week before posting the tweet](./data/Contribution_activities/week_before.csv): `week_before.csv` is a CSV file that contains the numbers of contributions of each activity from 810 developers in a week before posting the tweet.
-- [A week within posting the tweet](./data/Contribution_activities/week_within.csv): `week_within.csv` is a CSV file that contains numbers of contributions of each activity from 810 developers in a week within posting the tweet.
-- [A week after posting the tweet](./data/Contribution_activities/week_after.csv): `week_after.csv` is a CSV file that contains the numbers of contributions of each activity from 810 developers in a week after posting the tweet.
+- A week before posting the tweet: [`week_before.csv`](./data/Contribution_activities/week_before.csv) is a CSV file that contains the numbers of contributions of each activity from 810 developers in a week before posting the tweet.
+- A week within posting the tweet: [`week_within.csv`](./data/Contribution_activities/week_within.csv) is a CSV file that contains numbers of contributions of each activity from 810 developers in a week within posting the tweet.
+- A week after posting the tweet: [`week_after.csv`](./data/Contribution_activities/week_after.csv) is a CSV file that contains the numbers of contributions of each activity from 810 developers in a week after posting the tweet.
 - For each column in the  `week_before.csv`, `week_within.csv`, `week_after.csv`:
   - Proposing pull request: The number of proposing pull requests by the GitHub user mentioned in the tweet, one week before, during, and one week after the tweet was posted.
   - Joining organization: The number of joining organizations by the GitHub user mentioned in the tweet, one week before, during, and one week after the tweet was posted.
@@ -85,10 +85,10 @@ user_use_language
 ## RQ2
 
 ### RQ2.1
-- [GitHub Sponsors tweets](./data/Tweets/GithubSponsors_tweets.csv): `GithubSponsors_tweets.csv` is a CSV file that contains 10,440 tweets that include links to GitHub Sponsors except for links to Paypal, Open Collective, and Patreon.
-- [Paypal Tweets](./data/Tweets/Paypal_tweets.csv): `Paypal_tweets.csv` is a CSV file that contains 4 tweets that include links to `paypal.com/paypalme/` and `github.com`, but no link to Github Sponsors.
-- [Open Collective Tweets](./data/Tweets/OpenCollective_tweets.csv): `OpenCollective_tweets.csv` is a CSV file that contains 88 tweets that include links to `opencollective.com/` and `github.com,` but no link to Github Sponsors.
-- [Patreon Tweets](./data/Tweets/Patreon_tweets.csv): `OpenCollective_tweets.csv` is a CSV file that contains 228 tweets that include links to `patreon.com/` except Patreon posts (i.e., `patreon.com/posts/` ) and `github.com` , but no link to Github Sponsors.
+- GitHub Sponsors tweets: [`GithubSponsors_tweets.csv`](./data/Tweets/GithubSponsors_tweets.csv) is a CSV file that contains 10,440 tweets that include links to GitHub Sponsors except for links to Paypal, Open Collective, and Patreon.
+- Paypal Tweets: [`Paypal_tweets.csv`](./data/Tweets/Paypal_tweets.csv) is a CSV file that contains 4 tweets that include links to `paypal.com/paypalme/` and `github.com`, but no link to Github Sponsors.
+- Open Collective Tweets: [`OpenCollective_tweets.csv`](./data/Tweets/OpenCollective_tweets.csv) is a CSV file that contains 88 tweets that include links to `opencollective.com/` and `github.com,` but no link to Github Sponsors.
+- Patreon Tweets: [`OpenCollective_tweets.csv`](./data/Tweets/Patreon_tweets.csv) is a CSV file that contains 228 tweets that include links to `patreon.com/` except Patreon posts (i.e., `patreon.com/posts/` ) and `github.com` , but no link to Github Sponsors.
 - For each column in `GithubSponsors_tweets.csv`:
   - Tweet_Url: The tweets contain a link to the GitHub Sponsors profile page.
   - Language: The language used in the tweet.
@@ -120,7 +120,7 @@ user_use_language
 - [Coding results](https://docs.google.com/spreadsheets/d/e/2PACX-1vS7m5xkt-IZpXhSE3zoroy5Cme0rDbN-SfUQ3_SMlY5f6qlqjaTaCmcfAzubYjwhaYlpAVPjjhVhs6a/pubhtml): This coding results for a statistically representative and stratified sample of 371 tweets, the main column is `Response(RQ2.2)` for this RQ.
 
 ### RQ2.3
-- [PSM Data](./data/PSM/PSMdata.csv): `PSMdata.csv` is a CSV file that contains values of 568 developers for propensity score matching.
+- PSM Data: [`PSMdata.csv`](./data/PSM/PSMdata.csv) is a CSV file that contains values of 568 developers for propensity score matching.
   - treatment: 0 represents the control group and 1 the treatment group.
   - sponsors: The number of sponsors the user has.
   - repositories: The number of repositories the user has.
