@@ -43,7 +43,18 @@ The outcome data, in CSV format, specifically for Propensity Score Matching (PSM
 ## RQ1 
 
 ### RQ1.
-- [RQ1.1](./data/Tweets/All_tweets.csv): `All_tweets.csv` is a CSV file that contains 11,582 tweets linking to GitHub Sponsors profiles, the main columns in this CSV are `Language`, `Account type`, `Primary programming language` which are used in this RQ.
+- [RQ1.1](./data/Tweets/All_tweets.csv): `All_tweets.csv` is a CSV file that contains 11,582 tweets linking to GitHub Sponsors profiles, the main columns in this CSV are `Language`, `Account type`, `Primary programming language` which are used in this RQ. For each column:
+  - Tweet_URL: The tweets contain a link to the GitHub Sponsors profile page.
+  - Language: The language used in the tweet.
+  - Time: The time the tweet was posted.
+  - User_Last_Update: The last time the user had activities.
+  - Tweet_Text: The plain text in the tweet post.
+  - Sponsor_Type: The type of GitHub user mentioned in the post.
+  - \# Retweets: The number of retweets for this tweet.
+  - \# Replies: The number of replies to this tweet.
+  - \# Likes: The number of likes for this tweet.
+
+user_use_language
 - Script: [find_tweets.ipynb](./scripts/Tweets/find_tweets.ipynb) it is script that retrieves all tweets in which the URL "github.com/sponsors/" appears.
 
 ### English tweets
@@ -56,6 +67,17 @@ The outcome data, in CSV format, specifically for Propensity Score Matching (PSM
 - [A week before posting the tweet](./data/Contribution_activities/week_before.csv): `week_before.csv` is a CSV file that contains the numbers of contributions of each activity from 810 developers in a week before posting the tweet.
 - [A week within posting the tweet](./data/Contribution_activities/week_within.csv): `week_within.csv` is a CSV file that contains numbers of contributions of each activity from 810 developers in a week within posting the tweet.
 - [A week after posting the tweet](./data/Contribution_activities/week_after.csv): `week_after.csv` is a CSV file that contains the numbers of contributions of each activity from 810 developers in a week after posting the tweet.
+- For each column in the  `week_before.csv`, `week_within.csv`, `week_after.csv`:
+  - Proposing pull request: The number of proposing pull requests by the GitHub user mentioned in the tweet, one week before, during, and one week after the tweet was posted.
+  - Joining organization: The number of joining organizations by the GitHub user mentioned in the tweet, one week before, during, and one week after the tweet was posted.
+  - Opening issue: The number of opening issues by the GitHub user mentioned in the tweet, one week before, during, and one week after the tweet was posted.
+  - Creating repository: The number of creating repositories by the GitHub user mentioned in the tweet, one week before, during, and one week after the tweet was posted.
+  - Answering discussion: The number of answering discussions by the GitHub user mentioned in the tweet, one week before, during, and one week after the tweet was posted.
+  - Contributing in private repository: The number of contributing in private repositoryies by the GitHub user mentioned in the tweet, one week before, during, and one week after the tweet was posted.
+  - Committing: The number of committing by the GitHub user mentioned in the tweet, one week before, during, and one week after the tweet was posted.
+  - Submitting pull request review: The number of submitting pull request reviews by the GitHub user mentioned in the tweet, one week before, during, and one week after the tweet was posted.
+  - Opening discussion: The number of opening discussions by the GitHub user mentioned in the tweet, one week before, during, and one week after the tweet was posted.
+  - None: If the GitHub user has no above activities in the week before, during, and after the tweet's posting, then None will be set to 1.
 - Script: [get_activity_different_time_duration.ipynb](./scripts/Contribution_activities/get_activity_different_time_duration.ipynb) it is a script that retrieves all github user's activity that occurred a week before, after, and within a week of posting the tweet. And [categorize_activities.ipynb](./scripts/Contribution_activities/categorize_activities.ipynb) it is a script that classify activities into 9 categories.
   - Note that [get_activity_different_time_duration.ipynb](./scripts/Contribution_activities/get_activity_different_time_duration.ipynb) must be executed before [categorize_activities.ipynb](./scripts/Contribution_activities/categorize_activities.ipynb).
 
@@ -66,7 +88,30 @@ The outcome data, in CSV format, specifically for Propensity Score Matching (PSM
 - [GitHub Sponsors tweets](./data/Tweets/GithubSponsors_tweets.csv): `GithubSponsors_tweets.csv` is a CSV file that contains 10,440 tweets that include links to GitHub Sponsors except for links to Paypal, Open Collective, and Patreon.
 - [Paypal Tweets](./data/Tweets/Paypal_tweets.csv): `Paypal_tweets.csv` is a CSV file that contains 4 tweets that include links to `paypal.com/paypalme/` and `github.com`, but no link to Github Sponsors.
 - [Open Collective Tweets](./data/Tweets/OpenCollective_tweets.csv): `OpenCollective_tweets.csv` is a CSV file that contains 88 tweets that include links to `opencollective.com/` and `github.com,` but no link to Github Sponsors.
-- [Patreon Tweets](./data/Tweets/Patreon_tweets.csv): `Patreon_tweets.csv` is a CSV file that contains 228 tweets that include links to `patreon.com/` except Patreon posts (i.e., `patreon.com/posts/` ) and `github.com` , but no link to Github Sponsors.
+- [Patreon Tweets](./data/Tweets/Patreon_tweets.csv): `OpenCollective_tweets.csv` is a CSV file that contains 228 tweets that include links to `patreon.com/` except Patreon posts (i.e., `patreon.com/posts/` ) and `github.com` , but no link to Github Sponsors.
+- For each column in `GithubSponsors_tweets.csv`:
+  - Tweet_Url: The tweets contain a link to the GitHub Sponsors profile page.
+  - Language: The language used in the tweet.
+  - Time: The time the tweet was posted.
+  - User_Last_Update: The last time the user had activities.
+  - Tweet_Text: The plain text in the tweet post.
+  - Sponsor_Type: The type of GitHub user mentioned in the post.
+  - \# Retweets: The number of retweets for this tweet.
+  - \# Replies: The number of replies to this tweet.
+  - \# Likes: The number of likes for this tweet.
+  - GH_Link_Type: What the GitHub link included in the tweet is about (e.g., related to a repository, a pull request, sponsor, etc.).
+
+- For each column in `Paypal_tweets.csv`, `OpenCollective_tweets.csv`, `OpenCollective_tweets.csv`:
+  - Tweet_Url: The tweets contain a link to the GitHub Sponsors profile page.
+  - Language: The language used in the tweet.
+  - Time: The time the tweet was posted.
+  - Tweet_Text: The plain text in the tweet post.
+  - \# Retweets: The number of retweets for this tweet.
+  - \# Replies: The number of replies to this tweet.
+  - \# Likes: The number of likes for this tweet.
+  - Links: All links included in the tweet.
+  - GH_Link_Type: What the GitHub link included in the tweet is about (e.g., related to a repository, a pull request, sponsor, etc.).
+
 - Script: [find_tweets_paypal.ipynb](./scripts/Tweets/find_tweets_paypal.ipynb) it is a script that retrieves tweets that include links to `paypal.com/paypalme/` and `github.com`, but no link to Github Sponsors. [find_tweets_opencollective.ipynb](./scripts/Tweets/find_tweets_opencollective.ipynb) it is a script that retrieves tweets that include links to `opencollective.com/` and `github.com`, but no link to Github Sponsors. [find_tweets_patreon.ipynb](./scripts/Tweets/find_tweets_patreon.ipynb) it is a script that retrieves tweets that include links to `patreon.com/` except Patreon posts (i.e., `patreon.com/posts/` ) and `github.com`, but no link to Github Sponsors.
 
 
@@ -76,6 +121,16 @@ The outcome data, in CSV format, specifically for Propensity Score Matching (PSM
 
 ### RQ2.3
 - [PSM Data](./data/PSM/PSMdata.csv): `PSMdata.csv` is a CSV file that contains values of 568 developers for propensity score matching.
+  - treatment: 0 represents the control group and 1 the treatment group.
+  - sponsors: The number of sponsors the user has.
+  - repositories: The number of repositories the user has.
+  - sponsoring: The number of user the user is sponsoring.
+  - openedPRs: The number of pull requests the user opened.
+  - reviewedPRs: The number of pull requests the user reviewed.
+  - followers: The number of followers the user has.
+  - organizations: The number of organizations the user joined.
+  - language: The main programming language the user uses.
+
 - Script: [get_PSM_data.ipynb](./scripts/PSM/get_PSM_data.ipynb) it is a script that retrieves the data for PSM, which contains the number of repositories owned by the user, the number of the given user is followed by, the number of organizations the user belongs to, the number of pull requests associated with this user, and the number of users is sponsoring, user's pull request review contributions (returns the most recently submitted review for each PR reviewed by the user) and user's primary language.
   - We executed the following script for PSM:
   ```
